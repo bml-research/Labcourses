@@ -13,3 +13,4 @@ $$\frac{x}{\mu} \cdot \mu x$$
 MathJax included  
 Bla  
 Test2
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
