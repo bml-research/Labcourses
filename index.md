@@ -1,5 +1,7 @@
 ![Hanze](hanze/hanze.png)
 
+![Hanze](hanze.png)
+
 # Laboratory courses
 
 ## Main Page
