@@ -2,6 +2,8 @@
 
 ![Hanze](hanze.png)
 
+# BLA
+
 # Laboratory courses
 
 ## Main Page
