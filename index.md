@@ -1,8 +1,6 @@
 ![Hanze](./hanze/hanze.png)
 
-![Hanze](hanze.png)
-
-# BLA2
+# BLA3
 
 # Laboratory courses
 
