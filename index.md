@@ -1,11 +1,11 @@
-![Hanze](/hanze/hanze.png)
+![Hanze](hanze/hanze.png)
 
 # Laboratory courses
 
 ## Main Page
 ---
 
-![Pic](/impression/impression.jpg)
+![Pic](impression/impression.jpg)
 
 ## Courses
 - [Crash Course](./short/short.html) (3 days of 6 hours each)
