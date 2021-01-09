@@ -5,7 +5,6 @@
 ## Main Page
 ---
 
-![Pic](/impression/impression.jpg)
 
 ## Courses
 Test
