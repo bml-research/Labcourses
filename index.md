@@ -1,13 +1,21 @@
-![Hanze](/hanze/hanze.png)
+![Hanze](./hanze/hanze.png)
 
 # Laboratory courses
 
 ## Main Page
 ---
 
+![Pic](./impression/impression.jpg)
 
 ## Courses
-Test
+- [Crash Course](./short/short.md) (3 days of 6 hours each)
+- [VMT](./vmt/vmt.md) (3 days of 6 hours each)
+- [Nucleic acid isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) (1 day of 6 hours)
+- [PCR](./pcr/pcr.md) (2 days of 6 hours each)
+- [ELISA](./elisa/elisa.md) (1 day of 6 hours)
+- [Western Blot](./western_blot/western_blot.md) (2 days of 6 hours each)
+- [Cloning](./cloning/cloning.md) (3 days of 6 hours each)
+- [CRISPR-Cas9](./crispr/crispr.md) (9 days of 6 hours each)
 
 --- 
 
@@ -15,4 +23,3 @@ Test
 >This web page is distributed under the terms of the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 >Creative Commons License: CC BY-SA 4.0.
 
-[link to test](test.md)
