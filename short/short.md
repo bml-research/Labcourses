@@ -29,14 +29,14 @@ The following items will be clickable links with short web pages or short instru
 ## Experiments
 
 ### Day 1
-- [Calibration curve copper sulphate and linear regression analysis](./calibration_curve_copper.html)
-- [Gram-staining of *E.coli*](gram_staining.html)
+- [Calibration curve copper sulphate and linear regression analysis](./calibration_curve_copper.md)
+- [Gram-staining of *E.coli*](gram_staining.md)
 
 ### Day 2
-- [Preparation of buffers and growth of *E. coli* at different pH values](buffers_growth.html)
+- [Preparation of buffers and growth of *E. coli* at different pH values](buffers_growth.md)
 
 ### Day 3
-- [Measuring protein concentration using the Lowry method](lowry.html)
+- [Measuring protein concentration using the Lowry method](lowry.md)
 
 --- 
 
