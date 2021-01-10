@@ -1,6 +1,6 @@
 ![Hanze](../hanze/hanze.png)
 
-[Back to the home page of the crash course](./short.md)
+[Back to the home page](../index.md)
 
 # Crash course basic laboratory skills
 
@@ -40,5 +40,6 @@ The following items will be clickable links with short web pages or short instru
 
 --- 
 
-[Back to the home page of the crash course](./short.md)
+[Back to the home page](../index.md)
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
