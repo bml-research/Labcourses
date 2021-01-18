@@ -20,7 +20,8 @@
 Von Willebrand factor (VWF) plays a major part in the primary haemostasis process, where bleeding is stopped. In this process, VWF attaches to the damaged blood vessel wall, where it undergoes a conformational change and develops affinity for glycoprotein Ib/V/IX on the surface of the thrombocyte (see Figure 1). 
 
 ![Figure 1](./pics/fig1.jpg)
- *<sub>Figure 1: VWF in primary haemostasis</sub>*
+
+*<sub>Figure 1: VWF in primary haemostasis</sub>*
 
 When shear rates are high in the blood vessels, in particular, VWF is essential in helping blood platelets adhere to the damaged vessel wall in the early stages of haemostasis.
 
@@ -44,7 +45,7 @@ First, VWF polyclonal antibodies are bound to the wells of a microtiter plate. T
 
 ![Figure 3](./pics/fig3.jpg)
 
-*Figure 3: Calibration curve for the VWF:Ag assay*
+*<sub>Figure 3: Calibration curve for the VWF:Ag assay</sub>*
 
 During this practical, you will determine the plasma VWF concentration of several blood samples.
 
