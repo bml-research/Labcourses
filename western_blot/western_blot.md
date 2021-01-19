@@ -91,7 +91,40 @@ In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 4). 
 
 ## Protocol
 
+**Step 1: Wash and distribute the samples**
 
+Spin the two samples in an Eppendorf centrifuge, then remove the supernatant. Add 1 ml PBS to the pellets, resuspend and spin again (1 minute at maximum speed) Perform this procedure twice. Now that you have washed the samples twice, resuspend the pellets in 200 µl PBS. 
+
+
+**Step 2: TCA precipitation**
+
+The proteins can now be isolated from the samples. Do so by using a strong TCA solution. Show your lecturer that you have looked up the safety measures for using TCA before embarking on this protocol.
+	
+Published by: McCammon MT, McNew JA, Willy PJ, Goodman JM (1994) *J Cell Biol* 124:915-925
+
+You will need the following:  
+- 25% (w/v) trichloroacetic acid (ready for use)
+- 80% (v/v) acetone in water (–20 oC) (ready for use)
+- 1% (w/v) SDS/0.1 N NaOH (ready for use)
+- 2x SDS sample buffer to which 5% DTT must be added (the buffer is ready for use; you must add the DTT yourself)
+
+Method:  
+1. Add equal amounts (200 µl) of 25% TCA solution to your samples and mix.
+2. Incubate on ice for at least 30 minutes.
+3. Centrifuge at 14,000 rpm at 4°C for 15 minutes and remove the supernatant. 
+4. Wash the precipitate twice with 500 μl cold 80% acetone, centrifuge for 5 minutes at a time, at 14,000 rpm at 4°C.
+5. Gently remove the supernatant and allow the pellet to air-dry, or alternatively, use a SpeedVac.
+6. Dissolve the pellet in 50 μl water. Vortex. 
+7. Perform a Lowry assay, which will allow you to load equal amounts of protein on your gels.
+
+**Step 3: SDS-PAGE, prepare two gels:**
+
+Building the system into which you will pour the gel (Figure 5):
+
+1. Find a short glass plate and a slightly longer one. The long glass plate will feature two ‘spacers’, which will determine the thickness of the gel layer. Set them to 0.75 mm.
+2. Place the two plates into the casting system, with the short plate facing forward. Make sure that both plates are at the same level at the bottom.
+3. Secure the glass plates by sliding the clamps into place. 
+4. Place the glass plates into the casting system. The clamp at the top of the system presses the glass plate onto the grey rubber strips, thus preventing leakage. Optional: test the system for leakage by filling it will water or ethanol. Find a comb that goes with your system, to create slots later. Please note that your comb must be 0.75 mm thick.
 
 
 --- 
