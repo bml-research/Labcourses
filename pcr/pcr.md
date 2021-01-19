@@ -41,7 +41,7 @@ The PCR reaction is set up in a small tube and a thermal cycler will facilitate 
 After the PCR reaction, a small part of the reaction mixture can be analyzed by agarose electrophoresis. This method is used to separate DNA molecules according to mass. The agarose gel is a three-dimensional matrix formed of agarose molecules aggregated into a three-dimensional structure. This forms a maze of channels and pores through which DNA molecules can pass. DNA migrates towards a positive charge because the molecule is negatively charged due to its abundant phosphate groups. See Figure 2 for loading of an agarose gel.
 
 ![Figure 2](./pics/fig2.jpg)
-*<sub>Figure 1: Loading of an agarose gel. Source: Wikipedia.org.</sub>*
+*<sub>Figure 2: Loading of an agarose gel. Source: Wikipedia.org.</sub>*
 
 DNA is visualized by staining with Midori Green, which intercalates into the major grooves of the DNA and fluoresces under UV light. When stained with ethidium bromide, the gel is viewed with an ultraviolet (UV) transilluminator. The UV light excites the electrons within the aromatic ring of ethidium bromide, and once they return to the ground state, light is released, making the DNA and ethidium bromide complex fluoresce (Figure 2).
 
