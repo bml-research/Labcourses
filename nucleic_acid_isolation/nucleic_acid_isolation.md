@@ -70,9 +70,8 @@ At the end of the procedure, we will quantify the amount of plasmid isolated usi
 At the end:
 >Quantify the amount of plasmid DNA using a nanodrop. In addition, check the purity by inspecting the $\lambda$ 260/280 ratio (should be 1.8 < ratio < 2.0). See Figure 2 below as an example.  
 
-
 ![Figure 2](./pics/fig2.svg)
-*<sub>Figure 2: Optical density of nucleic acid sample. The important wavelengths of 260nm and 280nm are labeled.. Source: https://en.wikipedia.org/wiki/Nucleic_acid_quantitation.</sub>* 
+*<sub>Figure 2: Optical density of nucleic acid sample. The important wavelengths of 260nm and 280nm are labeled. Source: Wikipedia.org</sub>* 
 
 --- 
 
