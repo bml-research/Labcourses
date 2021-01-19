@@ -154,7 +154,7 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 10. The gels are now ready for use.
 11. Thoroughly rinse the casting frame and stand with demineralised water.
 
-
+STOP
 --- 
 
 [Back to the main page](../index.md)
