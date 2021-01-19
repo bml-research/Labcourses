@@ -50,16 +50,16 @@ During this practical, you will determine the plasma VWF concentration of severa
 
 ### Reagents
 - Buffer A: PBS (phosphate-buffered sodium chloride) (a 1x concentrate buffer is ready for use)
-  -	$1.3 \ mM \ NaH_2PO_4 \cdot H_2O$
-  -	$9.0 \ mM \ Na_2HPO_4\cdot 2H_2O$
-  -	$140.0 \ mM \ NaCl$: 
+  -	1.3 mM $NaH_2PO_4 \cdot H_2O$
+  -	9.0 mM $Na_2HPO_4\cdot 2H_2O$
+  -	140.0 mM $NaCl$: 
 - Buffer B: wash and dilution buffer, pH 7.2 (a 5x concentrate buffer is ready for use)
-  -	$2.5 \ mM \ NaH_2PO_4 \cdot H_2O$
-  -	$7.5 \ mM \ Na_2HPO_4\cdot 2H_2O$
-  -	$500 \ mM \ NaCl$ 
-  -	$0.1\% \ (w/v) BSA$
-  -	$0.1\% \ (v/v) \ Tween \ 20$ 
-  -	$2.0 \ mM \ EDTA$ 
+  -	2.5 mM $NaH_2PO_4 \cdot H_2O$
+  -	7.5 mM $Na_2HPO_4\cdot 2H_2O$
+  -	500 mM $NaCl$ 
+  -	0.1% (w/v) BSA
+  -	0.1% (v/v) Tween 20 
+  -	2.0 mM  EDTA
   -	Add EDTA from a 0.2 M stock solution. To dissolve EDTA, adjust the stock solution to pH 8.0 by adding NaOH.
 
 Coating:
