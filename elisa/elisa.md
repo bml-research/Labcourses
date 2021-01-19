@@ -125,7 +125,7 @@ See figure 4 for a loading schedule.
   >The calibration curve must be (partially) sigmoidal. The sample dilution ratios were selected in such a way that most of the measured extinctions will end up in the straight part of the curve, because that is where the assay will be most accurate. Optimal extinction of the highest calibration point is at approximately 1,500. Above that, the curve becomes much flatter.
 
 ### Processing the results
->The measured extinction coefficients of the standard dilutions are plotted against the standard concentrations LOG-LOG (i.e. using logarithmic scales on both the horizontal and vertical axes). The samples are read and VWF:Ag is calculated with a dilution correction factor. Remember that NP 1:50 contains 100% VWF:Ag by definition.
+The measured extinction coefficients of the standard dilutions are plotted against the standard concentrations LOG-LOG (i.e. using logarithmic scales on both the horizontal and vertical axes). The samples are read and VWF:Ag is calculated with a dilution correction factor. Remember that NP 1:50 contains 100% VWF:Ag by definition.
 
 --- 
 
