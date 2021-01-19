@@ -43,7 +43,7 @@ After the PCR reaction, a small part of the reaction mixture can be analyzed by 
 ![Figure 2](./pics/fig2.jpg)
 *<sub>Figure 2: Loading of an agarose gel. Source: Wikipedia.org.</sub>*
 
-DNA is visualized by staining with Midori Green, which intercalates into the major grooves of the DNA and fluoresces under UV light. When stained with ethidium bromide, the gel is viewed with an ultraviolet (UV) transilluminator. The UV light excites the electrons within the aromatic ring of ethidium bromide, and once they return to the ground state, light is released, making the DNA and ethidium bromide complex fluoresce (Figure 2).
+DNA is visualized by staining with Midori Green, which intercalates into the major grooves of the DNA and fluoresces under UV light. When stained with ethidium bromide, the gel is viewed with an ultraviolet (UV) transilluminator. The UV light excites the electrons within the aromatic ring of ethidium bromide, and once they return to the ground state, light is released, making the DNA and ethidium bromide complex fluoresce (Figure 3).
 
 ![Figure 3](./pics/fig3.jpg)
 *<sub>Figure 3: Visualization of an agarose gel. Source: Wikipedia.org.</sub>*
@@ -51,7 +51,7 @@ DNA is visualized by staining with Midori Green, which intercalates into the maj
 ## The experiment
 We will use the pHIPH4 plasmid to PCR amplify the Hygromycine gene using a forward and reverse primer. 
 
-Primer sequences:
+Primer sequences:  
 •	KO-SUC2-f: ATGCTTTTGCAAGCTTTCCTTTTCCTTTTGGCTGGTTTTGCCCACACACCATAGCTTCAA
 •	KO-SUC2-r: CTATTTTACTTCCCTTACTTGGAACTTGTCAATGTAGAACCGTTTTCGACACTGGATGGC
 
@@ -123,7 +123,7 @@ PCR conditions:
 
 **Please Note:**
 
-- Make sure you only fill each slot to the halfway level, since the sample may run over if you do so.
+- Make sure you fill each slot halfway, since the sample may run over.
 - Insert the pipette deep into the slots to load the samples, then slowly press the plunger downwards. Make sure the pipette does not emit any air bubbles. Make sure you do not damage the gel.
 - Do not allow the blue agent to spread too far. In 1.5% agarose gel, the colouring agent will run in the same way as a the DNA fragment.
 - View the gel under a UV source and take a picture of the gel with your mobile phone. Use this photo to determine the results in your logbook. Make sure that you have a clear photo that you can use to determine the results.
