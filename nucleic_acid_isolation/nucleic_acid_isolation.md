@@ -10,8 +10,8 @@
 
 ## Learning outcomes
 - Pipetting in μl ranges
-- Learning the principle of DNA or RNA isolation
-- Quantification of DNA or RNA using the nanodrop
+- Learning the principle of plasmid DNA isolation
+- Quantification of DNA using the nanodrop
 
 
 ## Preparation
