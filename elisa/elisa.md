@@ -82,6 +82,12 @@ OPD substrate:
       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
       processEscapes: true
     }
+    "HTML-CSS" : {
+      availableFonts : ["STIX"],
+      preferredFont : "STIX",
+      webFont : "STIX-Web",
+      imageFont : null
+    }
   });
 </script>
     
