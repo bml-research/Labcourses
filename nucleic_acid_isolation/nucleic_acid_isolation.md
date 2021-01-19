@@ -25,12 +25,12 @@ The isolation of plasmid DNA from microorganisms like *Escherichia coli* is a fu
 
 Plasmids are mini-chromosomes of sorts. The main difference with ‘real’ chromosomes is the size: bacterial chromosomes are generally several millions of base pairs in size, whereas most plasmids are only several thousands of base pairs in size.
 
-During this practical, we will isolate a plasmid (pUC18 and pHIPH4) from *E. coli* using the alkaline lysis principle according to Birnboim. See Figure 1 for a vector map of pHIPH4. 
+During this practical course, we will isolate a plasmid (pUC18 and pHIPH4) from *E. coli* using the alkaline lysis principle according to Birnboim. See Figure 1 for a vector map of pHIPH4. 
 
 ![Figure 1](./pics/fig1.png)
 *<sub>Figure 1: Plasmid map of pHIPH4. Source: Addgene.org.</sub>* 
 
-During alkaline lysis, a strong alkaline solution consisting of the detergent sodium dodecyl sulfate (SDS) and a strong base (NaOH) is added The detergent disrupts cell membranes and allows the alkali to contact and denature both chromosomal and plasmid DNA. Thereafter, potassium acetate is added. This acidifies the solution and allows the renaturing of plasmid DNA, but not chromosomal DNA. The chromosomal DNA precipitates and can be seperated from the plasmid DNA. Plasmid DNA will subsequently be precipitated by isopropanol and dissolved in sterile water.
+During alkaline lysis, a strong alkaline solution consisting of the detergent sodium dodecyl sulfate (SDS) and a strong base (NaOH) is added The detergent disrupts cell membranes and allows the alkali to contact and denature both chromosomal and plasmid DNA. Thereafter, potassium acetate is added. This acidifies the solution and allows the renaturing of plasmid DNA, but not chromosomal DNA. The chromosomal DNA precipitates and can be seperated from the plasmid DNA. Plasmid DNA will subsequently be precipitated by isopropanol, washed with ethanol and dissolved in sterile water.
 
 At the end of the procedure, we will quantify the amount of plasmid isolated using spectrophotometric analysis using the nanodrop.
 
