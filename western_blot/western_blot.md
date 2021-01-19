@@ -87,19 +87,16 @@ In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 4). 
 - Before you get started on the experiment, place Bio-Rad’s Bio-Ice cooling units, filled with water, in the freezer (−20°C).
 - Make sure you always know which side of your blot the proteins are on, and also make sure that your blot remains moist at all times. Work in a 50 ml Greiner tube where possible.
 
-
-
 ## Protocol
 
 **Step 1: Wash and distribute the samples**
 
 Spin the two samples in an Eppendorf centrifuge, then remove the supernatant. Add 1 ml PBS to the pellets, resuspend and spin again (1 minute at maximum speed) Perform this procedure twice. Now that you have washed the samples twice, resuspend the pellets in 200 µl PBS. 
 
-
 **Step 2: TCA precipitation**
 
 The proteins can now be isolated from the samples. Do so by using a strong TCA solution. Show your lecturer that you have looked up the safety measures for using TCA before embarking on this protocol.
-	
+
 Published by: McCammon MT, McNew JA, Willy PJ, Goodman JM (1994) *J Cell Biol* 124:915-925
 
 You will need the following:  
@@ -136,9 +133,9 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 ![Figure 6](./pics/fig6.png)
 *<sub>Figure 6. Gel formulation.</sub>*
 
-(1) Ready for use: Stacking gel buffer: 0.5 M Tris‐HCl, pH 6.8= 6 gram Tris base, 60 ml Millipore water, use 6M HCI to ensure the mix has a pH of 6.8, then adjust volume to 100 ml with Millipore water. Store at 4°C.
+1. Ready for use: Stacking gel buffer: 0.5 M Tris‐HCl, pH 6.8= 6 gram Tris base, 60 ml Millipore water, use 6M HCI to ensure the mix has a pH of 6.8, then adjust volume to 100 ml with Millipore water. Store at 4°C.
 
-(2) Ready for use: Separation gel buffer:1.5 M Tris-HCl, pH 8.8 = 27.83 gram Trisbase, 80 ml Millipore water, use 6M HCI to ensure the mix has a pH of 8.8, then adjust volume to 150 ml with Millipore water. Store at 4°C.
+2. Ready for use: Separation gel buffer:1.5 M Tris-HCl, pH 8.8 = 27.83 gram Trisbase, 80 ml Millipore water, use 6M HCI to ensure the mix has a pH of 8.8, then adjust volume to 150 ml with Millipore water. Store at 4°C.
 
 **Preparing and pouring the separation and stacking gels:**
 
@@ -154,8 +151,7 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 10. The gels are now ready for use.
 11. Thoroughly rinse the casting frame and stand with demineralised water.
 
-STOP
---- 
+---
 
 [Back to the main page](../index.md)
 
