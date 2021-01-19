@@ -136,6 +136,25 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 ![Figure 6](./pics/fig6.png)
 *<sub>Figure 6. Gel formulation.</sub>*
 
+(1) Ready for use: Stacking gel buffer: 0.5 M Tris‐HCl, pH 6.8= 6 gram Tris base, 60 ml Millipore water, use 6M HCI to ensure the mix has a pH of 6.8, then adjust volume to 100 ml with Millipore water. Store at 4°C.
+
+(2) Ready for use: Separation gel buffer:1.5 M Tris-HCl, pH 8.8 = 27.83 gram Trisbase, 80 ml Millipore water, use 6M HCI to ensure the mix has a pH of 8.8, then adjust volume to 150 ml with Millipore water. Store at 4°C.
+
+**Preparing and pouring the separation and stacking gels:**
+
+1. Prepare the separation gel solution by adding all the reagents (see Table 1), except for the 10% APS and TEMED. Please note: TEMED is a foul-smelling solution. Do not keep this bottle open any longer than strictly necessary and be sure to work under the fume hood.
+2. Make sure that you have all the pipettes required (including tips) ready at hand before continuing. Also check that there is water-saturated isobutanol on hand.
+3. Add 50 µl 10% (w/v) APS (to be prepared fresh every day) and 5 µl TEMED (for 10 ml gel) and mix thoroughly but gently (prevent the formation of air bubbles). The addition of the 10% APS and TEMED will cause the gel to polymerise. Fill the gel chamber to approximately 2 mm under the green line. 
+4. Using a pipette, carefully transfer a thin layer of water-saturated isobutanol directly above the gel to prevent the gel from drying out. 
+5. Allow the gel to polymerise for 45 minutes to 1 hour. Carefully remove all the isobutanol using a piece of filter paper. 
+6. Prepare the stacking gel solution by adding all the reagents (see Table 1), except for the 10% APS and TEMED. 
+7. Add 50 µl 10% APS and 10 µl TEMED (for 10 ml gel) and mix gently (prevent the formation of air bubbles). Fill the gel chamber to the top of the short glass plate.
+8. Place the comb inside the gel. Make sure there are no air bubbles at the bottom of the slots, because the gel will not polymerise in those spots.
+9. Allow the gel to polymerise for 45 minutes to 1 hour. 
+10. The gels are now ready for use.
+11. Thoroughly rinse the casting frame and stand with demineralised water.
+
+
 --- 
 
 [Back to the main page](../index.md)
