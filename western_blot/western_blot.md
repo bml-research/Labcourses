@@ -126,11 +126,15 @@ Building the system into which you will pour the gel (Figure 5):
 3. Secure the glass plates by sliding the clamps into place. 
 4. Place the glass plates into the casting system. The clamp at the top of the system presses the glass plate onto the grey rubber strips, thus preventing leakage. Optional: test the system for leakage by filling it will water or ethanol. Find a comb that goes with your system, to create slots later. Please note that your comb must be 0.75 mm thick.
 
+![Figure 5](./pics/fig5.png)
+*<sub>Figure 5. Constructing the Bio-Rad gel-casting system.</sub>*
+
 The thickness of the gel layer is determined by the width of the spacers. We will use a gel layer 0.75 mm thick.
 
 Determine which percentage gel you wish to prepare and calculate the amounts needed in the table below. All the solutions you will need will be ready for use in the cold room. Make sure you prepare two gels: one gel to be used for the western blot, and one control gel, which will undergo Coomassie staining. 
 
-
+![Figure 6](./pics/fig6.png)
+*<sub>Figure 6. Gel formulation.</sub>*
 
 --- 
 
