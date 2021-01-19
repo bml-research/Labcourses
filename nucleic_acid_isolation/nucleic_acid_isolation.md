@@ -51,6 +51,7 @@ At the end of the procedure, we will quantify the amount of plasmid isolated usi
   - 5 M KAc
   - 11.5 ml 100% HAc
 
+- Culture of *E. coli* that contains the desired plasmid. Cultured overnight in LB medium with the correct antibiotic (Ampicillin concentration is 100 µg/mL). Culture in max. 1/5th of erlenmeyer volume in a shaker at 37°C at 200 rpm. 
 
 ## Protocol
 
