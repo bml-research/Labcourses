@@ -78,8 +78,8 @@ Set up a series of PCR reactions. Include a negative control and a positive cont
 The PCR mix for 50 µL should contain the following:
 - 5 µL key buffer
 - 1 µl dNTP mix (10 mM each). Create mix from 100 mM stock.
-- 100 pmol forward primer. Pipet from 10 μM stock.
-- 100 pmol reverse primer. Pipet from 10 μM stock.
+- 100 pmol forward primer. Pipet from 100 μM stock.
+- 100 pmol reverse primer. Pipet from 100 μM stock.
 - 0.4 µl TEMPase Hot Start DNA Polymerase
 - PCR-grade $H_2O$ up to 49 µl.
 
