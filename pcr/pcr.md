@@ -52,8 +52,8 @@ DNA is visualized by staining with Midori Green, which intercalates into the maj
 We will use the pHIPH4 plasmid to PCR amplify the Hygromycine gene using a forward and reverse primer. 
 
 Primer sequences:  
-•	KO-SUC2-f: ATGCTTTTGCAAGCTTTCCTTTTCCTTTTGGCTGGTTTTGCCCACACACCATAGCTTCAA
-•	KO-SUC2-r: CTATTTTACTTCCCTTACTTGGAACTTGTCAATGTAGAACCGTTTTCGACACTGGATGGC
+•	KO-SUC2-f: ATGCTTTTGCAAGCTTTCCTTTTCCTTTTGGCTGGTTTTGCCCACACACCATAGCTTCAA  
+•	KO-SUC2-r: CTATTTTACTTCCCTTACTTGGAACTTGTCAATGTAGAACCGTTTTCGACACTGGATGGC  
 
 The [sequence of pHIPH4](https://www.addgene.org/117685/) can be found at the addgene website.
 
@@ -78,8 +78,8 @@ Set up a series of PCR reactions. Include a negative control and a positive cont
 The PCR mix for 50 µL should contain the following:
 - 5 µL key buffer
 - 1 µl dNTP mix (10 mM each). Create mix from 100 mM stock.
-- 100 pmol forward primer. Pipet from 100 μM stock.
-- 100 pmol reverse primer. Pipet from 100 μM stock.
+- 10 pmol forward primer. Pipet from 10 μM stock.
+- 10 pmol reverse primer. Pipet from 10 μM stock.
 - 0.4 µl TEMPase Hot Start DNA Polymerase
 - PCR-grade $H_2O$ up to 49 µl.
 
