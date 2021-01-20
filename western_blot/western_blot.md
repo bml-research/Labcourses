@@ -28,14 +28,14 @@ With *H. polymorpha*, peroxisomes are involved in growth on methanol. If methano
 
 The reaction pattern is as follows: 
 
-Oxidation half-reaction:
-$CH_3OH + H_2O → CO_2 + 6H^+ + 6e^-$
+Oxidation half-reaction:  
+$CH_3OH + H_2O → CO_2 + 6H^+ + 6e^-$  
 
-Reduction half-reaction:
-$O_2 + 4H^+ + 4e^- → 2H_2O$
+Reduction half-reaction:  
+$O_2 + 4H^+ + 4e^- → 2H_2O$  
 
-Total reaction:
-$2CH_3OH + 3O_2 → 2CO_2 + 4H_2O$
+Total reaction:  
+$2CH_3OH + 3O_2 → 2CO_2 + 4H_2O$  
 
 In the cell, this reaction involves several steps. First methanol is broken down to methanal (Figure 1). This reaction is catalysed by alcohol oxidase. Highly reactive hydrogen peroxide is released in the progress. Catalase causes hydrogen peroxide to be converted into water and hydrogen. Methanal is converted into carbon dioxide and water by oxygen.
 
@@ -49,6 +49,7 @@ The purpose of your experiment is to study peroxisome biogenesis. To start with,
 You will use two methods to determine whether the peroxisomes are indeed formed when grown on methanol: visual inspection by means of fluorescence microscopy and a western blot analysis of the GFP-SKL protein (which is peroxisomal in this strain).
 
 ### Background information on SDS-PAGE:
+
 Proteins are charged macromolecules, meaning they can be separated based on charge and molecular weight. Proteins are typically separated by means of a polyacrylamide (PAA) gel. PolyAcrylamide Gel Electrophoresis is also referred to as ‘PAGE’. 
 
 Before the proteins can be placed on gel, they must first be isolated from the *H. polymorpha* samples. This is effected by means of TCA precipitation. The high concentration of TCA causes the cells to be lysated. As a result, their contents are released. The proteins precipitate due to their low pH, after which they are washed with ice-cold acetone. The proteins are then dissolved in a Laemmli buffer.
@@ -89,11 +90,11 @@ In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 4). 
 
 ## Protocol
 
-**Step 1: Wash and distribute the samples**
+### Step 1: Wash and distribute the samples
 
 Spin the two samples in an Eppendorf centrifuge, then remove the supernatant. Add 1 ml PBS to the pellets, resuspend and spin again (1 minute at maximum speed) Perform this procedure twice. Now that you have washed the samples twice, resuspend the pellets in 200 µl PBS. 
 
-**Step 2: TCA precipitation**
+### Step 2: TCA precipitation
 
 The proteins can now be isolated from the samples. Do so by using a strong TCA solution. Show your lecturer that you have looked up the safety measures for using TCA before embarking on this protocol.
 
@@ -114,7 +115,7 @@ Method:
 6. Dissolve the pellet in 50 μl water. Vortex. 
 7. Perform a Lowry assay, which will allow you to load equal amounts of protein on your gels.
 
-**Step 3: SDS-PAGE, prepare two gels:**
+### Step 3: SDS-PAGE, prepare two gels:
 
 Building the system into which you will pour the gel (Figure 5):
 
@@ -133,11 +134,11 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 ![Figure 6](./pics/fig6.png)
 *<sub>Figure 6. Gel formulation.</sub>*
 
-1. Ready for use: Stacking gel buffer: 0.5 M Tris‐HCl, pH 6.8= 6 gram Tris base, 60 ml Millipore water, use 6M HCI to ensure the mix has a pH of 6.8, then adjust volume to 100 ml with Millipore water. Store at 4°C.
+- Ready for use: Stacking gel buffer: 0.5 M Tris‐HCl, pH 6.8= 6 gram Tris base, 60 ml Millipore water, use 6M HCI to ensure the mix has a pH of 6.8, then adjust volume to 100 ml with Millipore water. Store at 4°C.
 
-2. Ready for use: Separation gel buffer:1.5 M Tris-HCl, pH 8.8 = 27.83 gram Trisbase, 80 ml Millipore water, use 6M HCI to ensure the mix has a pH of 8.8, then adjust volume to 150 ml with Millipore water. Store at 4°C.
+- Ready for use: Separation gel buffer:1.5 M Tris-HCl, pH 8.8 = 27.83 gram Trisbase, 80 ml Millipore water, use 6M HCI to ensure the mix has a pH of 8.8, then adjust volume to 150 ml with Millipore water. Store at 4°C.
 
-**Preparing and pouring the separation and stacking gels:**
+#### Preparing and pouring the separation and stacking gels:
 
 1. Prepare the separation gel solution by adding all the reagents (see Table 1), except for the 10% APS and TEMED. Please note: TEMED is a foul-smelling solution. Do not keep this bottle open any longer than strictly necessary and be sure to work under the fume hood.
 2. Make sure that you have all the pipettes required (including tips) ready at hand before continuing. Also check that there is water-saturated isobutanol on hand.
@@ -150,6 +151,108 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 9. Allow the gel to polymerise for 45 minutes to 1 hour. 
 10. The gels are now ready for use.
 11. Thoroughly rinse the casting frame and stand with demineralised water.
+
+#### Place the gels inside the mini-tank (Figure 7):
+
+1. Place the gel cassette sandwich into the electrode assembly, with the short glass plate facing inwards.
+2. Place the gel cassette sandwich along with the electrode assembly into the clamp system. 
+3. Place the entire installation into the mini-tank of the Mini-PROTEAN 3 electrophoresis unit.
+4. Completely fill the inner chamber with running buffer. 
+5. Fill the mini-tank (the outer chamber) with 200-500 ml running buffer (see the indicator on the tank used).
+6. If necessary, the slots can be cleansed by injecting buffer into them.
+7. Check whether you can clearly see the slots. If not, mark them with sample buffer, a marker, or use Bio-Rad’s Sample-Loading Guide. Sometimes the slots will be more readily visible against a dark background. Ask your lecturer for their preferred method.
+
+![Figure 7](./pics/fig7.png)
+*<sub>Figure 7. Placing the gels inside the Bio-Rad electrophoresis system.</sub>*
+
+#### Loading samples into the slots
+
+1. Draw up a loading schedule that clearly indicates what you are going to transfer to which tube. Make sure you transfer the substances in a logical order.
+2. Using a P20 pipette, load equal amounts (see Lowry) of sample into the slots. Place the tip of your pipette above the slot. Load the samples slowly, so that you can actually see the samples fall into the slots. 
+3. Do not forget to place a marker (7 µl, Bio-Rad dual colour marker) on your gel, which will allow you to determine the sizes of the proteins in your bands later. This marker comes in the following band sizes: 10, 15, 20, <span style="color:#800080">25</span>, 37, 50, <span style="color:#800080">75</span>, 100, 150 and 250 kD.
+4. Place the lid on the mini-tank. Secure the lid so as to prevent disorientation. 
+5. Run on 200 volt. The electrophoresis procedure is completed once the pre-stained marker is properly separated and once the blue front has run off the gel completely or nearly completely. This will take about one hour. Keep a close eye on the area where the protein you are seeking to detect is located. 
+
+### Step 4: Coomassie staining
+
+One of the two gels will be stained with Bio-Safe Coomassie stain (BC). The other gel will be used for the western blot and specific detection by means of antibodies. 
+
+1. Wash the gel 3 x 5 minutes in approximately 200 ml Millipore water. 
+2. Remove all the water and add Bio-Safe Coomassie stain, making sure that the gel is submerged completely. 
+3. Shake gently and incubate the gel in the stain overnight (at least one hour at room temperature).
+4. The following day: 
+5. Wash the gel 3 x 10 minutes in approximately 200 ml Millipore water (BC can be reused).
+6.	The gel can now be scanned between two sheets, using the ChemiDoc. If the results are clear, a GSM photo may suffice.
+
+>Please note: Residual SDS in the gel will cause increased background staining. Washing very thoroughly will remove the background.
+
+### Step 5: Western blot (wear gloves!)
+
+Use the other gel to perform the western blot. Blot the gel in transfer buffer A (5x concentrate: 72.9 gram glycine and 20 g Tris). You will find this 5x buffer ready made. Dilute it to a 1x concentrate. One litre per tank will suffice.
+
+1. Cut the membrane and the piece of filter paper to the size of the gel. For now, leave the protective foil around the membrane.
+2. Place the gel, the filter paper and the fibre pads in the transfer buffer for 5 minutes. 
+3. Briefly (1 to 3 seconds) place the membrane (without the protective foil) in methanol (do this under the fume hood, and dispose of waste as prescribed).
+4. Place the membrane in the transfer buffer and leave it there for 2 to 3 minutes.
+5. Prepare the gel sandwich. 
+6. Place the cassette, with the grey side facing down, on a clean and dry surface.
+7. Place a fibre pad saturated with transfer buffer on the grey side of the cassette.
+8. Place the filter paper on top of the fibre pad.
+9. Place the gel on top of the filter paper. (Make sure there are no air bubbles! If there are, use a glass rod to remove them.)
+10. Place the membrane on the gel.
+11. Place a piece of filter paper on top of the membrane.
+12. Complete the sandwich with a fibre pad saturated with transfer buffer.
+13. Carefully close the cassette (make sure the gel-and-filter-paper sandwich does not shift).
+14. Use the white slider to lock the sandwich.
+15. Place the Bio-Ice cooling unit into the buffer tank and fill the tank with 1x concentrate transfer buffer.
+16. If you are using the system in tandem with another pair, make sure your gels are the same thickness and both sandwiches have the right orientation.
+17. Place the lid on the buffer tank and connect to the power supply.
+18. Blot at 100 mA for 1 hour. If necessary, set a timer so that you can continue on Day 2. Or alternatively, set it to 30 volt overnight. Discuss this with your lecturer!
+19. Day 2: place the Bio-Ice cooling unit (now with fresh water) in the freezer.
+
+### Step 6: Antibody detection and staining reaction
+
+These are the solutions you will need; you must prepare these yourself.
+
+-	PBS wash solution:
+  Phosphate-buffered saline (1x PBS), can be found in the lab as a 1x, 5x of 10x concentrate solution.
+  Please note: Measure the pH and adjust as necessary!
+
+-	PBST wash solution:
+  You can prepare this solution by adding 0.1% Tween-20 (v/v) to the 1x PBS solution you have already prepared. 
+
+-	5% blocking solution:
+  5% (w/v) skim milk powder in PBST
+
+-	Primary antibody solution (reuse up to 10 times!):
+  1:5000 in PBST with 3% BSA (ready for use). Please note: After use you must place the diluted solution in the freezer to allow reuse by Group A.
+
+-	AP-labelled secondary antibody solution 
+  1:5000 (find on the internet and/or ask the lecturer whether this dilution ratio is correct) in PBST/5% skim milk (calculate the amount of antibody yourself, have the answer checked, then add). Make sure the tube containing the antibodies is on ice at all times!
+
+-	Detection solution
+  Just before use, add 200 μl of the NBT/BCIP stock solution to 10 ml 0.1 M Tris-HCl, pH 9.5 (20°C), 0.1 M NaCl, 0.05 M $MgCl_2$. 
+
+Procedure:
+
+1. After blotting, place the gel in the Bio-Safe Coomassie stain and gently agitate until the end of the day. Then wash with Millipore water for 10 minutes and perform a scan.
+2. Stain the blot with Ponceau S to determine whether the proteins are present and if there are any air bubbles (and if so, where). Perform a scan or take a photo.
+3. Wash the blot in 10 ml PBST in a 50 ml Greiner tube for 5 minutes by gently rotating it on a platform rotator at room temperature. Decant the wash buffer and repeat the washing step twice. 
+4. One pair in each lab experiment group: Transfer 1 µl of purified GFP, the primary antibody and the secondary antibody, respectively, to a corner of the blot. Circle the spots with a pencil. Perform this step at the lecturer’s desk and at the same time have your antibody dilution calculations checked. Make sure that the blot remains moist at all times!
+5. Place the blot in 7 ml 5% blocking solution. Use the same 50 ml Greiner tube every time. Rotate on a platform rotator at room temperature for 45 minutes.
+6. Decant the 5% blocking solution and add 7 ml primary antibody solution. Rotate on a platform rotator at room temperature for 60 minutes.
+7. Decant the primary antibody solution into a container suited for antibody reuse. Wash the membrane in 10 ml PBST for 2 x 5 minutes and 1 x 10 minutes. After each wash, rotate it on a platform rotator at room temperature.
+8. Decant the wash buffer and add 7 ml AP-labeled secondary antibody solution. Rotate on a platform rotator at room temperature for 30 minutes.
+9. Decant the AP-labeled secondary antibody solution down the sink and add 10 ml PBST. Wash the membrane in 10 ml PBST for 2 x 5 minutes and in 10 ml PBS for 2 x 5 minutes. After each wash, rotate it on a platform rotator at room temperature.
+10. Remove the membrane from the PBS and drain it (do not allow it to dry out!). Submerge your blot in freshly prepared detection solution.
+11. Incubate for 5 to 15 minutes, until you are happy with the result.
+12. Stop the staining reaction by giving the blot a good rinse with tap water.
+13. Do not forget to discuss all your results with your lecturer. This is part of your assessment.
+
+## After the experiment:
+
+This experiment will yield a large number of results, such as a Coomassie-stained gel, a Ponceau S-stained blot, a Coomassie-stained post-blot gel, a post-detection blot, detection of control samples. Enter all the results in your labjournal. Select those results that are essential to a well-argued conclusion and discussion and provide a clear overview of these results. 
+
 
 ---
 
