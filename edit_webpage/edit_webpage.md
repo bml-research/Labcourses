@@ -22,11 +22,13 @@ Bij mij staat deze al geinstalleerd maar klik op install:
 ## Stap 3:
 
 - Pak de zip file uit met de bestanden. 
-- Open de Markdown file (met de `md` extensie) vanuit Visual Studio code via `File > Open Folder`. Ik gebruik de Western blot als voorbeeld:
+- Open de Markdown file (met de `md` extensie) vanuit Visual Studio code via `File > Open File`. Ik gebruik de Western blot als voorbeeld:
 - Klik op het icoon om de `Markdown Preview Enhanced` plugin te activeren.
 ![file open](./pics/fig2.png)
 Je ziet nu twee schermen. Links is de Markdown code, rechts de preview:
 ![file open](./pics/fig3.png)
+
+> Het duurt even voordat de plugin geactiveerd is nadat je Visual Code hebt opgestart. Als je te snel na het opstarten al de plugin activeert (door op de knop bij rode pijl te klikken) dan wordt de achtergrond zwart in plaats van wit. Sluit dan het preview scherm en klik opnieuw op de preview knop. 
 
 ## Stap 4
 
