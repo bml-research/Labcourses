@@ -18,7 +18,7 @@ The Lowry assay (1951) is an often-cited, generally used protein assay. The modi
 ## Principle 
 Under alkaline conditions the divalent copper ion ($Cu^{2+}$) forms a complex with peptide bonds in which it is reduced to a monovalent ion ($Cu^{+}$). Monovalent copper ions and the radical groups of some aminon acids in protein (tyrosine, tryptophan, and cysteine) react with Folin reagent to produce an unstable product that becomes reduced to molybdenum/tungsten blue. The end product gives a specific absorbance at 750 nm. Proteins with an abnormally high or low percentage of tyrosine, tryptophan, or cysteine residues will give high or low errors, respectively.
 
-$Protein + Cu^{2+} \rightarrow Protein Cu^{+} + Folin_{reagens} \rightarrow blue-product$
+$Protein + Cu^{2+} \rightarrow ProteinCu^{+} + Folin_{reagens} \rightarrow blue \ product$
 
 ## Preparation of the reagents 
 1.	Dissolve 20 gr sodium carbonate in 260 ml water, 0.2 gr cupric sulfate (5x hydrated) in 20 ml water, and 0.4 gr sodium potassium tartrate tetrahydrate in 20 ml water.  Prepare the solutions separately until obtaining a clear solution. Mix all three solutions to prepare the __copper reagent__. (_This solution will be prepared by the teacher_)
