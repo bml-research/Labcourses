@@ -43,7 +43,7 @@ After the PCR reaction, a small part of the reaction mixture can be analyzed by 
 ![Figure 2](./pics/fig2.jpg)
 *<sub>Figure 2: Loading of an agarose gel. Source: Wikipedia.org.</sub>*
 
-DNA is visualized by staining with Midori Green, which intercalates into the major grooves of the DNA and fluoresces under UV light. When stained with ethidium bromide, the gel is viewed with an ultraviolet (UV) transilluminator. The UV light excites the electrons within the aromatic ring of ethidium bromide, and once they return to the ground state, light is released, making the DNA and ethidium bromide complex fluoresce (Figure 3).
+DNA is visualized by staining with Midori Green, which intercalates into the major grooves of the DNA and fluoresces under UV light. When stained with Midori Green, the gel is viewed with an ultraviolet (UV) transilluminator. The UV light excites the electrons within the aromatic ring of Midori Green, and once they return to the ground state, light is released, making the DNA and Midori Green complex fluoresce (Figure 3).
 
 ![Figure 3](./pics/fig3.jpg)
 *<sub>Figure 3: Visualization of an agarose gel. Source: Wikipedia.org.</sub>*
@@ -72,11 +72,11 @@ Simulate the PCR reaction and record the expected product length in your lab jou
 
 Set up a series of PCR reactions. Include a negative control and a positive control according to the table below:
 
-| Sample #| Sample name     |Sample content       |
-|:-------:|:---------------:|:-------------------:|
-|1        |negative control |PCR-mix + water      |
-|2        |positive control |PCR-mix + PCR-product|
-|3        |sample           |PCR-mix + pHIPH4     |
+| Sample #| Sample name     |Sample content                        |
+|:-------:|:---------------:|:------------------------------------:|
+|1        |negative control |PCR-mix + water                       |
+|2        |positive control |PCR-mix + pHIPH4 (isolated by teacher)|
+|3        |sample           |PCR-mix + pHIPH4 (isolated by student)|
 
 The PCR mix for 50 µL should contain the following:
 - 5 µL key buffer
@@ -106,7 +106,7 @@ PCR conditions:
 
 - Seal the gel holder with painter's tape.
 - Place a comb 1 to 2 cm from the top of the gel and 1 to 1.5 mm from the bottom of the gel holder.
-- Prepare 400 ml of TBE buffer to fill the electrophoresis tank with and to prepare a gel. The stock solution you will find in the lab is a 10x concentrate. So first of all, calculate how to prepare the 1X solution.
+- Prepare 400 ml of 1x TBE buffer to fill the electrophoresis tank with and to prepare a gel. The stock solution you will find in the lab is a 10x concentrate. So first of all, calculate how to prepare the 1X solution.
 
 **The gel:**
 
@@ -114,21 +114,22 @@ PCR conditions:
 - Heat the solution to the boiling point in a microwave until all the agarose has dissolved.
 - Allow the solution to cool down to a temperature of approximately 60°C. Add 3 µl Midori Green to the warm agarose solution.
 - Pour the warm agarose solution into the gel holder. Make sure the gel is approximately 5 mm thick.
-- After 30 minutes, carefully remove the comb and place the gel into the electrophoresis tray.
-- Fill the electrophoresis tray with TBE buffer. Make sure the gel is completely submerged by the electrophoresis buffer before inserting the samples.
+- After 30 minutes, carefully remove the comb and the painter's tape and place the gel into the electrophoresis tray.
+- Fill the electrophoresis tray with 1x TBE buffer. Make sure the gel is completely submerged by the electrophoresis buffer before inserting the samples.
 
 **Insering the samples:**
 
-- Suck at least 10 µl of the reaction mixture into the pipette and transfer it to a well containing 2 µl of 6X-loading buffer. Alternatively, to avoid using too many wells, you could consider using a sheet of Parafilm and transferring the drops (2 µl) of loading buffer to that with a pipette. You can then mix the samples with loading buffer, suck them into the pipette and load the gel with them.
+- Start with mixing 2 µl of the marker (1kb peqGOLD, VWR), 8µl sterile MQ and 2 µl of 6X-loading buffer in a microtube. 
+- Transfer 10 µl of the PCR reaction mixture into a microtube containing 2 µl of 6X-loading buffer. 
 - Make sure the sample and loading buffer are mixed properly. Mix them by aspirating the tip a few times.
-- Now deposit the samples into the slots with extreme care. To load the samples, insert the pipette deep into the slots, or the samples may float out of the slots. However, do not insert the pipette too deep into the slots, as this may cause you to perforate the gel.
+- Now deposit the samples (as well as the marker) into separate slots with extreme care. To load the samples, insert the pipette deep into the slots, or the samples may float out of the slots. However, do not insert the pipette too deep into the slots, as this may perforate the gel.
 - Run electrophoresis at 100-120 Volt. If you use a higher voltage, the gel may melt.
 
 **Please Note:**
 
 - Make sure you fill each slot halfway, since the sample may run over.
 - Insert the pipette deep into the slots to load the samples, then slowly press the plunger downwards. Make sure the pipette does not emit any air bubbles. Make sure you do not damage the gel.
-- Do not allow the blue agent to spread too far. In 1.5% agarose gel, the colouring agent will run in the same way as a the DNA fragment.
+- Do not allow the blue agent to migrate too far as the Midori Green will migrate the opposite direction.
 - View the gel under a UV source and take a picture of the gel with your mobile phone. Use this photo to determine the results in your logbook. Make sure that you have a clear photo that you can use to determine the results.
 
 
