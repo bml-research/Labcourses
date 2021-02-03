@@ -51,6 +51,7 @@ During this practical, you will determine the plasma VWF concentration of severa
 ## Protocol
 
 ### Reagents
+Buffers:
 - Buffer A: PBS (phosphate-buffered sodium chloride) (a 1x concentrate buffer is ready for use)
   -	1.3 mM $NaH_2PO_4 \cdot H_2O$
   -	9.0 mM $Na_2HPO_4\cdot 2H_2O$
@@ -72,6 +73,14 @@ Conjugate:
 
 OPD substrate:
 -	1,2 phenylenediamine, dihydrochloride, DakoCytomation code No. S 2045
+-	For one plate:
+  - prepare 10 minutes before use, store in the dark (cover with aluminium foil), keep stable at room temperature for 1 hour!
+  - One 2 mg OPD tablet (avoid skin contact)
+  - 7 mL $H_2O$
+  - Add 5 µl 30% $H_2O_2$ right before use!
+
+- 30% $H_2O_2$
+- 3M Sulphuric acid
 
 ### Standard dilutions of normal plasma (NP) for the calibration curve 
 
