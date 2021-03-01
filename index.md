@@ -10,10 +10,11 @@
 ## Courses
 - [Crash Course](./short/short.md) (3 days of 6 hours each)
 - [VMT](./vmt/vmt.md) (3 days of 6 hours each)
-- [Nucleic acid isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) (1 day of 6 hours)
+- [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) (1 day of 6 hours)
 - [PCR](./pcr/pcr.md) (2 days of 6 hours each)
 - [ELISA](./elisa/elisa.md) (1 day of 6 hours)
 - [Western Blot](./western_blot/western_blot.md) (2 days of 6 hours each)
+- [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) (2 days of 6 hours each)
 - [Cloning](./cloning/cloning.md) (3 days of 6 hours each)
 - [CRISPR-Cas9](./crispr/crispr.md) (9 days of 6 hours each)
 
