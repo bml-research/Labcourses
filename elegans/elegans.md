@@ -67,7 +67,7 @@ To investigate the induction of transcription, RNA needs to be isolated. We will
 The PCR technology makes it possible to amplify selected PCR fragments. Two flanking oligonucleotides serve as primers to initiate strand elongation in the 5’ to 3’ direction by DNA polymerase. DNA polymerase will catalyze the incorporation of nucleotides in the growing nucleotide polymer.  
 
 ![Figure 5](./pics/fig5.png)
-*<sub>Figure 4: Schematic representation of  cDNA synthesis. The Oligo-dT primer binds the poly(A) tail of the mRNA. Reverse transcriptase will polymerize the synthesis of the cDNA strand. Source: Wikipedia.org</sub>*
+*<sub>Figure 5: Schematic representation of  cDNA synthesis. The Oligo-dT primer binds the poly(A) tail of the mRNA. Reverse transcriptase will polymerize the synthesis of the cDNA strand. Source: Wikipedia.org</sub>*
 
 The DNA polymerases used today are very thermostable. Amplification occurs exponential using cycles of subsequent heating and cooling. At around 95˚C, DNA denatures. Primers can subsequently bind the single stranded DNA at temperatures around 55-60˚C. Thermostable DNA polymerases typically have an optimal temperature around 72˚C. Theoretically, after each cycle, the amount of DNA will be doubled (although in reality the amplification efficiency is often lower). 
 The amount of product is thus:
@@ -242,7 +242,7 @@ This is a short section regarding the use of the CFX real time machine (Bio-Rad)
 *<sub>Figure 12. Setting up the CFX machine.</sub>*
 
 - This will show a default protocol. We will create a new protocol. Therefore select `Create New`.
-- 3.	Create the desired protocol using the options at the left. Save the protocol. Click `OK` and `next`.  
+- Create the desired protocol using the options at the left. Save the protocol. Click `OK` and `next`.  
 
 ![Figure 13](./pics/fig13.png)
 *<sub>Figure 13. Setting up the CFX machine.</sub>*
