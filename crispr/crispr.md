@@ -77,12 +77,12 @@ Antibiotics, buffers and enzymes of enzymatic reactions are present (Tables 1 an
 
 |Reagent|Amount|Concentration|Company|
 |-------|------|-------------|-------|
-|sunI-F |Forward Primer|10 µl|100 µM|Invitrogen|
-|sunI-R |Reverse Primer|10 µl|100 µM|Invitrogen|
-|pJMP1-F|Forward Primer|20 µl|10 µM|Invitrogen|
-|pJMP1-R|Reverse Primer|20 µl|10 µM|Invitrogen|
-|pJMP3-F|Forward Primer|20 µl|10 µM|Invitrogen|
-|pJMP3-R|Reverse Primer|20 µl|10 µM|Invitrogen|
+|sunI-F Forward Primer|10 µl|100 µM|Invitrogen|
+|sunI-R Reverse Primer|10 µl|100 µM|Invitrogen|
+|pJMP1-F Forward Primer|20 µl|10 µM|Invitrogen|
+|pJMP1-R Reverse Primer|20 µl|10 µM|Invitrogen|
+|pJMP3-F Forward Primer|20 µl|10 µM|Invitrogen|
+|pJMP3-R Reverse Primer|20 µl|10 µM|Invitrogen|
 |Loading Dye|50 µl|6x|New England Biolabs|
 |dATP|5 µl|100 mM|VWR|
 |dCTP|5 µl|100 mM|VWR|
@@ -100,7 +100,7 @@ Antibiotics, buffers and enzymes of enzymatic reactions are present (Tables 1 an
 |T4 Polynucleotide Kinase|10 µl|10 U/µl|NEB|
 |Phusion HF Buffer|150 µl|5x|ThermoFisher Scientific|
 |Phusion DNA Polymerase|10 µl|2 U/µl|ThermoFisher Scientific|
-|1 kb peqGOLD ladder|30 µl|500 ng/µl|nvitrogen|
+|1 kb peqGOLD ladder|30 µl|500 ng/µl|Invitrogen|
 |Low molecular weight ladder|60 µl|500 ng/µl|New England Biolabs|
 |Tango Buffer|50 µl|10x|ThermoFisher Scientific|
 |DpnI|10 µl|10 U/µl|ThermoFisher Scientific|
@@ -192,11 +192,90 @@ Discuss with your teacher which control reactions you do. If you have small colo
 
 Colony-PCR on colonies from transformation of E. coli DH5α
 In Benchling, check with the following primers the size of your PCR-product so you know what product size to expect on gel:
-pJMP3-F:	5’- CGGATCCTAGAAGCTTATCG -3'
-pJMP3-R:	5’- ACGGCGCTATTCAGATCCTC -3'
+- pJMP3-F:	5’- CGGATCCTAGAAGCTTATCG -3'
+- pJMP3-R:	5’- ACGGCGCTATTCAGATCCTC -3'
 
 Pick three colonies with a sterile white tip from the plate for colony-PCR and plasmid isolation. For the plasmid isolation pick part of the colony (do not pick the complete colony) with a white tip and use it to inoculate 3 ml LB medium with antibiotic(s). Incubate overnight at 37˚C (200-225 rpm). For a single PCR, calculate the amount of each reagent that has to be added to the water to get the final concentration given in Table 4.
 
+*<sub>Table 4. PCR mixture</sub>*
+
+|Reagent|Stock|Final concentration|Amount (µl)|
+|-------|-----|-------------------|-----------|
+|Demi water|N/A|N/A|Up to 30.0 µl|
+|Forward Primer|10 µM|0.33 µM|
+|Reverse Primer|10 µM|0.33 µM|
+|Reaction Buffer|10x|1x|
+|dNTP-mix|20 mM|0.2 mM|
+|Taq-Polymerase|5 U/µl|1.5 U|
+
+For the colony-PCR prepare a master mix (think about which controls you want to use) and divide the master mix over the PCR-tubes. Pick with a white tip the rest of the same colony and put it in the PCR tube with the reaction mixture. Incubate 30 sec and remove the tip. Use the following program for the PCR:
+
+*<sub>Table 5. PCR program</sub>*
+
+|Step|Time|Temperature|Go to step|
+|----|----|-----------|----------|
+|1|10 min.|95°C|NA|
+|2|15 sec.|95°C|NA|
+|3|15 sec.|60°C|NA|
+|4|45 sec.|72°C|Go to step 2 (30x)|
+|5|5 min.|72°C|NA|
+|6|10 min.|4°C|NA|
+
+Check the PCR-product on an agarose gel. Suggest a percentage of agarose and discuss with your teacher. Also, think of which DNA ladder you should use.
+
+### Transformation of *B. subtilis* with pJMP3 construct
+You will use the B. subtilis ΔsunA strain that already contains the pJMP1 plasmid (with the gene for dCas9) and will be provided by your teacher as colonies on a plate. Keep in mind that this particular strain has the Kanamycin resistance gene integrated in the *sunA* gene and the antibiotic resistance gene from pJMP1. Using a specific growth medium, *B. subtilis* will become competent for DNA uptake and by using plates with the correct antibiotics, only cells that have taken up the pJMP3 plasmid will grow on the plates. The following protocol is an adjustment to the protocol described by Peters *et al*. Calculate the amount of each solution that has to be added to the water to get the final concentration given in Table 6.
+
+*<sub>Table 6. Components of Paris Medium (PM)</sub>*
+
+|Reagent|Stock|Final concentration|Amount (ml)|
+|-------|-----|-------------------|-----------|
+|Demi water|NA|NA|Up to 10.0 ml|
+|Phosphate/Citrate (PC) buffer|10x|1x|
+|Glucose|20%|1%|
+|Na-glutamate|0.5 M|10 mM|
+|Ammonium Ferric (III) citrate|1.1 g/L|2.2 mg/L|
+|Casein hydrolysate|2%|0.1%|
+|L-tryptophan|1 mg/ml|0.02 mg/ml|
+|Magnesium sulfate|1.0 M|3 mM|
+
+
+Each solution is sterilized, so keep it sterile by working under sterile conditions. Prepare 10 ml of PM in a 15 ml Greiner tube. After you have added all the components, filter sterilize the PM using a 0.2 µM filter in a new sterile 15 ml Greiner tube. This is the working solution. Keep this working solution protected from light.
+
+### Protocol transformation of *B. subtilis*:
+-	Start a preculture of *B. subtilis* cells that contain the pJMP1 plasmid in 0.5 ml PM **without** antibiotics in a 10 ml tube (white cap). Use a sterile white tip to pick up a colony and drop it in the tube.
+-	Incubate overnight at 37˚C (200-225 rpm).
+-	Transfer 10 µl of the overnight culture to 0.5 ml fresh PM **without** antibiotics in a new tube and incubate for 1.5-2 hrs. at 37˚C (200-225 rpm).
+-	Add 10 µl of plasmid DNA.
+-	Incubate for 5 hrs. at 37˚C (200-225 rpm).
+-	Plate 100 µl of the culture on two separate LB-agar plates containing the appropriate antibiotic(s).
+-	Incubate the plates overnight at 37˚C. Store the plates with *B. subtilis* at **room temperature** 
+
+>Important note:
+*B. subtilis* is cold-sensitive and will not survive at 4˚C.
+
+Colony-PCR on colonies from transformation of *B. subtilis* ΔsunA pJMP1
+Pick single *B. subtilis* colonies from the plate for a colony-PCR. Use the same protocol that you have used before for checking E. coli DH5α transformants. A colony with the correct plasmids will be used for the sublancin sensitivity assay.
+Primers that will bind to pJMP1 will also be provided:
+- pJMP1-F:	5’- GTTGAAACTCGCCAAATCAC -3’
+- pJMP1-R:	5’- TGCCTATTTCTTGCTCAGAC -3’
+
+### Sublancin sensitivity assay
+Culture a colony with the correct plasmids in 3 ml LB medium containing the appropriate antibiotic(s) overnight at 37˚C (200-225 rpm). Discuss with your teacher which control strains you would like to test. These control strains will be provided by your teacher. Do not forget to add xylose to a final concentration of 1% (prepare a stock solution of 40%; sterilize with a 0.2 µm filter).
+Use your designed sublancin sensitivity assay to check whether your CRISPRi-dCas9 system works. If you have the materials and time, see if you can play with the levels of repression of gene expression by using different concentrations of xylose.
+
+---
+
+## References
+1. Barrangou, R. (2015) The roles of CRISPR-Cas systems in adaptive immunity and beyond. *Curr.Opin.Immunol.* 32, 36-41
+1. Barrangou, R. (2015) The roles of CRISPR-Cas systems in adaptive immunity and beyond. *Curr.Opin.Immunol.* 32, 36-41
+2. Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J.A., and Charpentier, E. (2012) A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. *Science.* 337, 816-821
+3. Qi, L.S., Larson, M.H., Gilbert, L.A., Doudna, J.A., Weissman, J.S., Arkin, A.P., and Lim, W.A. (2013) Repurposing CRISPR as an RNA-guided platform for sequence-specific control of gene expression. *Cell.* 152, 1173-1183
+4. Peters, J.M., Colavin, A., Shi, H., Czarny, T.L., Larson, M.H., Wong, S., Hawkins, J.S., Lu, C.H.S., Koo, B.M., Marta, E., Shiver, A.L., Whitehead, E.H., Weissman, J.S., Brown, E.D., Qi, L.S., Huang, K.C., and Gross, C.A. (2016) A Comprehensive, CRISPR-based Functional Analysis of Essential Genes in Bacteria. *Cell.* 165, 1493-1506
+5. Larson, M.H., Gilbert, L.A., Wang, X., Lim, W.A., Weissman, J.S., and Qi, L.S. (2013) CRISPR interference (CRISPRi) for sequence-specific control of gene expression. *Nat.Protoc.* 8, 2180-2196
+6. Paik, S.H., Chakicherla, A., and Hansen, J.N. (1998) Identification and characterization of the structural and transporter genes for, and the chemical and biological properties of, sublancin 168, a novel lantibiotic produced by Bacillus subtilis 168. *J.Biol.Chem.* 273, 23134-23142
+7. Dubois, J.Y., Kouwen, T.R., Schurich, A.K., Reis, C.R., Ensing, H.T., Trip, E.N., Zweers, J.C., and van Dijl, J.M. (2009) Immunity to the bacteriocin sublancin 168 Is determined by the SunI (YolF) protein of Bacillus subtilis. *Antimicrob.Agents Chemother.* 53, 651-661
+8. Haeussler, M., Schonig, K., Eckert, H., Eschstruth, A., Mianne, J., Renaud, J.B., Schneider-Maunoury, S., Shkumatava, A., Teboul, L., Kent, J., Joly, J.S., and Concordet, J.P. (2016) Evaluation of off-target and on-target scoring algorithms and integration into the guide RNA selection tool CRISPOR. *Genome Biol.* 17, 148-016-1012-2
 
 --- 
 
