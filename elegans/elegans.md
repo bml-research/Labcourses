@@ -52,7 +52,7 @@ Figure 3 shows a cartoon of the anatomy of *C. elegans*. *C. elegans* lacks a re
 ![Figure 3](./pics/fig3.jpg)
 *<sub>Figure 3. C. elegans anatomy. Major anatomical features of a hermaphrodite (A) and male (B) viewed laterally. (A) The dorsal nerve cord (DNC) and ventral nerve cord (VNC) run along the entire length of the animal from the nerve ring. Two of the four quadrants of body wall muscles are shown. (B) The nervous system and muscles are omitted in this view, more clearly revealing the pharynx and intestine. (C) Cross-section through the anterior region of the *C. elegans* hermaphrodite (location marked with a black line in A) showing the four muscle quadrants surrounded by the epidermis and cuticle with the intestine and gonad housed within the pseudocoelomic cavity. Images modified from those found at www.wormatlas.org</sub>*
 
-## **Caenorhabditis elegans** and the heat shock response
+### *Caenorhabditis elegans* and the heat shock response
 
 Cells and organisms respond to elevated temperatures by synthesizing a group of highly conserved proteins, the heat shock proteins or HSPs. This response is called the heat shock response. *C. elegans* normally grows at 15-25˚C. Switching the culture to 37˚C for 30 minutes will induce the heat shock response by initializing the transcription of a many heat shock proteins. Directly after the induction of the heat shock response, *C. elegans* is temporary more resistant to heat as a result of elevated heat shock proteins.
 
