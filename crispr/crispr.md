@@ -74,6 +74,7 @@ Antibiotics, buffers and enzymes of enzymatic reactions are present (Tables 1 an
 
 
 *<sub>Table 1. Reagents present for student</sub>*
+
 |Reagent|Amount|Concentration|Company|
 |-------|------|-------------|-------|
 |sunI-F |Forward Primer|10 µl|100 µM|Invitrogen|
@@ -92,6 +93,7 @@ Antibiotics, buffers and enzymes of enzymatic reactions are present (Tables 1 an
 |T4 DNA Ligase Buffer|10 µl|10x|New England Biolabs|
 
 *<sub>Table 2. . Reagents provided by teacher</sub>*
+
 |Reagent|Amount|Concentration|Company|
 |-------|------|-------------|-------|
 |RNase|100 µl|10 mg/ml|Roche|
@@ -120,6 +122,7 @@ Antibiotics, buffers and enzymes of enzymatic reactions are present (Tables 1 an
 An overview of the experiments on the first three days is given in Table 3. 
 
 *<sub>Table 3. Schedule practical course day 1-3 Theme 9</sub>*
+
 |Day|Experiment|
 |---|----------|
 |1|- Introduction,<br> - prepare media.<br>- Isolation pJMP1 and pJMP3 from *E. coli* DH5α.<br>- Bioinformatics: design primers|
