@@ -1,6 +1,6 @@
 ![Hanze](./hanze/hanze.png)
 
-# Laboratory courses
+# Laboratory courses test
 
 ## Main Page
 ---
