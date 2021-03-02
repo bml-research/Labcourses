@@ -109,6 +109,18 @@ Transfer the tubes once the heating block reaches 95ºC.
 Check 5 μl of the PCR product on a 1% agarose gel.
 You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html).
 
+### Plasmid isolation
+You will receive an overnight culture of *E. coli* that contains the destination plasmid (pGEM<sup>®</sup>-T vector).
+
+The vector sequence can be found here: https://www.addgene.org/vector-database/2854/
+
+Use 2 mL of the culture for plasmid isolation.
+The procedure for plasmid isolation can be found [here](../nucleic_acid_isolation/nucleic_acid_isolation.html).
+
+Measure the concentration of the plasmid DNA on the nanodrop.
+
+
+
 
 
 --- 
