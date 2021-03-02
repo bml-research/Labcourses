@@ -135,7 +135,7 @@ Caution!! Trizol reagent and Chloroform are both very toxic and therefore should
 8.	Pipet the pellet with M9 to a sterile 1,5 ml Eppendorf tube
 9.	Incubate 2 minutes on ice (worms sink faster at colder temperatures as they move less)
 10.	Gently take out remaining clear supernatant
-11.	Add 1 volume of Trizol to 1 volume of pellet (approximately 60 ul)
+11.	Add 1 volume of Trizol to 1 volume of pellet (approximately 60 μl)
 12.	Snap freeze in liquid nitrogen or dry ice and store the sample at -80˚C. 
 13.	Remove frozen samples from the -80ºC freezer and store them in liquid nitrogen.
 14.	Thaw the samples one by one before use
@@ -149,7 +149,7 @@ Caution!! Trizol reagent and Chloroform are both very toxic and therefore should
 22.	Spin the samples for 15 minutes at 10.000G at 4ºC
 23.	The aqueous phase should now be on top; if not vortex and spin again.
 24.	Transfer as much of the aqueous phase as possible to a fresh tube. 
-25.	Add 2 μl glycogen (5mg/ml)
+25.	Add 2 μl glycogen (5 mg/ml)
 26.	Add 1 volume of ice cold isopropanol to the samples (500 μl)
 27.	Invert the samples several times to mix
 28.	Incubate for 20 minutes at RT
@@ -159,7 +159,7 @@ Caution!! Trizol reagent and Chloroform are both very toxic and therefore should
 32.	Centrifuge for 5 minutes at maximum speed at 4ºC
 33.	Aspirate as much Ethanol as possible
 34.	Air dry the sample until all the ethanol is almost completely gone (1-5 minutes)
-35.	Resuspend the RNA in 30μl RNAse free water
+35.	Resuspend the RNA in 30 μl RNAse free water
 
 
 #### Quality Control
@@ -189,9 +189,9 @@ For this experiment, we will make use of relative quantification using the Delta
 
 1.	Thaw the cDNA samples on ice.
 2.	Add for each sample:
-a.	12,5 ul 2 iQTM SYBR® Green reactie mix (Bio-Rad)
-b.	1 ul forward primer (10 pmol/ul)
-c.	1 ul reverse primer (10 pmol/ul)
+a.	12,5 ul 2x iQTM SYBR® Green reactie mix (Bio-Rad)
+b.	1 ul forward primer (10 pmol/μl)
+c.	1 ul reverse primer (10 pmol/μl)
 d.	5,5 ul sterile MilliQ 
 3.	Note that for each primer set (HSP and house keeping gene), separate mastermixes will be made. Note that a water control will be used.
 4.	Pipet 5 ul cDNA sample and 20 ul of the mastermix.
