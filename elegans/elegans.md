@@ -15,6 +15,13 @@
 
 ---
 
+>A considerable amount of text is copied, adapted and modified from Wormbook.org (written by Ann K. Corsi, Bruce Wightman, and Martin Chalfie) and Wikipedia.org.  
+The protocols are adapted from the Department of Ageing of ERIBA, Groningen, the Netherlands.
+This is an open-access article distributed under the terms of the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Creative Commons License: CC BY-SA 4.0.
+
+---
+
 ## Introduction
 
 ### *Caenorhabditis elegans* biology and life cycle
