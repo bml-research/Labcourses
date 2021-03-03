@@ -109,11 +109,11 @@ The recipe for the PCR reaction (50 µl):
 
 
 The PCR program is as follows:
-- 1 min 95ºC denaturation
+- 15 min 95ºC denaturation (this is required to activate VWR TAQ)
 - 30 cycles of:
-    - 1 min 95ºC denaturation
-    - 1 min 55ºC annealing
-    - 1 min 72ºC extension
+    - 15 seq 95ºC denaturation
+    - 45 seq 55ºC annealing
+    - 90 seq 72ºC extension
 - 7 min 72ºC extension
 - ∞ at 4ºC
 
@@ -136,7 +136,12 @@ Measure the concentration of the plasmid DNA on the nanodrop.
 ### Day 2
 
 #### Agarose gel electrophporesis PCR product
-Check 5 μl of the PCR product on a 1% agarose gel. use an appropriate marker. You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html). If your PCR reaction failed, you can obtain the PCR product from your supervisor. Incubate at 37ºC at 220 rpm in a shaker incubator for 3 hours.
+Check 5 μl of the PCR product on a 1% agarose gel. Use an appropriate marker and use loading dye. You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html).
+Use your phone to create a picture of the gel on a UV illuminator.
+
+>Be carefull with the UV illuminator. Use a protective mask. 
+
+>If your PCR reaction failed, you can obtain the PCR product from your supervisor. 
 
 #### Cleaning of the PCR product
 Clean up the PCR reaction according to the instructions of the kit to remove impurities. Elute in 10 µl elution buffer.
@@ -224,10 +229,73 @@ Pour 5 plates (this means that you will use approximately 20 mL per plate).
 - Use a drigalski spatula to plate the cells on the agar plates.
 - Incubate the plates at 37°C overnight.
 
+>Some protocols use SOC medium instead of LB medium. The use of LB medium instead of SOC medium results in a very minor reduction of transformants.
 
 ### Day 4
 
+#### Check plate on a UV illuminator
+Investigate your plate on a UV illuminator. Use your phone to create a picture of the plate on a UV illuminator.
 
+>Be carefull with the UV illuminator. Use a protective mask.
+
+
+#### Colony PCR
+
+Choose from the primers depicted in table 3 a primer pair that will detect the insert as well as the orientation of the insert in the vector. Use Benchling to simulate the PCR reactions.
+
+*<sub>Table 3. Available primers</sub>*
+|Primer name|Primer sequence (5'&rarr;3')     |
+|-----------|---------------------------------|
+|M13F       |GTAAAACGACGGCCAGT                |
+|M13R       |CAGGAAACAGCTATGACC               |
+|GFP F      |GTTTAACTTTAAGAAGGAGATATACATATGG  |
+|GFP R      |TTATTTGTAGAGCTCATCCATGCC         |
+|Cont. F    |GATGACGGGAACTACAAGAC             |
+|Cont. R    |TCGAAAGGGCAGATTGTG               |
+
+
+Prepare PCR mixtures according to table 4:
+
+*<sub>Table 4. PCR mixtures for colony PCR</sub>*
+
+|Reagent     |[stock]   |[Desired]    |1 reaction (50 µl)|x reactions|
+|------------|----------|-------------|------------------|-----------|
+|$H_2O$      |-         |-            |up to 50 µl       |           |
+|PCR-buffer  |10x       |1x           |                  |           |
+|dNTPs       |25 mM     |250 µM       |                  |           |
+|Primer F    |25 pmol/µl|25 pmol/50 µl|                  |           |
+|Primer R    |25 pmol/µl|25 pmol/50 µl|                  |           |
+|MgCl2       |50 mM     |1,5 mM       |                  |           |
+|Triton x-100|1%        |0,1%         |                  |           |
+|Taq Pol     |5 U/µl    |2-3 U/50 µl  |                  |           |
+
+Divide the master mix in 50 µl aliquots. Keep on ice. Add a tiny bit of a white DH5-Alpha colony material to the tube. Add voth fluorescent and non fluorescent colonies to separate tubes. Do not forget a negative control reaction for each primer pair!
+
+Start the following PCR program:
+- 15 min 95ºC denaturation (this is required to activate VWR TAQ)
+- 30 cycles of:
+    - 15 seq 95ºC denaturation
+    - 45 seq 55ºC annealing
+    - 90 seq 72ºC extension
+- 7 min 72ºC extension
+- ∞ at 4ºC
+
+#### Agarose gel elctrophoresis
+Check 10 μl of the PCR product on a 1% agarose gel. Use an appropriate marker and use loading dye. You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html).
+Use your phone to create a picture of the gel on a UV illuminator.
+
+>Be carefull with the UV illuminator. Use a protective mask.
+
+### At the end
+Note the following in your labjournal:
+- Number of colonies observed per transformation
+- Percentage of white and blue colonies (make a table)
+- Number of positive clones for forward and reverse orientation.
+
+>Dit you find white colonies without green fluorescence?
+What could be a reason for this observation?
+
+The end...
 
 --- 
 
