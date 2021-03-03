@@ -21,6 +21,11 @@
 
 ---
 
+> Before you start:
+We assume that you have basic knowledge and skills about general aseptic techniques in microbiology. It is required that you have obtained a VMT certificate as a start requirement to follow this course!
+
+---
+
 ## Introduction
 
 ### CRISPR-Cas – a defense mechanism in prokaryotes

@@ -24,6 +24,11 @@ Creative Commons License: CC BY-SA 4.0.
 
 ---
 
+> Before you start:
+We assume that you have basic knowledge and skills about general aseptic techniques in microbiology. It is required that you have obtained a VMT certificate as a start requirement to follow this course!
+
+---
+
 ## Introduction
 Molecular cloning refers to the process of making multiple ídentical copies of macromolecules such as DNA molecules. Gene cloning is used to amplify DNA fragments containing whole genes. It is used in a wide array of biological experiments such as large scale protein production and vaccin depelopment. 
 
@@ -38,7 +43,7 @@ Another (often used) strategy is TA cloning. TA cloning is a cloning technique t
 *<sub>Figure 2. Overview of TA cloning. Note that TA cloning eliminates the need of restriction enzymes. Source: Wikipedia.</sub>*
 
 
-The vector containing the insert is transformed to a cell. Often, a particular strain of *E. coli* (DH5-Alpha) is used for efficient transformation. DH5-Alpha Cells are engineered to maximize transformation efficiency. They are defined by mutations to reduce breakdown of DNA and reduce recombination. In addition, the cells facilitate blue white screening. The cells are competent and often used with calcium chloride transformation to insert the desired plasmid. The plasmid contains an "origin of replication" that facilitates replication in the host cell. Transformants (that contain the plasmid DNA) can be selected using an antibiotic selection marker such as the ampicillin resistance gene (figure 3). Transformants with an insert can be selected using blue-white screening. The destination vector contains a part of the β-galactosidase gene (another part of this gene resides in the DH5-Alpha host). Ligation of the insert disrupts the β-galactosidase gene on the destination vector. The β-galactosidase part that resides in the DH5-Alpha host does not result in functional β-galactosidase. The presence of active β-galactosidase can be detected by X-gal, a colourless analog of lactose that may be cleaved by β-galactosidase to form a bright blue insoluble pigment. Instead, colonies that contain the insert will remain white as the β-galactosidase gene is disrupted by the precense of the insert. 
+The vector containing the insert is transformed to a cell. Often, a particular strain of *E. coli* (DH5-Alpha) is used for efficient transformation. DH5-Alpha Cells are engineered to maximize transformation efficiency. They are defined by mutations to reduce breakdown of DNA and reduce recombination (endA1, recA1). In addition, the cells facilitate blue white screening. The cells are competent and often used with calcium chloride transformation to insert the desired plasmid. The plasmid contains an "origin of replication" that facilitates replication in the host cell. Transformants (that contain the plasmid DNA) can be selected using an antibiotic selection marker such as the ampicillin resistance gene (figure 3). Transformants with an insert can be selected using blue-white screening. The destination vector contains a part of the β-galactosidase gene (another part of this gene resides in the DH5-Alpha host, the DH5-Alpha strain contains a lacZΔM15 mutation). Ligation of the insert disrupts the β-galactosidase gene on the destination vector. The β-galactosidase part that resides in the DH5-Alpha host does not result in functional β-galactosidase. The presence of active β-galactosidase can be detected by X-gal, a colourless analog of lactose that may be cleaved by β-galactosidase to form a bright blue insoluble pigment. Instead, colonies that contain the insert will remain white as the β-galactosidase gene is disrupted by the precense of the insert. 
 
  At the end of the cloning procedure, the desired DNA can be amplified to large amounts for downstream applications such as recombinant protein production.
 
@@ -188,6 +193,39 @@ Inoculate 3 mL (use a single colony) of the TY medium with DH5-Alpha cells. Use 
 >Cells are ready for transformation. They will be competent for 30 min. Alternatively, cells can be frozen at -80ºC by adding 87% (v/v) glycerol (17.5 µl 87% (v/v) glycerol for each 100 µl of bacteria suspension).
 
 #### Preparation of plates
+Prepare 100 mL medium. You will be able to pour 5 plates.
+The recipe for the LB medium:
+- 1% (w/v) Bacto-tryptone
+- 0.5% (w/v) Bacto-yeast-extract
+- 1% NaCl
+- 1.5% Agar
+Autoclave and cool untill ~ 55°C
+Then add:
+- 100 µg/mL final concentration Ampicillin (stock is 100 mg/mL)
+- 20 µg/mL final concentration X-Gal (stock is 20 mg/mL in DMSO)
+- 100 µmol/L final concentration IPTG (stock is 100 mmol/L)
+
+> Why do you need to add? What is the function?
+> - Ampicillin
+> - X-Gal (hint: search for information about the lac operon)
+> - IPTG (hint: search for information about the lac operon)
+
+Pour 5 plates (this means that you will use approximately 20 mL per plate).
+
+#### Transformation
+- Mix 25 µl (thawed) competent cells gently by flipping the tube.
+- Add 2 µl ligation mixture and mix gently by flipping the tube.
+- Incubate for 20 min. on ice.
+- Heat-shock the cells for 45-50 seconds at 42°C in a waterbath.
+- Incubate for 2 min. on ice.
+- Add 900 μl RT LB medium to each transformation-reaction.
+- Incubate 60 minutes at 37°C in a shaking incubator at 150 rpm. Position the tubes horizontal. Use tape to fixate the tubes.
+- Centrifuge 1 min. at max speed in a Eppendorf centrifuge. Discard most of the supernatant (leave approximately 100 µl) and mix the remaining liquid by pipetting up and down. 
+- Use a drigalski spatula to plate the cells on the agar plates.
+- Incubate the plates at 37°C overnight.
+
+
+### Day 4
 
 
 
