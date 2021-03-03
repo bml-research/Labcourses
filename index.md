@@ -15,7 +15,7 @@
 - [ELISA](./elisa/elisa.md) (1 day of 6 hours)
 - [Western Blot](./western_blot/western_blot.md) (2 days of 6 hours each)
 - [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) (2 days of 6 hours each)
-- [Cloning](./cloning/cloning.md) (3 days of 6 hours each)
+- [Cloning](./cloning/cloning.md) (4 days of 6 hours each)
 - [CRISPR-Cas9](./crispr/crispr.md) (9 days of 6 hours each)
 
 --- 
