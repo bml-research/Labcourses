@@ -82,13 +82,13 @@ https://www.addgene.org/vector-database/6569/
 
 The recipe for the PCR reaction (50 µl):
 
-•	x μl 10×PCR reaction buffer, 
-•	x μl 10 mM dNTP (dATP, dTTP, dCTP en dGTP; ratio 1:1:1:1),
-•	x μl 50 mM $MgCl_2$,
-•	x μl 25 pmol/μl primer GFP F,
-•	x μl 25 pmol/μl primer GFP R,
-•	x μl 5 U/μl Taq DNA polymerase,
-•	10 ng pGLO plasmid DNA en (sterile) MilliQ up to 50 μl.
+- x μl 10×PCR reaction buffer
+- x μl 10 mM dNTP (dATP, dTTP, dCTP en dGTP; ratio 1:1:1:1)
+- x μl 50 mM $MgCl_2$
+- x μl 25 pmol/μl primer GFP F
+- x μl 25 pmol/μl primer GFP R
+- x μl 5 U/μl Taq DNA polymerase
+- 10 ng pGLO plasmid DNA en (sterile) MilliQ up to 50 μl
 
 >Assignment
 •	Fill in the missing fields of table 1. 
