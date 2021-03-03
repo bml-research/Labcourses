@@ -289,8 +289,10 @@ Use your phone to create a picture of the gel on a UV illuminator.
 ### At the end
 Note the following in your labjournal:
 - Number of colonies observed per transformation
-- Percentage of white and blue colonies (make a table)
-- Number of positive clones for forward and reverse orientation.
+- Number and percentage of white and blue colonies (make a table)
+- Number and percentage of positive clones for forward and reverse orientation according to the PCR results.
+- Number and percentage of fluorescent transformants.
+- Number and percentage of white-fluorescent, white non-fluorecent, blue-fluorescent and blue non-fluorescent colonies.
 
 >Dit you find white colonies without green fluorescence?
 What could be a reason for this observation?
