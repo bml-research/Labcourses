@@ -244,6 +244,7 @@ Investigate your plate on a UV illuminator. Use your phone to create a picture o
 Choose from the primers depicted in table 3 a primer pair that will detect the insert as well as the orientation of the insert in the vector. Use Benchling to simulate the PCR reactions.
 
 *<sub>Table 3. Available primers</sub>*
+
 |Primer name|Primer sequence (5'&rarr;3')     |
 |-----------|---------------------------------|
 |M13F       |GTAAAACGACGGCCAGT                |
