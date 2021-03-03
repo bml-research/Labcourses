@@ -127,24 +127,11 @@ The procedure for plasmid isolation can be found [here](../nucleic_acid_isolatio
 
 Measure the concentration of the plasmid DNA on the nanodrop.
 
-#### Culture DH5-Alpha Cells
-You will receive TY medium that contains:
-- 1% (w/v) Bacto-tryptone
-- 0.5% (w/v) Bacto yeast extract
-- 0.5% NaCl
-The medium is autoclaved.
-
-Inoculate 3 mL (use a single colony) of the TY medium with DH5-Alpha cells. Use maximum of 1/5<sup>th</sup> of the culture tube (aeration is very important for growth). Incubate at 37ºC overnight at 220 rpm in a shaker incubator.
-
 
 ### Day 2
 
-#### Culture competent cells
-Dilute the DH5-Alpha cells 1:100 in 25 mL fresh prewarmed TY medium. Use a sterile Erlenmeyer flask. Use maximum of 1/5<sup>th</sup> of the culture flask in order to make sure that the culture is aerated properly.
-
 #### Agarose gel electrophporesis PCR product
-Check 5 μl of the PCR product on a 1% agarose gel.
-You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html). If your PCR reaction failed, you can obtain the PCR product from your supervisor. Incubate at 37ºC at 220 rpm in a shaker incubator for 3 hours.
+Check 5 μl of the PCR product on a 1% agarose gel. use an appropriate marker. You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html). If your PCR reaction failed, you can obtain the PCR product from your supervisor. Incubate at 37ºC at 220 rpm in a shaker incubator for 3 hours.
 
 #### Cleaning of the PCR product
 Clean up the PCR reaction according to the instructions of the kit to remove impurities. Elute in 10 µl elution buffer.
@@ -158,6 +145,49 @@ Set up 3 ligation reactions according to table 2:
 
 *<sub>Table 2. Ligation reaction scheme</sub>*
 
+|Reagent                     |gfp-PCR|Pos.Control|background|
+|----------------------------|-------|-----------|----------|
+|2x rapid DNA Ligation Buffer|5 µl   |5 µl       |5 µl      |
+|pGEM®-T (50 ng)             |1 µl   |1 µl       |1 µl      |
+|PCR-product                 |x µl   |-          |-         |
+|Control DNA                 |-      |1 µl       |-         |
+|T4-ligase                   |1 µl   |1 µl       |1 µl      |
+|$H2O$ up to 10 µl           |x µl   |x µl       |x µl      |
+
+
+Mix reactions by pipetting up and down a few times. Place in floaters in a beaker with 1 L of room temperature water. Place in the cold room and incubate overnight.
+
+
+#### Culture DH5-Alpha Cells
+You will receive TY medium that contains:
+- 1% (w/v) Bacto-tryptone
+- 0.5% (w/v) Bacto yeast extract
+- 0.5% NaCl
+The medium is autoclaved.
+
+Inoculate 3 mL (use a single colony) of the TY medium with DH5-Alpha cells. Use maximum of 1/5<sup>th</sup> of the culture tube (aeration is very important for growth). Incubate at 37ºC overnight at 220 rpm in a shaker incubator.
+
+### Day 3
+
+#### Preparation competent cells
+- Dilute the DH5-Alpha cells 1:100 in 25 mL fresh prewarmed TY medium. Use a sterile Erlenmeyer flask. Use maximum of 1/5<sup>th</sup> of the culture flask in order to make sure that the culture is aerated properly.
+- Grow untill OD600 = 0,3 (~1,5- 2 hours)
+- Cool 10 min. on ice.
+- Centrifuge 10 min at 4°C, 5000 RPM (pre-cool the centrifuge).
+- Discard the supernatant. 
+- Resuspend the pellet in ice cold 0.1 M $CaCl_2$ (pre-cool this solution) in half of the culture volume. Use a freshly prepared $CaCl_2$ solution (max 1 week old).
+- Incubate 30 min. on ice.
+- Centrifuge 10 min. at 4°C, 5000 RPM or 30 sec. 12.000 RPM in a tabletop centrifuge (no longer!!). 
+
+>A pellet of competent cells should now be visible. 
+
+- Resuspendend the pellet in ice cold 0.1 M $CaCl_2$ (pre-cool the solution), in 1/100 of the culture volume. 
+
+>Pipet up and down very gently! The cells are susceptible for lysis at this stage.
+
+>Cells are ready for transformation. They will be competent for 30 min. Alternatively, cells can be frozen at -80ºC by adding 87% (v/v) glycerol (17.5 µl 87% (v/v) glycerol for each 100 µl of bacteria suspension).
+
+#### Preparation of plates
 
 
 
