@@ -62,7 +62,7 @@ We hebben verder de volgende spelregels opgesteld:
 - het kan zijn dat er een gelijkspel ontstaat, in dat geval kunnen meer dan 3 posters door gaan naar de selectiepool voor docenten.
 - De docenten kiezen uit deze pool van posters 3 posters voor de posterweek.
 
-De links naar de webformulieren staan in Blackboard (nu nog niet open).
+De links naar de posters staan in Blackboard (nu nog niet open). Selecteer de juiste groep (klas A of klas B)
 
 ![fig3](./pics/fig3.png)
 
@@ -71,6 +71,7 @@ Op deze manier zie je al een voorvertoning van de poster.
 
 ![fig4](./pics/fig4.png)
 
+Selecteer de juiste groep om je voorkeuren op te geven (klas A of klas B)
 Een screenshot van het webformulier zie je hieronder:
 
 ![fig5](./pics/fig5.png)
