@@ -11,6 +11,12 @@ Hieronder vind je de opzet van de posterdag.
 
 ---
 
+## Programma:
+
+- 26 maart 2021 12:30-13:30: flash presentaties
+- 26 maart 2021 13:45-14:15: beoordelen posters door studenten
+- 26 maart 2021 14:15-14:30: afsluiting
+
 ## Voor studenten:
 
 ### Inleveren poster
@@ -26,11 +32,11 @@ Hieronder vind je de opzet van de posterdag.
 
 ### Poster Flashes
 
-- De poster flashes worden gegeven in Blackboard Collaborate in `thema 7 practicum`
+- De poster flashes worden gegeven in Blackboard Collaborate in de Blackboard course `thema 7 practicum`
 - Er zijn parallele groepen (A klas en B klas)
 - Per koppel geeft één student de flash.
-- De flash duurt 2 minuten.
-- De flash bestaat uit 1 slide van Powerpoint (A4 liggend).
+- De flash duurt 1.5-2 minuten.
+- De flash bestaat uit 1 slide gemaakt in Microsoft PowerPoint (A4 liggend).
 - De flash lever je uiterlijk `24 maart om 9:00` in.
 - Lever de flash in als `Powerpoint` file (pptx).
 
