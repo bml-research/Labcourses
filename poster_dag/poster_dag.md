@@ -76,6 +76,10 @@ Een screenshot van het webformulier zie je hieronder:
 ![fig5](./pics/fig5.png)
 
 
+### De posterweek
+
+Zoals gezegd gaan de top 3 posters door naar de posterweek. Je krijgt nog verdere informatie over deze posterweek. Deze is namelijk nog in ontwikkeling.
+
 ---
 
 ## Voor docenten:
