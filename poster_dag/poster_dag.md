@@ -4,14 +4,14 @@
 
 # Opzet Thema 7 posterpresentaties 2021
 
-## Datum: 26-03-2021
+## Datum Postermiddag thema 7: 26-03-2021
 
 >Vanwege de Coronacrisis moet de posterdag online georganiseerd worden.
 Hieronder vind je de opzet van de posterdag.
 
 ---
 
-## Programma:
+## Programma postermiddag thema 7:
 
 - 26 maart 2021 12:30-13:30: flash presentaties
 - 26 maart 2021 13:45-14:15: beoordelen posters door studenten
@@ -19,7 +19,18 @@ Hieronder vind je de opzet van de posterdag.
 
 ## Voor studenten:
 
-### Inleveren poster
+### 1. Inleveren poster voor feedback studentkoppel
+
+- Lever je eerste versie poster in via eLabjournal voor feedback van ander studentkoppel
+- Je geeft **constructieve** feedback op de poster van een ander koppel.
+- Zorg ervoor dat dit commentaar opgeslagen wordt in eLabjournal bij het betreffende koppel.
+- Dit hoeft maar bij 1 van de studenten van het koppel.
+- De student waarbij geen feedback geschreven is mag dit commentaar overnemen van de andere student van het koppel.
+- De docent maakt de indeling voor de feedback of jullie mogen dit onderling regelen (vraag je docent van het practicum).
+- Zorg ervoor dat dit deel is afgerond voor **23 maart 2021**.
+
+
+### 2. Inleveren poster voor vak "Poster Engels"
 
 - Lever je poster via Blackboard thema 7 (zie screenshot) in.
 - Per koppel lever je maar **1 poster** in.
@@ -30,7 +41,7 @@ Hieronder vind je de opzet van de posterdag.
 
 ![fig1](./pics/fig1.png)
 
-### Poster Flashes
+### 3. Inleveren Slide Poster Flashes
 
 - De poster flashes worden gegeven in Blackboard Collaborate in de Blackboard course `thema 7 practicum`
 - Er zijn parallele groepen (A klas en B klas)
@@ -45,7 +56,10 @@ De Collaborate sessies staan klaar in thema 7. Iedereen heeft presentatierechten
 ![fig2](./pics/fig2.png)
 
 
-### Geef een rating voor de mooiste/beste posters
+### 4. Geef een rating voor de mooiste/beste posters
+
+>Opmerking: Dit gaat mogelijk via Pitch2Peer.
+Houd deze webpagina in de gaten voor dit punt. Indien Pitch2Peer niet gebruikt wordt dan geldt onderstaande:
 
 De posters beoordelen jullie via een webformulier.
 
@@ -77,7 +91,7 @@ Een screenshot van het webformulier zie je hieronder:
 ![fig5](./pics/fig5.png)
 
 
-### De posterweek
+### 5. De Posterweek
 
 Zoals gezegd gaan de top 3 posters door naar de posterweek. Je krijgt nog verdere informatie over deze posterweek. Deze is namelijk nog in ontwikkeling.
 
