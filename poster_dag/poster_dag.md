@@ -21,9 +21,9 @@ Hieronder vind je de opzet van de posterdag.
 
 ### 1. Inleveren poster voor feedback studentkoppel
 
-- Lever je eerste versie poster in via eLabjournal voor feedback van ander studentkoppel
-- Je geeft **constructieve** feedback op de poster van een ander koppel.
-- Zorg ervoor dat dit commentaar opgeslagen wordt in eLabjournal bij het betreffende koppel.
+- Lever de eerste versie van je poster in (labjournaal met naam `Poster`) in eLabjournal voor feedback van ander studentkoppel
+- Je geeft **constructieve** feedback op de poster van een ander koppel. Op deze manier geeft en krijgt iedereen feedback.
+- Zorg ervoor dat dit commentaar opgeslagen wordt in het labjournaal genaamd `Poster` in eLabjournal bij het betreffende koppel.
 - Dit hoeft maar bij 1 van de studenten van het koppel.
 - De student waarbij geen feedback geschreven is mag dit commentaar overnemen van de andere student van het koppel.
 - De docent maakt de indeling voor de feedback of jullie mogen dit onderling regelen (vraag je docent van het practicum).
