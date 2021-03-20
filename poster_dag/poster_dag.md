@@ -37,7 +37,7 @@ Hieronder vind je de opzet van de posterdag.
 - De student met het **laagste** studentnummer levert de poster in.
 - Lever je poster in in **PDF** formaat. Dus niet als PowerPoint file.
 - De assignment gaat **23 maart** open.
-- De assignment sluit op **25 maart om 9:00 in de ochtend**. Zorg er dus voor dat je het voor die tijd hebt ingeleverd! Wij moeten namelijk de posters op tijd klaar zetten.
+- De assignment sluit op **25 maart om 9:00 in de ochtend**. Zorg er dus voor dat je het voor die tijd hebt ingeleverd! 
 
 ![fig1](./pics/fig1.png)
 
