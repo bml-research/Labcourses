@@ -17,8 +17,8 @@ Hieronder vind je de opzet van de posterdag.
 
 ## Programma postermiddag thema 7:
 
-- 26 maart 2021 12:30-13:30: flash presentaties
-- 26 maart 2021 13:45-14:30: beoordelen posters door studenten
+- **26 maart 2021 12:30-13:30**: flash presentaties (1.5 tot 2 minuten, live presentatie via BB Collaborate door 1 student van koppel)
+- **26 maart 2021 13:45-14:30**: beoordelen posters door studenten
 - De docenten maken de "top 3 posters" die door gaan naar de posterweek bekend op **maandag 29 maart 2021**
 
 ## Voor studenten:
