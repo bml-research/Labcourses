@@ -14,8 +14,8 @@ Hieronder vind je de opzet van de posterdag.
 ## Programma postermiddag thema 7:
 
 - 26 maart 2021 12:30-13:30: flash presentaties
-- 26 maart 2021 13:45-14:30: beoordelen posters door studenten
-- De docenten maken de "top 3 posters" die door gaan naar de posterweek bekend op **maandag 29 maart 2021**
+- 26 maart 2021 13:45-14:15: beoordelen posters door studenten
+- 26 maart 2021 14:15-14:30: afsluiting
 
 ## Voor studenten:
 
@@ -27,7 +27,7 @@ Hieronder vind je de opzet van de posterdag.
 - Dit hoeft maar bij 1 van de studenten van het koppel.
 - De student waarbij geen feedback geschreven is mag dit commentaar overnemen van de andere student van het koppel.
 - De docent maakt de indeling voor de feedback of jullie mogen dit onderling regelen (vraag je docent van het practicum).
-- Zorg ervoor dat dit deel is afgerond voor **23 maart 2021 9:00**.
+- Zorg ervoor dat dit deel is afgerond voor **23 maart 2021**.
 
 
 ### 2. Inleveren poster voor vak "Poster Engels"
@@ -36,7 +36,7 @@ Hieronder vind je de opzet van de posterdag.
 - Per koppel lever je maar **1 poster** in.
 - De student met het **laagste** studentnummer levert de poster in.
 - Lever je poster in in **PDF** formaat. Dus niet als PowerPoint file.
-- De assignment gaat **23 maart 9:00** open.
+- De assignment gaat **23 maart** open.
 - De assignment sluit op **25 maart om 9:00 in de ochtend**. Zorg er dus voor dat je het voor die tijd hebt ingeleverd! 
 
 ![fig1](./pics/fig1.png)
@@ -48,39 +48,20 @@ Hieronder vind je de opzet van de posterdag.
 - Per koppel geeft één student de flash.
 - De flash duurt 1.5-2 minuten.
 - De flash bestaat uit 1 slide gemaakt in Microsoft PowerPoint (A4 liggend).
-- De flash kun je inleveren via Blackboard (zie screenshot hieronder vanaf **23 maart om 9:00**)
-- De flash lever je uiterlijk **25 maart om 9:00 in de ochtend** in.
+- De flash lever je uiterlijk `24 maart om 9:00` in.
 - Lever de flash in als `Powerpoint` file (pptx).
-
-De Flash lever je in Blackboard in:
-
-![fig1b](./pics/fig1b.png)
 
 De Collaborate sessies staan klaar in thema 7. Iedereen heeft presentatierechten in deze sessie:
 
 ![fig2](./pics/fig2.png)
 
 
-### 4. Pitch2Peer (beoordelen van posters)
+### 4. Geef een rating voor de mooiste/beste posters
 
-#### Inleveren van de poster:
+>Opmerking: Dit gaat mogelijk via Pitch2Peer.
+Houd deze webpagina in de gaten voor dit punt. Indien Pitch2Peer niet gebruikt wordt dan geldt onderstaande:
 
->Opmerking: Dit zal via Pitch2Peer verlopen.
-
-- Lever je poster in voor Pitch2Peer via `Blackboard>thema 7>practicum` (zie screenshot).
-- Lever je poster in in **PDF formaat**.
-- Alleen de student met het laagste studentnummer van een koppel levert in.
-- Lever dit in na **23 maart om 9:00**
-- Uiterlijke inleverdatum is **25 maart om 9:00 in de ochtend**
-
-![fig8](./pics/fig8.png)
-
-![fig9](./pics/fig9.png)
-
-#### Beoordelen van de posters:
-
-Op **vrijdag 26 maart** gaan jullie om **13:45** elkaars posters `likes` geven met `Pitch2Peer`.
-Je kan in Pitch2Peer komen via `Blackboard>thema7>practicum`. Zie screenshot hierboven.
+De posters beoordelen jullie via een webformulier.
 
 >Tip: denk bij de beoordeling aan dingen als:
 >- is de poster overzichtelijk?
@@ -88,12 +69,27 @@ Je kan in Pitch2Peer komen via `Blackboard>thema7>practicum`. Zie screenshot hie
 >- is de inhoud wetenschappelijk informatief?
 
 We hebben verder de volgende spelregels opgesteld:
-- iedere student kan 5 `likes` geven.
+- het is de bedoeling dat iedere student een top 3 van de posters opgeeft.
 - je mag niet voor je eigen poster kiezen.
-- de top 3 met de meeste `likes` `per klas gaan naar de selectiepool voor docenten.
+- keuze 1 levert 3 punten op, keuze 2 levert 2 punten op en keuze 3 levert 1 punt op.
+- de top 3 met de meeste punten gaan naar de selectiepool voor docenten
 - het kan zijn dat er een gelijkspel ontstaat, in dat geval kunnen meer dan 3 posters door gaan naar de selectiepool voor docenten.
-- De docenten kiezen uit deze pool van 6 posters (kunnen er meer zijn in geval van gelijk spel) 3 posters voor de posterweek.
-- De docenten laten **maandag 29 maart 2021** weten welke posters doorgaan naar de posterweek.
+- De docenten kiezen uit deze pool van posters 3 posters voor de posterweek.
+
+De links naar de posters staan in Blackboard (nu nog niet open). Selecteer de juiste groep (klas A of klas B)
+
+![fig3](./pics/fig3.png)
+
+>Tip: zet de tegelvoorvertoning in OneDrive optie op actief (tiles).
+Op deze manier zie je al een voorvertoning van de poster.
+
+![fig4](./pics/fig4.png)
+
+Selecteer de juiste groep om je voorkeuren op te geven (klas A of klas B)
+Een screenshot van het webformulier zie je hieronder:
+
+![fig5](./pics/fig5.png)
+
 
 ### 5. De Posterweek
 
