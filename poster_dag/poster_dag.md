@@ -11,6 +11,10 @@ Hieronder vind je de opzet van de posterdag.
 
 ---
 
+>NB: De voertaal van zowel de poster als de pitch is **Engels**. De Pitch geef je dus in het Engels.
+
+---
+
 ## Programma postermiddag thema 7:
 
 - 26 maart 2021 12:30-13:30: flash presentaties
@@ -27,6 +31,7 @@ Hieronder vind je de opzet van de posterdag.
 - Dit hoeft maar bij 1 van de studenten van het koppel.
 - De student waarbij geen feedback geschreven is mag dit commentaar overnemen van de andere student van het koppel.
 - De docent maakt de indeling voor de feedback of jullie mogen dit onderling regelen (vraag je docent van het practicum).
+- Uiteraard gebruik je deze feedback om de eerste versie van je poster te verbeteren. De verbeterde versie pas je uiteraard aan.
 - Zorg ervoor dat dit deel is afgerond voor **23 maart 2021 9:00**.
 
 
