@@ -52,7 +52,7 @@ Hieronder vind je de opzet van de posterdag.
 - Er zijn parallele groepen (A klas en B klas)
 - Per koppel geeft één student de flash.
 - De flash duurt 1.5-2 minuten.
-- De flash bestaat uit 1 slide gemaakt in Microsoft PowerPoint (A4 liggend).
+- De flash bestaat uit 1 slide gemaakt in Microsoft PowerPoint (standaard formaat (Widescreen 16:9)).
 - De flash kun je inleveren via Blackboard (zie screenshot hieronder vanaf **23 maart om 9:00**)
 - De flash lever je uiterlijk **25 maart om 9:00 in de ochtend** in.
 - Lever de flash in als `Powerpoint` file (pptx).
