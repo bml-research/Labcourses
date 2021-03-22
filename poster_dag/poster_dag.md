@@ -90,7 +90,7 @@ Je kan in Pitch2Peer komen via `Blackboard>thema7>practicum`. Zie screenshot hie
 We hebben verder de volgende spelregels opgesteld:
 - iedere student kan 5 `likes` geven.
 - je mag niet voor je eigen poster kiezen.
-- de top 3 met de meeste `likes` `per klas gaan naar de selectiepool voor docenten.
+- de top 3 met de meeste `likes` per klas gaan naar de selectiepool voor docenten.
 - het kan zijn dat er een gelijkspel ontstaat, in dat geval kunnen meer dan 3 posters door gaan naar de selectiepool voor docenten.
 - De docenten kiezen uit deze pool van 6 posters (kunnen er meer zijn in geval van gelijk spel) 3 posters voor de posterweek.
 - De docenten laten **maandag 29 maart 2021** weten welke posters doorgaan naar de posterweek.
