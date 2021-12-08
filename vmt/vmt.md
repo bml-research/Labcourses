@@ -249,8 +249,6 @@ In view of the importance of obtaining the certificate, a retake of the entire c
 
 (Gram staining: at own discretion)  
 
-
-
 ### Day 3: (Results)
 
 #### Completion:
@@ -305,7 +303,10 @@ Solutions to be tested:
 
 
 
->Assignment: Create a table with the results achieved. Specify your conclusion at the end.
+>Assignment:  
+Create a table with the results achieved. Specify your conclusion at the end.
+
+---
 
 ### 3.2. SMT-2: Influence of washing and disinfection on skin flora
 
@@ -335,11 +336,12 @@ Incubate overnight at a temperature of 37°C.
 Create a gram stain of the colony that you will use for SMT-9 (see 3.3.6 for the gram staining; see SMT-9 for further instructions).  
 
 
-#### Assignment:
+>Assignment:  
 Document your results using photographs and a table. In the table, describe the numbers of colonies, the colour and the form. Take a photograph or draw a picture of the bacteria after gram staining. Specify your conclusion at the end.  
 
-### 3.3. SMT-3: Determination of number of cultivable micro-organisms (= germ count) in Yakult.
+---
 
+### 3.3. SMT-3: Determination of number of cultivable micro-organisms (= germ count) in Yakult.
 
 Techniques: 
 - Medium preparation, sterile pipetting, plate pouring, gram staining  
@@ -397,12 +399,9 @@ Prepare a dilution series from an undiluted sample (Yakult) as follows:
 
 Dilution series:  
 - Fill six sterile test tubes with 9 ml of physiological salt (exactly).  
-
 - From an undiluted sample (= Yakult), pipette 1 ml into a test tube, completely sterile, in which there are 9 ml of physiological saline solution (dilution $10^{-1}$ =10x).  
-
 - From dilution $10^{-1}$, pipette 1 ml into a test tube, completely sterile, in which there are 9 ml of physiological saline solution
 (dilution $10^{-2}$ =100x).  
- 
 - From dilution $10^{-2}$, pipette 1 ml into a test tube, completely sterile, in which there are 9 ml of physiological saline solution
 (dilution $10^{-3}$ =1000x).  
 - Continue doing this until you reach a dilution of $10^{-6}$ (=1,000,000x)  
@@ -440,12 +439,233 @@ Use of a cell spreader. Source: https://en.wikipedia.org/wiki/Cell_spreader#/med
 </sub>*
 
 
->Assignment:
+>Assignment:  
 Create a table with the number of colonies from the pour method and mix method for the different dilutions.
 Calculate the germ count.
 
+---
+
+### 3.4. SMT-4 Contamination through condensation
+
+Condensation can be heavily contaminated thus making it a source of contamination. This experiment demonstrates that the culture media must be dried before they are used. In addition, when a petri dish is opened, the jumping of liquid film between the cap and bottom can lead to aerosol formation.  
+
+#### Preparatory questions:  
+1. What appearance do E. coli colonies have on a MacConkey culture medium?  
+2. Who is responsible for properly disinfecting the workbenches once work with GMOs is complete (see guide: handboekggoHanze_student.pdf Appendix 2, on Bb)?  
+
+#### Execution
+- Inoculate one of the freshly poured nutrient agar plates after coagulation with 0.1 ml of an *E. coli* culture.  
+- Spread this culture out with a Drigalski spatula.    
+- Incubate for no less than one hour at 37°C (with the cap upwards = incorrect).  
+- Wear gloves and disinfect with 70% ethanol. Then, turn the plate upside down twice.  
+- Open the petri dish with the gloved hand and, using a sterile cotton swap moistened in sterile H2O, remove some of the condensation from the caps of the petri dish and transfer it to a MacConkey agar plate.  
+- Rub the fingers of the gloved hand over a second MacConkey plate.  
+- Incubate both plates at 37°C.  
 
 
+>Assignment:   
+Describe your results and specify a conclusion.
+
+---
+
+### 3.5. SMT-5: Air sedimentation 
+
+To prevent infection from the air, always work within 15 cm of a brightly burning flame so that the air is forced upwards. The number of germs in the air in a work area highly depends on the activity in that area, the type of work being undertaken there and the types of people present. For an idea of the composition and ‘number’ of micro-organisms in the air, they can be sedimented on open YAG (Yeast Agar Glucose) and MA (Malt Agar) plates.  
+
+#### Preparatory questions:  
+1. Which type of micro-organism grows primarily on MA plates?  
+2. Which type of micro-organism grows primarily on YAG plates?  
+3. In what two ways can you prevent sedimentation of unwanted micro-organisms from the air in your experiment?  
+
+#### Execution:  
+- Take four YAG and four MA plates (will be ready for you). Place them in an open area of the room for analysis. The petri dishes must be open for 30, 60, 120 and 240 minutes. This should be done by closing them after 30, 60, 120 and 240 minutes respectively.
+- Incubate them for two days at 37°C.  
+- Count the number of colonies per culture medium.  
+- In addition, describe a number of characteristic colonies.  
+
+>Assignment:   
+Describe your results using a table.  
+On a graph, plot the number of colonies per type of plate against the sedimentation time.  
+
+---
+
+## 3.6. SMT-6: Incorrect flaming of the inoculation loop (splash test)
+
+Incorrect annealing of an inoculation loop can lead to contamination of the environment. In this experiment, the inoculation loop is deliberately flamed incorrectly.  
+
+#### Execution
+Day 1  
+To flame an inoculation loop correctly, you should proceed as follows:  
+1. Hold the eyelet in the ‘cold’ part of the flame so that contaminated material in the eyelet is firstly evaporated through thermal conduction.
+2. After evaporation, the material is incinerated by heating the eyelet in the hottest part of the flame until it is glowing hot.
+3. The entire wire should then be heated until glowing hot.
+4. The metal part of the inoculation loop holder is then run through the flame three times more (avoid overheating).  
+
+[This movie](https://www.youtube.com/watch?v=LbNkJ6UKNXY) shows the correct way to sterilise the inoculation loop.  
+
+
+Day 2  
+- Place the burner in the centre of a sheet of A2 filter paper. Place a maximum of two MacConkey plates per person close to the flame. If there are several people, you can use several MacConkey plates at various distances apart. Take a photograph of the setup and record which plate is where.  
+- Take an inoculation loop of bacterial colony material from your incubated plate of E. coli culture and open the prepared petri dishes.
+- Flame the eyelet directly over a maximum burning flame.  
+- Splashing can be repeated several times  
+- Incubate the plates overnight at a temperature of 37°C  
+
+>Assignment:  
+Count the number of *E. coli* colonies that you encounter on the various culture media. Describe your findings in your logbook. Specify your conclusion at the end.
+
+---
+
+### 3.7. SMT-7 Use and effect of a hot inoculation loop
+
+#### Execution
+Day 1  
+- Place a drop of liquid E. coli culture in the centre of two MacConkey plates and incubate overnight at 37°C without streaking. 
+
+Day 2  
+- Take a very hot inoculation loop and touch the colony on a plate and graft onto a new NA plate by streaking the inoculation loop over the culture medium  
+- Do the same on another plate with a flamed and well-cooled inoculation loop.  
+- Incubate all four plates overnight at 37°C.  
+
+Day 3  
+- Describe and draw/photograph the appearance of the culture media.  
+
+---
+
+### 3.8. SMT-8 Axenic cultivation
+
+‘Everything is everywhere, but the environment selects’  
+Accumulation is used to isolate certain micro-organisms. Accumulation consists of incubation of the material from which the micro-organism needs to be isolated in such an environment that cultivation conditions are ideal for the micro-organism being isolated and are not ideal for the other micro-organisms present. The rapid growth of the micro-organism being isolated will cause the other organisms to be supplanted.  
+
+Isolation of bacteria from mixed cultures.  
+When multiple bacteria occur in a liquid culture, they can be separated from one another. Selective accumulation is important in this, followed by streaking. 
+The objective of streaking is to obtain loose colonies. Streaking of micro-organisms should always take place within 15 cm of a brightly burning Bunsen burner flame. Bacteria can be transferred from the bouillon to the NA agar with a cooled and sterile inoculation loop. Take as few bacteria as possible with the loop and streak them over the culture medium. Use the entire culture medium in such a way that concentration of bacteria gradually decreases. To this end, make sure to flame the inoculation loop between steps 1, 2, 3 and (if applicable) 4. This will cause loose colonies to form on the NA agar after incubation at 37°C. A loose colony originates from a single bacterium. Once you have carried out streaking of a single loose colony three times, you will have a pure culture.  
+
+![Pic](./pics/fig3.jpg)
+*<sub>
+An axenic culture. Source: https://en.wikipedia.org/wiki/Axenic
+</sub>*
+
+
+#### Preparatory questions:
+1. What is the basic form of the E. coli and Bacillus subtilis bacteria?  
+2. What gram character do the E. coli and Bacillus subtilis bacteria have?  
+3. At what point is it recommended that you check the purity of a GMO bacteria strain (see paragraph 6.5 in the guide: handboekggoHanze_student.pdf on Bb)?  
+
+
+#### Execution:
+Day 1  
+- Using a properly flamed inoculation loop, take a drop of mixture culture.  
+- Using the streaking technique, streak the drop onto an NA culture medium.  
+- Incubate overnight at a temperature of 37°C  
+
+Day 2  
+- Assess the growth on the culture medium and describe the colony morphologies  
+- Streak two different colonies each onto a fresh NA culture medium using the streaking technique  
+- Incubate overnight at a temperature of 37°C  
+
+Day 3  
+- Assess the growth on the culture media  
+- Create a gram preparation of both types of colony  
+- Assess the gram staining  
+
+#### Question:  
+What can go wrong when streaking a bacteria colony from one fixed medium to another?
+
+
+>Assignment:  
+Take a photograph of your incubated culture medium.
+Create a gram stain of one of the loose colonies. Then, take a photograph or make a drawing.
+
+### 3.9. SMT-9: Sensitivity test
+
+>Note that this experiment involves working with antibiotics. If you are allergic to antibiotics in any way, you must always report this to the lecturers in the laboratory and make sure that you carry an EpiPen if you need to.  
+	
+Antibiotics and/or chemotherapeutics are generally used to effectively combat diseases caused by micro-organisms. When working systematically, you firstly isolate the causative micro-organisms and then determine the antibiotics and chemotherapeutics that the particular micro-organism is sensitive to.
+By placing tablets containing different antibiotics on a suitable agar medium (in which the micro-organism being tested is suspended), growth inhibition zones can occur after incubation (Figure 3.6). These are clear areas around the tablets containing antibiotic to which the micro-organism is sensitive (agar diffusion method). The remainder of the medium will become turbid through growth. The diameter of the zone is a measure of the sensitivity.  
+
+![Pic](./pics/fig4.jpg)
+*<sub>
+A sensitivity test. Source: https://en.wikipedia.org/wiki/Antibiotic_sensitivity_testing#/media/File:Antibiotic_sensitivity_test.jpg
+</sub>*
+
+See the picture above for the result of a sensitivity test. By placing tablets containing different antibiotics on a suitable agar medium (in which the micro-organism being tested is suspended), growth inhibition zones can occur after incubation. The diameter of the zone is a measure of the sensitivity of the micro-organism to the antibiotics.
+
+##### Preparatory questions  
+1. Describe the mode of action for the antibiotics used (how do the antibiotics inhibit growth of the bacteria)?  
+2. For the antibiotics used, find out whether the application is specific for gram-negative and/or gram-positive bacteria.  
+
+#### Execution
+- Select a bacteria colony from a blood agar plate from SMT-2. Create a gram stain of this colony.  
+- Create a moderately turbid suspension of this isolated colony in 2 ml of sterile physiological salt.  
+- Mix this 2 ml suspension in a petri dish with 15 ml of liquid nutrient agar at 45°C.  
+- Once the agar has coagulated, use sterile tweezers to place a few tablets (four – teracylin, streptomycin, amoxicillin and ampicillin) on the plate. Ensure that the tablets make good contact with the culture medium (press lightly).  
+- Place the plate in the refrigerator for one hour to ensure better diffusion.  
+- Then, incubate for one day at 37°C.  
+
+
+>Assignment:  
+Measure the diameters of the growth inhibition zones and take a photograph of the plate with its growth inhibition zones. Include the result of the gram staining. Are your results in line with your expectations?
+
+---
+
+### 3.10 Gram staining
+
+Gram staining is often used to classify micro-organisms into groups. By staining, the bacteria can be divided into gram-positive and gram-negative bacteria.
+The cells are stained with a crystal violet iodine complex, bleached with alcohol and post-stained with aqueous fuchsin or safranin. In the case of gram-positive bacteria, the crystal violet iodine complex is not washed away by the alcohol – these cells turn blue/purple. Gram-negative cells lose this colour due to the alcohol; by post-staining with safranin, they will turn red/pink. The difference between gram-positive and gram-negative bacteria is in the composition of the cell wall. 
+
+Many layers of mucopeptide are found in gram-positive cell walls, with multiple peptide cross-links. Teichonic acids are embedded in gram-positive cell walls. 
+
+![Pic](./pics/fig5.png)
+*<sub>
+Difference between Gram-positive and Gram-negative cell membranes and cell walls. Source: https://en.wikipedia.org/wiki/Gram-positive_bacteria#/media/File:Gram-Cell-wall.svg
+</sub>*
+
+
+There is only one layer of mucopeptide in gram-negative cell walls, with very few cross-links. The cell wall of a gram-negative cell is, therefore, more vulnerable than that of a gram-positive cell. The outside of the mucopeptide has an ‘outer membrane’, a layer comprising phosphilipids, proteins and lipopolysaccharide. The lipopolysaccharide part is toxic and is known as endotoxin, responsible for fever and headaches. The endotoxin is highly heat stable and can withstand heat better than the bacteria themselves, thus can also be found in sterilised glassware. This can be a problem when preparing infusion fluids, which must be specially prepared in endotoxin-free (pyrogen-free) glassware. Thanks to the presence of the outer membrane, gram-negative bacteria are less sensitive to penicillin than gram-positive counterparts. 
+
+![Pic](./pics/fig6.png)
+*<sub>
+Structure of the Gram-positive cell wall. Source: https://en.wikipedia.org/wiki/Gram-positive_bacteria#/media/File:Gram-positive_cellwall-schematic.png
+</sub>* 
+
+ 
+
+![Pic](./pics/fig7.jpg)
+*<sub>
+Gram stain of mixed *Staphylococcus aureus* (gram-positive cocci, in purple) and *Escherichia coli* (gram-negative bacilli, in red). Source: https://en.wikipedia.org/wiki/Gram_stain#/media/File:Gram_stain_01.jpg
+</sub>*
+
+
+#### Execution:
+Depending on the starting material, the bacteria are placed on a grease-free microscope slide and fixed in place.
+
+a. Colony material is placed on a grease-free microscope slide with a drop of 10% formalin using an inoculation loop.  
+- Suspend the colony material in the formalin over an area approximately the size of a one Euro coin; the suspension must not be too thick, but slightly turbid.  
+- Dry the preparation in the air; if necessary, place it on a heat plate at a maximum temperature of 50°C.  
+
+b. A culture in liquid medium is streaked directly onto a grease-free microscope slide  
+- Add a small drop to the microscope slide  
+- Distribute the culture over the slide by streaking it over an area approximately the size of a one Euro coin  
+- Dry the preparation in the air; if necessary, place it on a heat plate at a maximum temperature of 50°C.  
+
+
+The dried preparation is passed through the gram series.  
+
+- Tray 1:	5 minutes fixation in 96% ethanol  
+- Tray 2:	1 minute in a filtered, aqueous crystal violet solution  
+- Tray 3:	Tap water, rinse the preparation thoroughly and allow to drip drain (otherwise the iodine solution will become diluted)  
+- Tray 4:	1 minute in iodine solution (lugol)  
+- Tray 5:	1 minute in 99% ethanol  
+- Tray 6:	Tap water, rinse the preparation thoroughly and allow to drip drain (otherwise the alkaline fuchsin solution will become diluted)  
+- Tray 7:	1 minute in alkaline fuchsin solution  
+- Tray 8:	Tap water, rinse thoroughly  
+
+- Dry the preparation between filter paper  
+- Observe the preparation with a 100x lens (oil immersion lens)  
+
+
+> During the SMT course, each student must create at least four gram preparations, assess them and describe them in the logbook in relation to the corresponding experiment. For some experiments, it is clearly stated that gram staining must be carried out.  
 
 --- 
 
