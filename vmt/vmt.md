@@ -420,7 +420,7 @@ Dilution series:
 - Count the colonies on the plates, with the number of colonies between 30 and 300.  
 
 
-##### 3.3.5. Streak or spread plate method
+#### 3.3.5. Streak or spread plate method
 
 #### Execution  
 - Pipette 0.1 ml of the dilution being analysed onto the previously poured NA culture media (3.3.2).  
@@ -429,15 +429,20 @@ Dilution series:
 - Count the colonies on the plates, with the number of colonies between 30 and 300.  
 
 #### Use a Drigalski spatula
-Reusable metal Drigalski spatulas are used for this experiment. Between spatulas of different culture media, the Drigalski spatula must be disinfected with 70% ethanol and run through the flame. A number of safety aspects must be borne in mind here:  
+Reusable metal Drigalski spatulas (cell spreader) are used for this experiment. Between spatulas of different culture media, the Drigalski spatula must be disinfected with 70% ethanol and run through the flame. A number of safety aspects must be borne in mind here:  
 - Do not place the beaker of ethanol or Drigalski spatula too close to the flame of the Bunsen burner.  
 - Briefly run the Drigalski spatula with ethanol through the flame and allow the ethanol to evaporate/burn next to the flame. Keeping the Drigalski spatula in the flame for too long will cause it to become too hot.  
 - Never place the Drigalski spatula back in the ethanol if it still burning.  
 
+![Pic](./pics/fig2.jpg)
+*<sub>
+Use of a cell spreader. Source: https://en.wikipedia.org/wiki/Cell_spreader#/media/File:Uses_of_a_cell_spreader.jpg
+</sub>*
+
+
 >Assignment:
 Create a table with the number of colonies from the pour method and mix method for the different dilutions.
 Calculate the germ count.
-
 
 
 
