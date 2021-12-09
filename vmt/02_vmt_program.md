@@ -43,14 +43,14 @@ Experiment 10: Gram staining: at own discretion
 ### Day 3: (Results)
 
 #### Completion:
-1.SMT-3: Count mix and spread plates with between 30 and 300 micro-organisms.  
+1. Experiment-3: Count mix and spread plates with between 30 and 300 micro-organisms.  
 How many micro-organisms did the original product contain?  
-2.SMT-5: Assessment of air sedimentation. Count and describe the colonies.  
-3.SMT-6: incorrect flaming with quantity of solid culture.  
-4.SMT-7 Use and effect of hot inoculation loops.  
-5.SMT-8 Assessment of streaking.  
-6.SMT-9: Assessment of sensitivity test.  
-7.SMT debrief.  
+2. Experiment-5: Assessment of air sedimentation. Count and describe the colonies.  
+3. Experiment-6: incorrect flaming with quantity of solid culture.  
+4. Experiment-7 Use and effect of hot inoculation loops.  
+5. Experiment-8 Assessment of streaking.  
+6. Experiment-9: Assessment of sensitivity test.  
+7. SMT debrief.  
 8.Complete SMT test.  
 9.Clean up all cultures and materials  
 10.Complete logbook  
