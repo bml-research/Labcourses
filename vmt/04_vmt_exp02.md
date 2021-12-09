@@ -32,7 +32,7 @@ Incubate overnight at a temperature of 37°C.
 3.	Under the guidelines (guide page 20: handboekggoHanze_student.pdf on Bb), how should you treat your hands if they have become contaminated while working?  
 
 
-Create a gram stain of the colony that you will use for SMT-9 (see 3.3.6 for the gram staining; see SMT-9 for further instructions).  
+Create a gram stain of the colony that you will use for experiment-9 (see experiment-10 for the gram staining; see experiment-9 for further instructions).  
 
 
 >Assignment:  

@@ -13,7 +13,7 @@ Every practical session must start and end with disinfection of the bench surfac
 The disinfectant effect of different disinfectant solutions is compared.  
 
 ### Execution
-Disinfect three tiles thoroughly with 70% ethanol. Once the ethanol has evaporated, apply 0.1 ml of E. coli culture to the tiles using a Pasteur pipette.  
+Disinfect three tiles thoroughly with 70% ethanol. Once the ethanol has evaporated, apply 0.1 ml of *E. coli* culture to the tiles using a Pasteur pipette.  
 Then, apply 0.5 ml of Amochlor to one tile using a Gilson pipette and 0.5 ml of green soap to the second tile followed by an excess of ethanol to the third tile. The suspensions must be applied to the tiles separately from one another. The liquids are then mixed on the tiles with three sterile cotton applicators. Mix and apply tile by tile, otherwise there won’t be enough time.  
 
 Solutions to be tested:	 
@@ -22,10 +22,10 @@ Solutions to be tested:
 3. Ethanol 70%
 
 - Moisten a sterile cotton applicator with nutrient both (= liquid medium) and press out any abundant liquid.  
-- Using the moistened sterile cotton applicator, take a sample as quickly as possible at 0 min. (= t0 immediately after mixing disinfectant and E. coli), after 2 min. (= t1), after 8 min. (= t2) and after 16 min. (= t3).  
+- Using the moistened sterile cotton applicator, take a sample as quickly as possible at 0 min. (= t0 immediately after mixing disinfectant and *E. coli*), after 2 min. (= t1), after 8 min. (= t2) and after 16 min. (= t3).  
 - Transfer the cotton applicator to a culture tube with nutrient both.  
 - Inoculate a tube with a cotton applicator moistened with nutrient broth that has not been in contact with the culture (= sterility control)  
-- Inoculate a tube with a cotton applicator with E. coli cells from the culture (= growth control).  
+- Inoculate a tube with a cotton applicator with *E. coli* cells from the culture (= growth control).  
 - Inoculate overnight at a temperature of 37°C and assess for growth.  
 
 
