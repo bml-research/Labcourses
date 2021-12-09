@@ -26,7 +26,7 @@ See the picture above for the result of a sensitivity test. By placing tablets c
 2. For the antibiotics used, find out whether the application is specific for gram-negative and/or gram-positive bacteria.  
 
 #### Execution
-- Select a bacteria colony from a blood agar plate from SMT-2. Create a gram stain of this colony.  
+- Select a bacteria colony from a blood agar plate from experiment-2. Create a gram stain of this colony.  
 - Create a moderately turbid suspension of this isolated colony in 2 ml of sterile physiological salt.  
 - Mix this 2 ml suspension in a petri dish with 15 ml of liquid nutrient agar at 45°C.  
 - Once the agar has coagulated, use sterile tweezers to place a few tablets (four – teracylin, streptomycin, amoxicillin and ampicillin) on the plate. Ensure that the tablets make good contact with the culture medium (press lightly).  

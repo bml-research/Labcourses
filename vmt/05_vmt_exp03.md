@@ -39,7 +39,7 @@ Pour several NA (nutrient agar) plates. The NA agar will be ready for you in 100
 -Pour five or six plates within 15 cm of a burning flame so that each petri dish contains around 15 - 20 ml of nutrient agar. 
 Do not wait for too long before pouring as coagulated agar will not pour.  
 
-- Immediately after pouring, use one of these plates for 3.4 SMT-4: Contamination through condensation. To this end, seal the culture medium with a cap so that plenty of condensation can form in the cap.  
+- Immediately after pouring, use one of these plates for experiment-4: Contamination through condensation. To this end, seal the culture medium with a cap so that plenty of condensation can form in the cap.  
 - Allow the other poured culture media to coagulate next to the brightly burning flame.  
 - Once they have coagulated, seal them with the caps and dry the plates upside down in a 55°C oven or by allowing the culture media to stand next to the open flame for a lengthy period of time.  
 
@@ -88,7 +88,7 @@ Dilution series:
 ### Streak or spread plate method
 
 #### Execution  
-- Pipette 0.1 ml of the dilution being analysed onto the previously poured NA culture media (3.3.2).  
+- Pipette 0.1 ml of the dilution being analysed onto the previously poured NA culture media.  
 - Use a sterile Drigalski spatula (Figure 3.3) to spread the agar evenly until all liquid has been absorbed into the culture medium.  
 - Incubate the plates upside down for two days in the incubator at 37°C.  
 - Count the colonies on the plates, with the number of colonies between 30 and 300.  

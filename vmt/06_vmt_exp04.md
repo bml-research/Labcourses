@@ -20,7 +20,7 @@ Condensation can be heavily contaminated thus making it a source of contaminatio
 - Spread this culture out with a Drigalski spatula.    
 - Incubate for no less than one hour at 37°C (with the cap upwards = incorrect).  
 - Wear gloves and disinfect with 70% ethanol. Then, turn the plate upside down twice.  
-- Open the petri dish with the gloved hand and, using a sterile cotton swap moistened in sterile H2O, remove some of the condensation from the caps of the petri dish and transfer it to a MacConkey agar plate.  
+- Open the petri dish with the gloved hand and, using a sterile cotton swap moistened in sterile $H_2O$, remove some of the condensation from the caps of the petri dish and transfer it to a MacConkey agar plate.  
 - Rub the fingers of the gloved hand over a second MacConkey plate.  
 - Incubate both plates at 37°C.  
 
