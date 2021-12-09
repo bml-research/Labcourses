@@ -1,3 +1,4 @@
+{% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
 [Back to the home page of the crash course](./short.md)
@@ -62,15 +63,3 @@ $V_1 = \frac{150 \cdot 500}{1000} = 75 \ mL$
 
 [Back to the home page of the crash course](./short.md)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>

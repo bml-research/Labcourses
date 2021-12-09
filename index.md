@@ -1,3 +1,4 @@
+{% include head.html %}
 ![Hanze](./hanze/hanze.png)
 
 # Laboratory courses

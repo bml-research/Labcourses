@@ -36,6 +36,3 @@
 
 - [Back to the main page](../index.md)
 
-test3
-
-$\frac{x}{y}$
