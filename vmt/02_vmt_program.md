@@ -1,6 +1,7 @@
 ![Hanze](../hanze/hanze.png)
 
 [Back to the main page](../index.md)
+[Back to the VMT index page](./00_vmt_index.md)
 
 # Veilige Microbiologische Technieken (Safe Microbiological Techniques)
 
@@ -61,6 +62,7 @@ Collect all plastic waste in autoclave bags and ask the lecturer for assistance 
 ---
 
 [Back to the main page](../index.md)
+[Back to the VMT index page](./00_vmt_index.md)
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
