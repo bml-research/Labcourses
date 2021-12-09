@@ -1,3 +1,4 @@
+{% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
 [Back to the main page](../index.md)
