@@ -3,6 +3,7 @@
 ![Hanze](../hanze/hanze.png)
 
 [Back to the main page](../index.md)
+[Back to the VMT index page](./00_vmt_index.md)
 
 # Veilige Microbiologische Technieken (Safe Microbiological Techniques)
 
@@ -71,6 +72,7 @@ The dried preparation is passed through the gram series.
 ---
 
 [Back to the main page](../index.md)
+[Back to the VMT index page](./00_vmt_index.md)
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
