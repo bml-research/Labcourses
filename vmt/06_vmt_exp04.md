@@ -1,7 +1,7 @@
 ![Hanze](../hanze/hanze.png)
 
-[Back to the main page](../index.md)
-[Back to the VMT index page](./00_vmt_index.md)
+[Back to the main page](../index.md)  
+[Back to the VMT index page](./00_vmt_index.md)  
 
 # Veilige Microbiologische Technieken (Safe Microbiological Techniques)
 
@@ -30,8 +30,8 @@ Describe your results and specify a conclusion.
 
 ---
 
-[Back to the main page](../index.md)
-[Back to the VMT index page](./00_vmt_index.md)
+[Back to the main page](../index.md)  
+[Back to the VMT index page](./00_vmt_index.md)  
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({

@@ -1,7 +1,7 @@
 ![Hanze](../hanze/hanze.png)
 
-[Back to the main page](../index.md)
-[Back to the VMT index page](./00_vmt_index.md)
+[Back to the main page](../index.md)  
+[Back to the VMT index page](./00_vmt_index.md)  
 
 # Veilige Microbiologische Technieken (Safe Microbiological Techniques)
 
@@ -54,8 +54,8 @@ Create a gram stain of one of the loose colonies. Then, take a photograph or mak
 
 ---
 
-[Back to the main page](../index.md)
-[Back to the VMT index page](./00_vmt_index.md)
+[Back to the main page](../index.md)  
+[Back to the VMT index page](./00_vmt_index.md)  
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
