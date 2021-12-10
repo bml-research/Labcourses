@@ -1,8 +1,8 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
-[Back to the home page](../index.md)
-[Back to the home page of the crash course](./short.md)
+[Back to the home page](../index.md)  
+[Back to the home page of the crash course](./short.md)  
 
 # The Lowry Assay
 
@@ -54,5 +54,5 @@ Prepare in duplicates:
 
 The end...
 
-[Back to the home page](../index.md)
-[Back to the home page of the crash course](./short.md)
+[Back to the home page](../index.md)  
+[Back to the home page of the crash course](./short.md)  
