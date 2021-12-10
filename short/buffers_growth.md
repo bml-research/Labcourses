@@ -1,6 +1,7 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
+[Back to the home page](../index.md)
 [Back to the home page of the crash course](./short.md)
 
 # Buffer preparation and the effect of pH on growth of *Escherichia coli*
@@ -14,7 +15,7 @@
 - Calculating the generation time of bacteria
 
 ## Introduction and principle
-A buffer solution is a solution consisting of a weak acid and its conjugate base. Buffers are used in laboratory to keep the pH stable. The pH of a buffered solution changes very little when a small amount of acid or base is added. Organisms also make extensive use of buffers. For example, blood contains a carbonic acid ($H_2CO_3$) bicarbonate ($HCO_3^-$) buffer system. 
+A buffer solution is a solution consisting of a weak acid and its conjugate base. Buffers are used in laboratory to keep the pH stable. The pH of a buffered solution changes very little when a small amount of acid or base is added. Organisms also make extensive use of buffers. For example, blood contains a carbonic acid ($H_2CO_3$) bicarbonate ($HCO_3^-$) buffer system.
 
 Recall from High School that the pH is defined as the negative log of the concentration of hydrogen atoms:
 
@@ -40,7 +41,7 @@ $$pK_a = pH -\log \left (\frac{[A^-]}{[HA]} \right)$$
 
 $$pH = pK_a + \log \left (\frac{[A^-]}{[HA]} \right)$$  
 
-The above equation is the **Henderson–Hasselbalch equation** and can be used to estimate the pH of a buffer solution. 
+The above equation is the **Henderson–Hasselbalch equation** and can be used to estimate the pH of a buffer solution.
 
 
 ![pH meter](./buffers/buffers.jpg)
@@ -72,11 +73,11 @@ Note: You start with the experiment below (Effect of pH on *E. coli* growth), fo
 
 ## Effect of pH on *E. coli* growth
 This experiment will be started directly.
-You will receive the same buffers as that you prepared yourself (but these are sterile). There is 100 ml in 250 ml infusion flasks. In addition, you will receive 2 times concentrated growth medium (sterile, in 100 ml infusion flasks). This medium contains 2% trypton, 2% sodium chloride and 1% yeast extract. 
-- Take 3 sterile 50 ml Greiner tubes (each for a pH) and label. 
+You will receive the same buffers as that you prepared yourself (but these are sterile). There is 100 ml in 250 ml infusion flasks. In addition, you will receive 2 times concentrated growth medium (sterile, in 100 ml infusion flasks). This medium contains 2% trypton, 2% sodium chloride and 1% yeast extract.
+- Take 3 sterile 50 ml Greiner tubes (each for a pH) and label.
 - Mix the growth medium 1 to 1 with your buffer solution. Final volume in the Greiner tubes = 25 ml. What will be the strength of your buffer in the medium?
 - Pre-warm the tubes at 37°C in a shaker (220 rpm) for 15 minutes.
-- You will receive a pre-culture of *E. coli* from your supervisor. Measure the optical density at 600 nm by mixing 0.1 ml of the preculture with 0.9 ml blank medium in a cuvette. Mix using a 1 ml pipet. 
+- You will receive a pre-culture of *E. coli* from your supervisor. Measure the optical density at 600 nm by mixing 0.1 ml of the preculture with 0.9 ml blank medium in a cuvette. Mix using a 1 ml pipet.
 - Calculate how much of the pre-culture should be added to the medium to reach a OD600 of 0.15.
 - Add the correct amount of bacteria to each tube and mix using a vortex.
 - Incubate the tubes at 37°C in a shaker (220 rpm).
@@ -109,5 +110,5 @@ $g = \frac{0.301}{slope}$
 
 The end...
 
+[Back to the home page](../index.md)
 [Back to the home page of the crash course](./short.md)
-
