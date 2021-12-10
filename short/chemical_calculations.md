@@ -1,6 +1,7 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
+[Back to the home page](../index.md)
 [Back to the home page of the crash course](./short.md)
 
 # Basics of chemical calculations
@@ -13,7 +14,7 @@ The Avogadro constant is a numeric value expressed as a dimensionless number tha
 
 $Avogadro\ constant = 6.02214076 \cdot 10^{23}$
 
-## Molecular weight 
+## Molecular weight
 The molecular weight $(Mw)$ of an atom has the unit __gram/mol__, and actually represents the weight of $6.02214076 \cdot 10^{23}$ particles of a specific atom. The molecular weight of a molecule can be calculated by adding up the atomic mass of the individual atoms within this molecule.
 For example, water ($H_2O$) contains two hydrogen atoms and 1 oxygen atom. The molecular weight can be calculated as $2 * 1.008 + 15.999 =  18.015\ g/mol$.
 
@@ -61,5 +62,5 @@ $1000 \cdot V_1 = 150 \cdot 500$
 Thus:
 $V_1 = \frac{150 \cdot 500}{1000} = 75 \ mL$
 
+[Back to the home page](../index.md)
 [Back to the home page of the crash course](./short.md)
-

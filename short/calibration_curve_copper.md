@@ -1,6 +1,7 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
+[Back to the home page](../index.md)
 [Back to the home page of the crash course](./short.md)
 
 # Calibration curve copper sulphate
@@ -8,7 +9,7 @@
 ## Learning outcomes
 - Weighing chemicals
 - Pipetting fluids
-- Performing basic absorption measurements 
+- Performing basic absorption measurements
 - Creating basic standard curves using a predefined design
 - Applying linear regression in a spread sheet
 
@@ -23,7 +24,7 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 
 ## Assay
 
-> Important: always look up the safety regulations for the chemicals you use. Make a safety table as outlined below: 
+> Important: always look up the safety regulations for the chemicals you use. Make a safety table as outlined below:
 
 |Substance|Riscs|Prevention Measures|First Aid|Waste Processing|
 |:-------:|-----|-------------------|---------|----------------|
@@ -31,11 +32,11 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 
 
 1. Use a beaker of 200 ml and a graduated cylinder of 100 ml.
-2. Weigh 5 gram $CuSO_4$ using a weighing paper. 
-3. Add approximately 25 ml of demi water in the beaker and add $CuSO_4$. 
-4. When dissolved, add the $CuSO_4$ in the graduated cylinder and add demi water up to 50 ml. 
+2. Weigh 5 gram $CuSO_4$ using a weighing paper.
+3. Add approximately 25 ml of demi water in the beaker and add $CuSO_4$.
+4. When dissolved, add the $CuSO_4$ in the graduated cylinder and add demi water up to 50 ml.
 5. Add the stock solution back in the beaker.
-6. Calculate the concentration of the stock solution. 
+6. Calculate the concentration of the stock solution.
 7. Take 12 test tubes (Eppendorf cups) and label them: 100, 75, 50, 25, 12.5 and 6.25 mg/ml (use duplicates, hence 12 tubes).
 8. Pipet the calibration curve according to table 1. Calculate the missing values. Use a total volume of 1 ml. Pipet in duplicates!
 
@@ -54,7 +55,7 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 12. Measure the absorption (A 560nm) of the unknown sample.
 
 ## Processing lab data using a spreadsheet
-- Plot the absorption values as a function of the copper sulphate concentration. The Beer–Lambert law predicts a linear relationship between the protein concentration and the optical density. 
+- Plot the absorption values as a function of the copper sulphate concentration. The Beer–Lambert law predicts a linear relationship between the protein concentration and the optical density.
 - Perform a linear regression on your data using Microsoft Excel:
 
 ![Copper Example](./copper/copper.png)
@@ -65,5 +66,5 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 
 The end...
 
+[Back to the home page](../index.md)
 [Back to the home page of the crash course](./short.md)
-

@@ -39,7 +39,6 @@ The following items will be clickable links with short web pages or short instru
 ### Day 3
 - [Measuring protein concentration using the Lowry method](lowry.md)
 
---- 
+---
 
 [Back to the home page](../index.md)
-
