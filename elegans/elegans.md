@@ -8,6 +8,7 @@
 ---
 
 ![Pic](./pics/impression.jpg)
+*<sub>Source: https://en.wikipedia.org/wiki/Caenorhabditis_elegans#/media/File:Adult_Caenorhabditis_elegans.jpg</sub>*
 
 ## Learning outcomes
 - Isolation of total RNA uising Trizol.
@@ -87,27 +88,27 @@ Where $n_c$ stands for the number of molecules after a certain number of cycles,
 However, the above equation is only valid for the exponential phase. Sooner or later the PCR will enter the plateau phase as primers or nucleotides deplete with each successful amplication round. The PCR reaction typically follows an S-curve (see figure 6). After approximately 30 cycles, the plateau phase will be reached. In most cases, PCR products will be analyzed using agarose gel electrophoresis. The detection is thus an end-point detection. Regardless of the input, the amounts after amplification will be the same. Therefore, regular PCR is not considered a quantitative technique.
 
 ![Figure 6](./pics/fig6.png)
-*<sub>Figure 6: Typical PCR curve. Source: https://bitesizebio.com/24581/what-is-a-ct-value/</sub>*
+*<sub>Figure 6: Typical PCR curve. Source: https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction#/media/File:Qpcr-cycling.png</sub>*
 
 ### Real-time PCR
 
 Real-time PCR is a specialized PCR technology that uses real-time detection (each cycle). Instead of an end-point detection, real-time PCR makes it possible to follow the amplification after each cycle. In this way, PCR becomes a quantitative technique as the amount of input DNA will influence the PCR curves. This means that real-time PCR can be used to quantify certain DNA sequences such as the amount of viral DNA in blood or the number of transcripts in a sample. Key for real-time PCR is the use of a fluorescence dye that allows detection during synthesis. Often, SYBR Green® is used which binds double stranded DNA (in other words, the newly formed PCR products). As the amount of product increases each cycle, so does the amount of fluorescence. 
 
 ![Figure 7](./pics/fig7.png)
-*<sub>Figure 7: SYBR Green incorporated in dsDNA. The amount of fluorescence more or less doubles after each cycle. The amount of fluorescence will be measured after each cycle.</sub>*
+*<sub>Figure 7: SYBR Green incorporated in dsDNA. The amount of fluorescence more or less doubles after each cycle. The amount of fluorescence will be measured after each cycle. Source: https://commons.wikimedia.org/wiki/File:PCR_with_SYBR_green.jpg</sub>*
 
 ![Figure 8](./pics/fig8.png)
-*<sub>Figure 8: The threshold cycle (CT) is the cycle for which the fluorescence level is higher compared to the threshold value. Source: https://www.sciencedirect.com/science/article/pii/S0098299705000907</sub>*
+*<sub>Figure 8: The threshold cycle (CT) is the cycle for which the fluorescence level is higher compared to the threshold value. Source: adapted and modified from https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction#/media/File:Qpcr-cycling.png</sub>*
 
 The $C_T$-value correlates strongly with the starting amount of DNA in the sample. The lower the $C_T$-value, the higher the concentration of DNA in the sample. There is a linear relation between the logarithm of the concentration of DNA and the $C_T$-value. Using a calibration curve, one can reliably quantify the amount of a certain DNA sequence in a sample. 
 
 ![Figure 9](./pics/fig9.png)
-*<sub>Figure 9: The relationship between the CT-values and the starting amount of template DNA. The amount of starting DNA can be calculated using linear regression analysis.</sub>*
+*<sub>Figure 9: The relationship between the CT-values and the starting amount of template DNA. The amount of starting DNA can be calculated using linear regression analysis. Own work CC-BY-SA</sub>*
 
 SYBR green binds double stranded DNA regardless of the sequence. This means that aspecific products such as primer dimers will also contribute to the fluorescence signal. In order to discriminate between the correct product and nonspecific products, a melt-curve analysis can be performed. After the PCR reaction, the temperature will be raised slowly. At the $T_M$, 50% of the DNA will be denatured and as a result, the fluorescence level will drop. The $T_M$ is at the inflection point. The first derivative of the graph shows a maximum at this point. Multiple peaks and indicate for aberrant products.
 
 ![Figure 10](./pics/fig10.png)
-*<sub>Figure 10: Melt-curve analysis. In this case, a single peak is detected indicative for a specific PCR product.</sub>*
+*<sub>Figure 10: Melt-curve analysis. In this case, a single peak is detected indicative for a specific PCR product. Source: https://commons.wikimedia.org/wiki/File:Qpcr-melting.png</sub>*
 
 ### Goal of the experiment:
 The goal of this experiment is to investigate if a heat shock changes the expression of the Heat shock protein-encoding mRNA transcript molecules.
@@ -232,7 +233,7 @@ Calculate the induction of the HSP gene under heat shock conditions and correct 
 
 Example:
 ![Figure 11](./pics/fig11.png)
-*<sub>Figure 11. Example calculation.</sub>*
+*<sub>Figure 11. Example calculation. Source: own work. CC-BY-SA</sub>*
 
 #### Further reading
 The above method is adapted from: https://www.ncbi.nlm.nih.gov/pubmed/11846609
@@ -247,30 +248,30 @@ This is a short section regarding the use of the CFX real time machine (Bio-Rad)
 - Open the application for the CFX and click user defined.
 
 ![Figure 12](./pics/fig12.png)
-*<sub>Figure 12. Setting up the CFX machine.</sub>*
+*<sub>Figure 12. Setting up the CFX machine. Source: own work. CC-BY-SA</sub>*
 
 - This will show a default protocol. We will create a new protocol. Therefore select `Create New`.
 - Create the desired protocol using the options at the left. Save the protocol. Click `OK` and `next`.  
 
 ![Figure 13](./pics/fig13.png)
-*<sub>Figure 13. Setting up the CFX machine.</sub>*
+*<sub>Figure 13. Setting up the CFX machine. Source: own work. CC-BY-SA</sub>*
 
 - This is the `Plate Setup`. You will have the option to create a new plate and select the wells to measure or you can choose to measure the whole plate instead. 
 
 
 ![Figure 14](./pics/fig14.png)
-*<sub>Figure 14. Setting up the CFX machine.</sub>*
+*<sub>Figure 14. Setting up the CFX machine. Source: own work. CC-BY-SA</sub>*
 
 - For this experiment, we will measure the whole plate and leave the wells on `UnK` (unknown) as we lack a standard curve. 
 - Click `next`, place the plate in the CFX. Click `start run` and save the datafile. 
 
 ![Figure 15](./pics/fig15.png)
-*<sub>Figure 15. Setting up the CFX machine.</sub>*
+*<sub>Figure 15. Setting up the CFX machine. Source: own work. CC-BY-SA</sub>*
 
 - Now an overview will be visible that shows all events during the PCR. Check on a regular basis if all goes well.
 - When the program is finished, the `meltcurves` will be visible at the screen.
 ![Figure 16](./pics/fig16.png)
-*<sub>Figure 16. Meltcurves.</sub>*
+*<sub>Figure 16. Meltcurves. Source: own work. CC-BY-SA</sub>*
 
 - Select the wells to analyze per gene. Make sure you do this separately for each gene as the base line can change. Verify the product. Is it a single product?
 
