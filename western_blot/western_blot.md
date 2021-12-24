@@ -1,3 +1,4 @@
+{% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
 [Back to the main page](../index.md)
@@ -55,7 +56,7 @@ Proteins are charged macromolecules, meaning they can be separated based on char
 
 Before the proteins can be placed on gel, they must first be isolated from the *H. polymorpha* samples. This is effected by means of TCA precipitation. The high concentration of TCA causes the cells to be lysated. As a result, their contents are released. The proteins precipitate due to the low pH, after which they are washed with ice-cold acetone. The proteins are then dissolved in a Laemmli buffer.
 
-The Laemmli buffer system is a buffer system in which the buffer contains SDS. In this system proteins are denatured by heating the sample in a buffer containing SDS and a reducing agent such as ß-mercaptoethanol. This results in polypeptides with a uniform charge-to-mass ratio, proportional to the molecular weight. The proteins are then separated based on molecular weight and the charge of the molecule. As a result, the system is highly suited to the calculation of molecular weight. 
+The Laemmli buffer system is a buffer system in which the buffer contains SDS. In this system proteins are denatured by heating the sample in a buffer containing SDS and a reducing agent such as ß-mercaptoethanol. This results in polypeptides with a uniform charge-to-mass ratio, proportional to the molecular weight. The proteins are then separated based on molecular weight and the charge of the molecule (figure 2). As a result, the system is highly suited to the calculation of molecular weight. 
 
 ![Figure 2](./pics/fig2.jpg)
 *<sub>Figure 2. Two SDS gels after completed separation of the samples and staining in a drying frame. Source: https://en.wikipedia.org/wiki/SDS-PAGE#/media/File:Gel_Blue_Coomassie.jpg</sub>*
@@ -71,18 +72,22 @@ SDS-PAGE gels consist of two layers and are poured and run vertically. The botto
 Coomassie staining is a simple, non-specific staining method that turns all proteins bright blue. The detection limit of this staining method is between 0.1 and 1.0 μg protein. We will use Bio-Safe Coomassie stain, which does not pose a hazard to the environment.
 
 ### Background information on western blot and Ponceau S staining:
-The Western blot technique allows us to transfer proteins from a PAGE gel to a membrane (Figure 3). This is important if antibodies are to be used in a next step to demonstrate the presence of the proteins. The proteins in the gel are pulled from the gel by running different voltages and are in this way transferred to the membrane. Due to hydrophobic and electrostatic interactions, the proteins will stick to the membrane. In this experiment we will use a Roche PVDF membrane. After blotting, we can check whether the proteins have been transferred to the membrane by staining the proteins with Ponceau S. This involves placing the membrane in this solution for a brief time, and then removing the background with water. The stain will not affect the  procedures to be performed after the Western blot.
+The Western blot technique allows us to transfer proteins from a PAGE gel to a membrane (Figure 3 and 4). This is important if antibodies are to be used in a next step to demonstrate the presence of the proteins. The proteins in the gel are pulled from the gel by running different voltages and are in this way transferred to the membrane. Due to hydrophobic and electrostatic interactions, the proteins will stick to the membrane. In this experiment we will use a Roche PVDF membrane. After blotting, we can check whether the proteins have been transferred to the membrane by staining the proteins with Ponceau S. This involves placing the membrane in this solution for a brief time, and then removing the background with water. The stain will not affect the  procedures to be performed after the Western blot.
 
 ![Figure 3](./pics/fig3.jpg)
-*<sub>Figure 3. Wet blot set-up. Sourse: https://commons.wikimedia.org/wiki/File:Western_blot_wet_transfer_system_Criterion-06.jpg</sub>*
+*<sub>Figure 3. Wet blot set-up. Source: https://commons.wikimedia.org/wiki/File:Western_blot_wet_transfer_system_Criterion-06.jpg</sub>*
+
+![Figure 4](./pics/fig4.png)
+*<sub>Figure 4. Overview of blotting. Source: https://en.wikipedia.org/wiki/Western_blot#/media/File:Western_blot_transfer.png</sub>*
+
 
 ### Background information on antibody detection:
 After blotting, all the proteins contained in the gel will be on the membrane. A ‘block’ must be performed before the proteins can be detected by means of specific antibodies. Not all parts of the membrane will be covered with proteins. In order to prevent non-specific binding of the antibody, all empty spots must be filled (‘blocked’) with a protein that does not react to the antibody to be used. Often we will use BSA or ‘skimmed milk’ for this purpose. After the ‘block’ has been performed, the membrane holding the bound proteins will be incubated with the first antibody. 
 
-In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 4). This is an antibody against GFP, created in mouse cells. This antibody only recognises GFP and will bind to this. The second antibody (secondary antibody) comes with the alkaline phosphatase (AP) enzyme. This secondary antibody, goat anti-mouse IgG, recognises IgG antibodies obtained from mouse cells, and therefore also recognises the mouse-anti-GFP IgG primary antibody. So now we have GFP linked with mouse-anti-GFP IgG and goat anti-mouse IgG linked with the alkaline phosphatase enzyme on the membrane. We will then add substrate to the blot. The alkaline phosphatase enzyme will convert the substrate, forming a reddish-purple-coloured substance in the process, which will be visible in those places where GFP is present.
+In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 5). This is an antibody against GFP, created in mouse cells. This antibody only recognises GFP and will bind to this. The second antibody (secondary antibody) comes with the alkaline phosphatase (AP) enzyme. This secondary antibody, goat anti-mouse IgG, recognises IgG antibodies obtained from mouse cells, and therefore also recognises the mouse-anti-GFP IgG primary antibody. So now we have GFP linked with mouse-anti-GFP IgG and goat anti-mouse IgG linked with the alkaline phosphatase enzyme on the membrane. We will then add substrate to the blot. The alkaline phosphatase enzyme will convert the substrate, forming a reddish-purple-coloured substance in the process, which will be visible in those places where GFP is present.
 
-![Figure 4](./pics/fig4.png)
-*<sub>Figure 4. Protein detection by means of specific antibodies. Source: https://commons.wikimedia.org/wiki/File:Western_Blotting.png</sub>*
+![Figure 5](./pics/fig5.png)
+*<sub>Figure 5. Protein detection by means of specific antibodies. Source: https://commons.wikimedia.org/wiki/File:Western_Blotting.png</sub>*
 
 ### Things to do before the experiment:
 - Record the measures you will take to ensure safe handling of all the hazardous substances (e.g. TCA, acrylamide, DTT) in your logbook before embarking on the experiment.
@@ -167,8 +172,8 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 6. If necessary, the slots can be cleansed by injecting buffer into them.
 7. Check whether you can clearly see the slots. If not,  mark them with sample buffer. Sometimes the slots will be more readily visible against a dark background. Ask your lecturer for their preferred method.
 
-![Figure 7](./pics/fig5.png)
-*<sub>Figure 7. Placing the gels inside the electrophoresis system.</sub>*
+![Figure 6](./pics/fig6.png)
+*<sub>Figure 6. Electrophoresis chamber after a few minutes of electrophoresis. Source: https://en.wikipedia.org/wiki/SDS-PAGE#/media/File:Gelelektrophoreseapparatur.jpg</sub>*
 
 #### Loading samples into the slots
 
@@ -263,15 +268,3 @@ This experiment will yield a large number of results, such as a Coomassie-staine
 
 [Back to the main page](../index.md)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
