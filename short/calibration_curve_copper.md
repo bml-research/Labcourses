@@ -20,7 +20,7 @@ For this experiment, we will quantify copper sulphate $(CuSO_4)$ in a sample wit
 Spectrophotometry can be used to quantify chemicals that absorb light of a specific wavelength. A spectrophotometer measures how much a chemical substance absorbs light by measuring the intensity of light that passes through sample solution and reaches the detector. See figure below:
 
 ![Spectrophotometer](./copper/spectrophotometer.png)
-
+*<sub>Source: https://en.wikipedia.org/wiki/Spectrophotometry#/media/File:Spetrophotometer-en.svg</sub>*
 
 ## Assay
 
