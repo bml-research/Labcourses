@@ -15,6 +15,7 @@
 The Gram stain is a method of staining bacteria. In addition to staining bacterial cells, it can be used to distinguish between gram-positive bacteria and gram-negative bacteria. Gram staining is often the first step in the identification of a bacterial species. The Gram stain differentiates Gram-positive and Gram-negative bacteria by the thickness of the peptidoglycan layer (cell wall). Gram-positive cells will retain crystal violet (purple color) while in Gram-negative cells the crystal violet will wash out on addition of ethanol. The Gram-negative cells are counter stained by fuchsine (red color).
 
 ![Gram stain](./gram/gram_stain.jpg)
+*<sub>Source: https://en.wikipedia.org/wiki/Gram_stain#/media/File:Gram_stain_01.jpg</sub>*
 
 ## Assay
 1. Draw a circle on a microscopic slide glass using a pencil and add your initials using a scratch pen. Use two slides (one for each type of bacterial strain)
@@ -36,6 +37,7 @@ __Solutions needed for Gram staining will be supplied by teacher__
 ## Processing lab data
 
 ![mic](./gram/mic.jpg)
+*<sub>Source: Hanzehogeschool</sub>*
 
 
 - If all looks well, use a microscope with camera to take pictures for your lab journal.
