@@ -1,3 +1,4 @@
+{% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
 [Back to the main page](../index.md)
@@ -7,6 +8,7 @@
 ---
 
 ![Pic](./pics/impression.png)
+*<sub>Own material. CC BY-SA</sub>*
 
 ## Learning outcomes
 - Concentrating proteins using TCA-precipitation.
@@ -40,7 +42,7 @@ $2CH_3OH + 3O_2 → 2CO_2 + 4H_2O$
 In the cell, this reaction involves several steps. First methanol is broken down to methanal (Figure 1). This reaction is catalysed by alcohol oxidase. Highly reactive hydrogen peroxide is released in the progress. Catalase causes hydrogen peroxide to be converted into water and hydrogen. Methanal is converted into carbon dioxide and water by oxygen.
 
 ![Figure 1](./pics/fig1.png)
-*<sub>Figure 1: The biochemical processes that take place inside the peroxisome in circumstances where methanol is the only source of carbon. Methanol is converted into methanal by alcohol oxidase. The hydrogen peroxide formed by oxygen in the process is at once converted into harmless water and oxygen through catalase. Methanal is converted into carbon dioxide and water by oxygen.</sub>*
+*<sub>Figure 1: The biochemical processes that take place inside the peroxisome in circumstances where methanol is the only source of carbon. Methanol is converted into methanal by alcohol oxidase. The hydrogen peroxide formed by oxygen in the process is at once converted into harmless water and oxygen through catalase. Methanal is converted into carbon dioxide and water by oxygen. Own work. CC BY-SA</sub>*
 
 During this practical course, you will work with a *Hansenula polymorpha* strain, which has been modified in such a way that the cells will express GFP-SKL. The SKL signal is a so-called peroxisomal import signal: a C-terminal amino acid sequence (serine, lysine, leucine). This is recognised by the cell’s system as something that belongs to a protein that needs to enter the peroxisome. In other words, the peroxisomes will be visible in the cells by fluorescence microscopy. The GFP-SKL is placed behind the alcohol oxidase promoter. Alcohol oxidase is strongly expressed when the cells are grown on methanol. The gene is hardly expressed, or not at all, in cells growing on glucose. The same is true here for GFP-SKL. 
 
@@ -54,38 +56,42 @@ Proteins are charged macromolecules, meaning they can be separated based on char
 
 Before the proteins can be placed on gel, they must first be isolated from the *H. polymorpha* samples. This is effected by means of TCA precipitation. The high concentration of TCA causes the cells to be lysated. As a result, their contents are released. The proteins precipitate due to the low pH, after which they are washed with ice-cold acetone. The proteins are then dissolved in a Laemmli buffer.
 
-The Laemmli buffer system is a buffer system in which the buffer contains SDS. In this system proteins are denatured by heating the sample in a buffer containing SDS and a reducing agent such as ß-mercaptoethanol. This results in polypeptides with a uniform charge-to-mass ratio, proportional to the molecular weight. The proteins are then separated based on molecular weight and the charge of the molecule. As a result, the system is highly suited to the calculation of molecular weight. 
+The Laemmli buffer system is a buffer system in which the buffer contains SDS. In this system proteins are denatured by heating the sample in a buffer containing SDS and a reducing agent such as ß-mercaptoethanol. This results in polypeptides with a uniform charge-to-mass ratio, proportional to the molecular weight. The proteins are then separated based on molecular weight and the charge of the molecule (figure 2). As a result, the system is highly suited to the calculation of molecular weight. 
 
 ![Figure 2](./pics/fig2.jpg)
-*<sub>Figure 2. Equipment making up Bio-Rad’s SDS-PAGE system.</sub>*
+*<sub>Figure 2. Two SDS gels after completed separation of the samples and staining in a drying frame. Source: https://en.wikipedia.org/wiki/SDS-PAGE#/media/File:Gel_Blue_Coomassie.jpg</sub>*
 
 
-We will use Bio-Rad’s protein gel electrophoresis (SDS‐PAGE) system (Figure 2) to demonstrate how the protein composition of the cell changes in response to methanol induction. We will use the two samples collected during the experiment for this.
+We will use Bio-Rad’s protein gel electrophoresis (SDS‐PAGE) system to demonstrate how the protein composition of the cell changes in response to methanol induction. We will use the two samples collected during the experiment for this.
 
 It is possible to use different acrylamide percentages in a PAA gel. Large proteins will separate better on a low-percentage gel, whereas small proteins will separate better on a high-percentage gel. Consult LabFAQs or another source to determine which percentage gel is most suited for the protein of your choosing. Discuss with your lab partner which percentage of acrylamide seems most fit for purpose and decide accordingly. Be careful while pooring the gel: unpolymerised acrylamide is a carcinogenic and neurotoxic substance! 
 
 SDS-PAGE gels consist of two layers and are poured and run vertically. The bottom layer is poured first, and the top layer is not poured until the bottom layer has polymerised. The bottom layer consists of ‘running gel’, also referred to as ‘separation gel’ or ‘resolving gel’. Proteins are separated based on size in this part of the gel. The top layer is called the ‘stacking gel’. Proteins will accumulate at the junction of the stacking and separation gels, so that they can all get started on the ‘separation gel’ at the same time. Slots are created in the ‘stacking gel’. The samples are transferred to these slots.
 
 ### Background information on Coomassie staining:
-Coomassie staining is a simple, non-specific staining method that turns all proteins bright blue. The detection limit of this staining method is between 0.1 and 1.0 μg protein. We will use Bio-Rad’s Bio-Safe Coomassie stain, which does not pose a hazard to the environment.
+Coomassie staining is a simple, non-specific staining method that turns all proteins bright blue. The detection limit of this staining method is between 0.1 and 1.0 μg protein. We will use Bio-Safe Coomassie stain, which does not pose a hazard to the environment.
 
 ### Background information on western blot and Ponceau S staining:
-The Western blot technique allows us to transfer proteins from a PAGE gel to a membrane (Figure 3). This is important if antibodies are to be used in a next step to demonstrate the presence of the proteins. The proteins in the gel are pulled from the gel by running different voltages and are in this way transferred to the membrane. Due to hydrophobic and electrostatic interactions, the proteins will stick to the membrane. In this experiment we will use a Roche PVDF membrane. After blotting, we can check whether the proteins have been transferred to the membrane by staining the proteins with Ponceau S. This involves placing the membrane in this solution for a brief time, and then removing the background with water. The stain will not affect the  procedures to be performed after the Western blot.
+The Western blot technique allows us to transfer proteins from a PAGE gel to a membrane (Figure 3 and 4). This is important if antibodies are to be used in a next step to demonstrate the presence of the proteins. The proteins in the gel are pulled from the gel by running different voltages and are in this way transferred to the membrane. Due to hydrophobic and electrostatic interactions, the proteins will stick to the membrane. In this experiment we will use a Roche PVDF membrane. After blotting, we can check whether the proteins have been transferred to the membrane by staining the proteins with Ponceau S. This involves placing the membrane in this solution for a brief time, and then removing the background with water. The stain will not affect the  procedures to be performed after the Western blot.
 
-![Figure 3](./pics/fig3.png)
-*<sub>Figure 3. Bio-Rad blot set-up (Electrophoretic Transfer Cell mini-trans-blot, Bio-Rad).</sub>*
+![Figure 3](./pics/fig3.jpg)
+*<sub>Figure 3. Wet blot set-up. Source: https://commons.wikimedia.org/wiki/File:Western_blot_wet_transfer_system_Criterion-06.jpg</sub>*
+
+![Figure 4](./pics/fig4.png)
+*<sub>Figure 4. Overview of blotting. Source: https://en.wikipedia.org/wiki/Western_blot#/media/File:Western_blot_transfer.png</sub>*
+
 
 ### Background information on antibody detection:
 After blotting, all the proteins contained in the gel will be on the membrane. A ‘block’ must be performed before the proteins can be detected by means of specific antibodies. Not all parts of the membrane will be covered with proteins. In order to prevent non-specific binding of the antibody, all empty spots must be filled (‘blocked’) with a protein that does not react to the antibody to be used. Often we will use BSA or ‘skimmed milk’ for this purpose. After the ‘block’ has been performed, the membrane holding the bound proteins will be incubated with the first antibody. 
 
-In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 4). This is an antibody against GFP, created in mouse cells. This antibody only recognises GFP and will bind to this. The second antibody (secondary antibody) comes with the alkaline phosphatase (AP) enzyme. This secondary antibody, goat anti-mouse IgG, recognises IgG antibodies obtained from mouse cells, and therefore also recognises the mouse-anti-GFP IgG primary antibody. So now we have GFP linked with mouse-anti-GFP IgG and goat anti-mouse IgG linked with the alkaline phosphatase enzyme on the membrane. We will then add substrate to the blot. The alkaline phosphatase enzyme will convert the substrate, forming a reddish-purple-coloured substance in the process, which will be visible in those places where GFP is present.
+In our case, this will be a mouse anti GPF IgG (= primary antibody) (Figure 5). This is an antibody against GFP, created in mouse cells. This antibody only recognises GFP and will bind to this. The second antibody (secondary antibody) comes with the alkaline phosphatase (AP) enzyme. This secondary antibody, goat anti-mouse IgG, recognises IgG antibodies obtained from mouse cells, and therefore also recognises the mouse-anti-GFP IgG primary antibody. So now we have GFP linked with mouse-anti-GFP IgG and goat anti-mouse IgG linked with the alkaline phosphatase enzyme on the membrane. We will then add substrate to the blot. The alkaline phosphatase enzyme will convert the substrate, forming a reddish-purple-coloured substance in the process, which will be visible in those places where GFP is present.
 
-![Figure 4](./pics/fig4.png)
-*<sub>Figure 4. Protein detection by means of specific antibodies.</sub>*
+![Figure 5](./pics/fig5.png)
+*<sub>Figure 5. Protein detection by means of specific antibodies. Source: https://commons.wikimedia.org/wiki/File:Western_Blotting.png</sub>*
 
 ### Things to do before the experiment:
 - Record the measures you will take to ensure safe handling of all the hazardous substances (e.g. TCA, acrylamide, DTT) in your logbook before embarking on the experiment.
-- Before you get started on the experiment, place Bio-Rad’s Bio-Ice cooling units, filled with water, in the freezer (−20°C).
+- Before you get started on the experiment, place Bio-Ice cooling units, filled with water, in the freezer (−20°C).
 - Make sure you always know which side of your blot the proteins are on, and also make sure that your blot remains moist at all times. Work in a 50 ml Greiner tube where possible.
 
 ## Protocol
@@ -117,7 +123,9 @@ Method:
 
 ### Step 3: SDS-PAGE, prepare two gels:
 
-Building the system into which you will pour the gel (Figure 5):
+Building the system into which you will pour the gel:  
+
+[See this movie](https://www.youtube.com/watch?v=EDi_n_0NiF4)
 
 1. Use a short glass plate and a slightly longer one. Make sure that the plates are clean. The long glass plate will feature two ‘spacers’, which will determine the thickness of the gel layer. Use 0.75 mm.
 2. Place the two plates into the casting frame, with the short plate facing forward. Important: make sure that both plates are at the same level at the bottom.
@@ -125,15 +133,16 @@ Building the system into which you will pour the gel (Figure 5):
 4. Place the casting frame, containing the glass plates, into the casting stand. The clamp at the top of the system presses the glass plate onto the grey rubber strips, thus preventing leakage. Optional: test the system for leakage by filling it with ethanol. 
 5. Find a comb that goes with your system, to create slots later. Please note that your comb must be 0.75 mm thick.
 
-![Figure 5](./pics/fig5.png)
-*<sub>Figure 5. Constructing the Bio-Rad gel-casting system.</sub>*
 
 The thickness of the gel layer is determined by the width of the spacers. We will use a gel layer 0.75 mm thick.
 
 Determine which percentage gel you wish to prepare and calculate the amounts needed in the table below. All the solutions you will need will be ready for use in the cold room. Make sure you prepare two gels: one gel to be used for the western blot, and one control gel, which will undergo Coomassie staining. 
 
-![Figure 6](./pics/fig6.png)
-*<sub>Figure 6. Gel formulation.</sub>*
+
+|Type          |Percentage (%)|MQ |30% acrylamide/Bis (ml)|Gel buffer (ml)|10% (w/v) SDS (ml)|
+|--------------|--------------|---|-----------------------|---------------|------------------|
+|Stacking gel  |4             |6.1|1.3                    |2.5 (stacking) |0.1               |
+|Separation gel|?             |?  |?                      |? (running)    |?                 |
 
 - Ready for use: Stacking gel buffer: 0.5 M Tris‐HCl, pH 6.8 (= 6 grams of Tris-base in 60 ml Millipore water, use 6M HCI to ensure the mix has a pH of 6.8, then adjust volume to 100 ml with Millipore water. Store at 4°C.)
 
@@ -153,7 +162,7 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 10. The gels are now ready for use.
 11. Thoroughly rinse the casting frame and stand with demineralised water.
 
-#### Place the gels inside the mini-tank (Figure 7):
+#### Place the gels inside the mini-tank:
 
 1. Place two gel cassette sandwiches into the electrode assembly, with the short glass plates facing inwards.
 2. Place the electrode assembly, containing the two gel cassette sandwiches into the clamping frame. 
@@ -161,16 +170,16 @@ Determine which percentage gel you wish to prepare and calculate the amounts nee
 4. Completely fill the inner chamber with running buffer. 
 5. Fill the mini-tank (the outer chamber) with 200-500 ml running buffer (see the indicator on the tank used).
 6. If necessary, the slots can be cleansed by injecting buffer into them.
-7. Check whether you can clearly see the slots. If not,  mark them with sample buffer, or use Bio-Rad’s Sample-Loading Guide. Sometimes the slots will be more readily visible against a dark background. Ask your lecturer for their preferred method.
+7. Check whether you can clearly see the slots. If not,  mark them with sample buffer. Sometimes the slots will be more readily visible against a dark background. Ask your lecturer for their preferred method.
 
-![Figure 7](./pics/fig7.png)
-*<sub>Figure 7. Placing the gels inside the Bio-Rad electrophoresis system.</sub>*
+![Figure 6](./pics/fig6.png)
+*<sub>Figure 6. Electrophoresis chamber after a few minutes of electrophoresis. Source: https://en.wikipedia.org/wiki/SDS-PAGE#/media/File:Gelelektrophoreseapparatur.jpg</sub>*
 
 #### Loading samples into the slots
 
 1. Draw up a loading schedule that clearly indicates what you are going to transfer to which slot. Make sure you transfer the protein samples in a logical order.
 2. Using a P20 pipette, load equal amounts (see Lowry) of sample into the slots. Place the tip of your pipette above the slot. Load the samples slowly, so that you can actually see the samples fall into the slots. 
-3. Do not forget to place a marker (7 µl, Bio-Rad dual colour marker) on your gel, which will allow you to determine the sizes of the protein bands later. This marker contains the following band sizes: 10, 15, 20, <span style="color:#800080">25</span>, 37, 50, <span style="color:#800080">75</span>, 100, 150 and 250 kD.
+3. Do not forget to place a marker (7 µl, dual colour marker) on your gel, which will allow you to determine the sizes of the protein bands later. This marker contains the following band sizes: 10, 15, 20, <span style="color:#800080">25</span>, 37, 50, <span style="color:#800080">75</span>, 100, 150 and 250 kD.
 4. Place the lid on the mini-tank. Secure the lid so as to prevent disorientation. 
 5. Run on 200 Volt. The electrophoresis procedure is completed once the pre-stained marker is properly separated and once the blue front has run off the gel completely or nearly completely. This will take about one hour. Keep a close eye on the area where the protein you are seeking to detect is located. 
 
@@ -259,15 +268,3 @@ This experiment will yield a large number of results, such as a Coomassie-staine
 
 [Back to the main page](../index.md)
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-    
-<script type="text/javascript"
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
