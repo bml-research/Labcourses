@@ -44,6 +44,7 @@ Prepare in duplicates:
 - Perform a second order regression on your data using Microsoft Excel:
 
 ![Lowry Example](./lowry/lowry.png)
+*<sub>Source: Own work. Licence: CC-BY</sub>*
 
 
 - Set up the second order regression equation model as $y = ax^2 + bx + c$
