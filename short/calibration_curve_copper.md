@@ -59,6 +59,7 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 - Perform a linear regression on your data using Microsoft Excel:
 
 ![Copper Example](./copper/copper.png)
+*<sub>Source: Own work. Licence: CC-BY</sub>*
 
 - Set up the linear regression equation model: $y = ax + b$
 - Fill in your y-value and calculate the unknown x-value.
