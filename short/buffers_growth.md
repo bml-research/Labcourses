@@ -45,6 +45,7 @@ The above equation is the **Henderson–Hasselbalch equation** and can be used t
 
 
 ![pH meter](./buffers/buffers.jpg)
+*<sub>Source: https://en.wikipedia.org/wiki/PH_meter#/media/File:PH_Meter.jpg</sub>*
 
 ## Example
 
@@ -89,6 +90,7 @@ You will receive the same buffers as that you prepared yourself (but these are s
 - Perform a linear regression on the dataset that shows an exponential relationship (between OD and time) in the arithmetic plot and a linear relationship in the logarithmic plot. See example below:
 
 ![example](./buffers/growth_example.png)
+*<sub>Source: Own work. Licence: CC-BY</sub>*
 
 - Calculate the generation time for each pH condition.
 
