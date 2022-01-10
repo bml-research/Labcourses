@@ -7,7 +7,8 @@
 
 ---
 
-![Pic](./pics/impression.jfif)
+![Pic](./pics/impression.jpg)
+*<sub>Source: https://en.wikipedia.org/wiki/ELISA#/media/File:ELISA_TMB.jpg</sub>*
 
 ## Learning outcomes
 - Pipetting in μl ranges
@@ -18,10 +19,10 @@
 ---
 
 ## Introduction
-Von Willebrand factor (VWF) plays a major part in the primary haemostasis process, where bleeding is stopped. In this process, VWF attaches to the damaged blood vessel wall, where it undergoes a conformational change and develops affinity for glycoprotein Ib/V/IX on the surface of the thrombocyte (see Figure 1). 
+Von Willebrand factor (VWF) plays a major part in the primary haemostasis process, where bleeding is stopped. In this process, VWF attaches to the damaged blood vessel wall, where it undergoes a conformational change and develops affinity for glycoprotein Ib/V/IX on the surface of the thrombocyte. 
 
 ![Figure 1](./pics/fig1.jpg)
-*<sub>Figure 1: VWF in primary haemostasis</sub>*
+*<sub>Figure 1: VWF structure. Source: https://en.wikipedia.org/wiki/Von_Willebrand_factor#/media/File:PBB_Protein_VWF_image.jpg</sub>*
 
 When shear rates are high in the blood vessels, in particular, VWF is essential in helping blood platelets adhere to the damaged vessel wall in the early stages of haemostasis.
 
@@ -37,8 +38,8 @@ VWD is highly heterogeneous in its clinical presentation and lab findings. As a 
 ## VMF:Ag ELISA
 The Enzyme-Linked ImmunoSorbent Assay (ELISA) is an immunoassay used to demonstrate the presence of an antibody or antigen in a sample. A VWF:Ag ELISA involves the use of a sandwich ELISA (see Figure 2).
 
-![Figure 2](./pics/fig2.jpg)
-*<sub>Figure 2. Sandwich ELISA</sub>*
+![Figure 2](./pics/fig2.png)
+*<sub>Figure 2. Sandwich ELISA. Source: https://en.wikipedia.org/wiki/ELISA#/media/File:ELISA-sandwich.svg</sub>*
 
 First, VWF polyclonal antibodies are bound to the wells of a microtiter plate. The bound VWF from the sample is then detected with VWF antibodies linked to the peroxidase enzyme. A calibration curve (see Figure 3) is drawn up for diluted normal plasma (NP), which is pooled plasma collected from a large number of healthy persons, with NP 1:50 containing 100% VWF:Ag by definition. 
 
@@ -111,7 +112,7 @@ OPD substrate:
 See figure 4 for a loading schedule.
 
 ![Figure 4](./pics/fig4.png)
-*<sub>Figure 4: Loading schedule for the Elisa plate</sub>*
+*<sub>Figure 4: Loading schedule for the Elisa plate. Source: own work. License: CC-BY</sub>*
 
 ### VWF:Ag ELISA procedure
 
