@@ -8,7 +8,7 @@
 ---
 
 ![Pic](./pics/impression.png)
-*<sub>Own material. CC BY-SA</sub>*
+*<sub>Source: Own material. Licence: CC BY-SA</sub>*
 
 ## Learning outcomes
 - Concentrating proteins using TCA-precipitation.
