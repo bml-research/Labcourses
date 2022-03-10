@@ -43,8 +43,8 @@ Prepare in duplicates:
 - Plot the OD values as a function of the protein concentration. The Beer–Lambert law predicts a linear relationship between the protein concentration and the optical density. However, it is well known that the Lowry method yields a second degree polynomial line. Include correct axis titles for your graph.
 - Perform a second order regression on your data using Microsoft Excel:
 
-![Lowry Example](./lowry/lowry.png)
-*<sub>Source: Own work. Licence: CC-BY</sub>*
+![Lowry Example](./lowry/lowry_excel.png)
+*<sub>Analysis in MS Excel. Source: Own work. Licence: CC-BY</sub>*
 
 
 - Set up the second order regression equation model as $y = ax^2 + bx + c$
@@ -52,6 +52,16 @@ Prepare in duplicates:
 - Use the ABC formula to calculate the protein concentration in your sample. ABC-formula: $x = \frac{-b\ \pm\ \sqrt{b^2 - 4ac}}{2a}$
 - If all went well, you will end up with two results for x. Which of the two results is correct?
 - Report the protein concentration in your lab journal.
+
+If you prefer R or Python, you can also perform the analysis in R:
+
+![Lowry Example](./lowry/lowry_r.png)
+*<sub>Analysis in R. Source: Own work. Licence: CC-BY</sub>*
+
+or Python:
+
+![Lowry Example](./lowry/lowry_python.png)
+*<sub>Analysis in Python. Source: Own work. Licence: CC-BY</sub>*
 
 The end...
 

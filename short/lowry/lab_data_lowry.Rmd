@@ -1,0 +1,91 @@
+---
+title: "Lowry"
+author: "HJUR"
+date: "3/9/2022"
+output: html_document
+---
+
+```{r}
+library("ggplot2")
+```
+
+# Data for callibration curve:
+
+```{r}
+df <- read.table("raw_data.csv", dec=",")
+names(df) <- c("conc", "absorption")
+print(df)
+```
+
+# Data of unknowns
+
+```{r}
+y1 <- 0.208
+y2 <- 0.196
+y_mean <- mean(y1, y2)
+y_mean
+```
+# Plot the callibration curve and second degree polynomial regression analysis:
+
+```{r}
+ggplot(df, aes(x=conc, y=absorption)) + 
+          geom_point() +
+          stat_smooth(method='lm', formula = y ~ poly(x,2), size = 1) + 
+          ggtitle('Lowry') +
+          xlab('Concentration (mg/mL)') +
+          ylab('Absorption')
+
+```
+# Extract the coefficients:
+
+```{r}
+coefficients <- lm(formula = df$absorption ~ df$conc + I(df$conc^2))
+coefficients
+```
+
+```{r}
+a <- coefficients[[1]][[3]]
+b <- coefficients[[1]][[2]]
+c <- coefficients[[1]][[1]]
+print(a)
+print(b)
+print(c)
+```
+
+# Set equation to 0:
+
+```{r}
+c_adjusted <- c - y_mean
+c_adjusted
+```
+
+
+# Apply ABC formula
+
+Of course, for the Lowry, we always expect two intersections.
+However, to be complete, I will define a full ABC solver.
+
+```{r}
+abc <- function(a, b, c) {
+  discriminant <- (b^2) - (4*a*c)
+  if(discriminant < 0) {
+    return(NA)
+  }
+  else if(discriminant > 0) {
+    x1 <- (-b + sqrt(discriminant)) / (2*a)
+    x2 <- (-b - sqrt(discriminant)) / (2*a)
+
+    return(c(x1, x2))
+  }
+  else
+    x <- (-b) / (2*a)
+    return(x)
+}
+
+```
+
+```{r}
+answer <- abc(a, b, c_adjusted)[1] # first intersection is correct.
+print(paste("The concentration protein is:", round(answer, 3), "mg/mL"))
+```
+The end...
