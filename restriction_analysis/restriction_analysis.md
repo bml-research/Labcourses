@@ -124,6 +124,22 @@ Add Millipore water to adjust volume to 16 µl
 Proceed with the procedure of [Agerose gel electrophoresis](../agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
 
 
+## Post-lab assignments
+
+Report your results in a table like:
+
+|Enzyme               |Start position|End position|Predicted size of fragment(s)|Experimental size of fragment(s)|
+|:--------------------|:-------------|:-----------|:----------------------------|:-------------------------------|
+|DraI                 |              |            |                             |                                |
+|HaeII                |              |            |                             |                                |
+|BamH1                |              |            |                             |                                |
+|DraI x BamHI         |              |            |                             |                                |
+|HaeII x BamHI        |              |            |                             |                                |
+|DraI x HaeII x BamHI |              |            |                             |                                |
+|Uncut                |              |            |                             |                                |
+
+Compare your results from the *in sillico* analysis with your experimental results.
+
 --- 
 
 >Some  information on this page was adapted and modified from Wikipedia.org.

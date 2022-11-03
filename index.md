@@ -16,7 +16,7 @@
 - [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
 - [PCR](./pcr/pcr.md) 
 - [Agarose gel electrophoresis](./agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
-- [ELISA](./elisa/elisa.md) (1 day of 6 hours)
+- [ELISA](./elisa/elisa.md) 
 - [Western Blot](./western_blot/western_blot.md) 
 - [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) 
 - [Cloning](./cloning/cloning.md) 
