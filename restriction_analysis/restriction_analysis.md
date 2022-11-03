@@ -71,7 +71,6 @@ The following restriction reaction must be pipetted very carefully. First decide
 - Incubate a total of 10 µl at 37°C for one hour
 
 3.	BamHI
-
 - 3 µl plasmid DNA
 - Add Millipore water to adjust volume to 8 µl 
 - 1 µl CutSmart restriction buffer (NEB) 
@@ -79,7 +78,6 @@ The following restriction reaction must be pipetted very carefully. First decide
 - Incubate a total of 10 µl at 37°C for one hour
 
 4.	DraI x BamHI
-
 - 5 µl plasmid DNA
 - Add Millipore water to adjust volume to 16 µl 
 - 2 µl CutSmart restriction buffer (NEB) 
@@ -88,7 +86,6 @@ The following restriction reaction must be pipetted very carefully. First decide
 - Incubate 20 µl at 37°C for one hour
 
 5.	DraI x HaeII
-
 - 5 µl plasmid DNA
 Add Millipore water to adjust volume to 16 µl 
 - 2 µl CutSmart restriction buffer (NEB) 
@@ -98,7 +95,6 @@ Add Millipore water to adjust volume to 16 µl
 
 
 6.	HaeII x BamHI
-
 - 5 µl plasmid DNA
 - Add Millipore water to adjust volume to 16 µl 
 - 2 µl CutSmart restriction buffer (NEB) 
@@ -107,7 +103,6 @@ Add Millipore water to adjust volume to 16 µl
 - Incubate a total of 20 µl at 37°C for one hour
 
 7.	DraI x HaeII x BamHI
-
 - 5 µl plasmid DNA
 - Add Millipore water to adjust volume to 24 µl 
 - 3 µl CutSmart restriction buffer (NEB) 
@@ -117,45 +112,16 @@ Add Millipore water to adjust volume to 16 µl
 - Incubate a total of 30 µl at 37°C for one hour
 
 8.	Without restriction enzyme
-
 - 3 µl plasmid DNA
+- Add Millipore water to adjust volume to 10 µl
 - Add Millipore water to adjust volume to 9 µl 
 - 1 µl CutSmart restriction buffer (NEB) 
 - Incubate at 37°C for one hour
-- total 10 µl
 
 
 ### Day 2: Agarose gel electrophoresis
 
-**For creating a 1.5% agarose gel:**
-
-- Seal the gel holder with painter's tape.
-- Place a comb 1 to 2 cm from the top of the gel and 1 to 1.5 mm from the bottom of the gel holder.
-- Prepare 400 ml of 1x TBE buffer to fill the electrophoresis tank with and to prepare a gel. The stock solution you will find in the lab is a 10x concentrate. So first of all, calculate how to prepare the 1X solution.
-
-**The gel:**
-
-- Add the right amount of agarose to 60 ml TBE to prepare a 1.5% (w/v) gel.
-- Heat the solution to the boiling point in a microwave until all the agarose has dissolved.
-- Allow the solution to cool down to a temperature of approximately 60°C. Add 3 µl Midori Green to the warm agarose solution.
-- Pour the warm agarose solution into the gel holder. Make sure the gel is approximately 5 mm thick.
-- After 30 minutes, carefully remove the comb and the painter's tape and place the gel into the electrophoresis tray.
-- Fill the electrophoresis tray with 1x TBE buffer. Make sure the gel is completely submerged by the electrophoresis buffer before inserting the samples.
-
-**Insering the samples:**
-
-- Start with mixing 2 µl of the marker (1kb peqGOLD, VWR), 8µl sterile MQ and 2 µl of 6X-loading buffer in a microtube. 
-- Transfer 10 µl of the PCR reaction mixture into a microtube containing 2 µl of 6X-loading buffer. 
-- Make sure the sample and loading buffer are mixed properly. Mix them by aspirating the tip a few times.
-- Now deposit the samples (as well as the marker) into separate slots with extreme care. To load the samples, insert the pipette deep into the slots, or the samples may float out of the slots. However, do not insert the pipette too deep into the slots, as this may perforate the gel.
-- Run electrophoresis at 100-120 Volt. If you use a higher voltage, the gel may melt.
-
-**Please Note:**
-
-- Make sure you fill each slot halfway, since the sample may run over.
-- Insert the pipette deep into the slots to load the samples, then slowly press the plunger downwards. Make sure the pipette does not emit any air bubbles. Make sure you do not damage the gel.
-- Do not allow the blue agent to migrate too far as the Midori Green will migrate the opposite direction.
-- View the gel under a UV source and take a picture of the gel with your mobile phone. Use this photo to determine the results in your logbook. Make sure that you have a clear photo that you can use to determine the results.
+Proceed with the procedure of [Agerose gel electrophoresis](../agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
 
 
 --- 
