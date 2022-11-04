@@ -142,7 +142,7 @@ Compare your results from the *in sillico* analysis with your experimental resul
 
 --- 
 
->Some  information on this page was adapted and modified from Wikipedia.org.
+>Some information on this page was adapted and modified from Wikipedia.org.
 
 [Back to the main page](../index.md)
 
