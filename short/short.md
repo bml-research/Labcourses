@@ -31,7 +31,7 @@ The following items will be clickable links with short web pages or short instru
 ## Experiments
 
 ### Day 1
-- [pipetting fluids](./pipetting.md)
+- [Pipetting fluids](./pipetting.md)
 - [Calibration curve copper sulphate and linear regression analysis](./calibration_curve_copper.md)
 - [Gram-staining of *E.coli*](gram_staining.md)
 
