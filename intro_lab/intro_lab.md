@@ -7,7 +7,7 @@
 
 ---
 
-![Pic](./impression/impression.jpg)
+![Pic](../impression/impression.jpg)
 *<sub>Source: Hanzehogeschool</sub>*
 
 ## Inhoud
@@ -18,7 +18,7 @@ Welke software je gebruikt voor de dataverwerking is je eigen keuze. Je mag spre
 Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding kunnen geven voor spreadsheetsoftware en je mogelijk niet goed kunnen ondersteunen in R en Python. Als je voor R of Python kiest dan ben je dus wat meer op jezelf aangewezen.
 
 
-## Literatuur en Planning
+## Planning
 
 
 |Les     |Tijdsduur      |Onderwerp                               |Werkvorm             |Toets/product                  |
@@ -32,6 +32,11 @@ Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding ku
 |Les 7   |90 minuten     |PCR en restrictie in Benchling          |Computerles          |Opdrachten beoordelen (summatief maar met feedback)|
 |Les 8   |8 uur          |PCR en agarose gelelectroforese         |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 9   |8 uur          |Plasmide isolatie en restrictie analyse |Lab practicum        |Logboek Logboek (summatief met feedback)|
+
+
+---
+
+## Links naar experimenten
 
 - [Algemene intro](../short/short.md)
 - [Microscopie](../short/gram_staining.md)
