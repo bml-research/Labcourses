@@ -173,21 +173,49 @@ Remember that it is better to be at the maximum of the pipette than at the minim
 
 B. Take a look at the red numbers of the institution. What do these numbers represent? There is an exception on that line. Which pipette is that and what do the red numbers indicate with that pipette?
 
+### Exersise 2: Mistakes with influence
 
+- Mark three 1.5 ml Eppenorf cups with “1”, “2” and “3”.
+- Weigh the cups and write down the exact weight (Table 5).
+- Pipette 1 ml of room temperature water from a depth of 3 mm into well 1 with the P1000.
+- Pipette 5x 200 μl room temperature water from 3 mm deep into well 2 with a P200 pipette.
+- Pipette 1 ml of room temperature water 2 cm deep into well 3 with the P1000
+- Weigh cup 1, 2 and 3 again. Calculate the mass of the water in cups 1, 2 and 3.
 
+1 ml of water at 21 degrees Celsius weighs 0.998 g. Which cup comes closest to this number?
 
+|Tube    |Weight before|Weight after |Weigth water|
+|:-------|:------------|:------------|:-----------|
+|1       |             |             |            |
+|2       |             |             |            |
+|3       |             |             |            |
 
+### Exersise 3: Volatile liquids
 
+1. Pipette 1 ml of water with a suitable pipette. If all goes well there are no air bubbles in the water and
+the liquid stays put. Is your pipette functional?
+2. Pipette 1 ml of alcohol (70% and at room temperature) with the same pipette. Now wait some
+seconds with the pipette tip above the alcohol. What happens to the liquid?
+3. Carefully pipette 1 ml of alcohol up and down 3x. Now again pipette 1 ml of alcohol with the same
+dot. Do you see a difference?
+4. Pipette 1 ml of alcohol with a new pipette tip using the reverse pipetting technique. What do you see now?
 
+### Exersise 4: viscous liquid
 
-## Processing lab data using a spreadsheet
+1. Pipette 1 ml of glycerol with a suitable pipette and immediately remove your pipette tip from the glycerol when the push button is at the highest position. Pipette the glycerol into a 1.5 ml eppendorf cup. Do you think that you now have 1 ml of glycerol in your eppendorf cup? Explain your answer.
+2. Again pipet up 1 ml of glycerol with the same pipette. Now wait 3 seconds after the glycerol stopped is moving. Pipette the glycerol into a new 1.5 ml eppendorf cup.
+3. Also pipette 1ml of glycerol using the reverse pipetting technique.
+4. Compare the cups from question 1. 2. and 3. What is the difference and what causes this?
 
+### Exersise 5: pipetting as einstructed (test)
 
-
+When the 4 assignments have been completed and you have trained yourself sufficiently, you will perform this assignment at the supervising teacher. You will be prompted to pipe a number of volumes correctly. In doing so, the correct pipette must be selected and the corresponding pipette tip. Then you pipette according to the guidelines the specific volumes. You may also need to add different liquids together. Your teacher will asses the whole. This is the pipetting skill listed on the competency/assessment form. This part must be completed satisfactorily. 
 
 
 
 The end...
+
+---
 
 >Some information on this page was adapted and modified from Wikipedia.org.
 
