@@ -7,7 +7,7 @@
 
 ---
 
-![Pic](../impression/impression.jpg)
+![Pic](./pics/impression.jpg)
 *<sub>Source: Hanzehogeschool</sub>*
 
 ## Inhoud
