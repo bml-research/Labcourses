@@ -26,20 +26,23 @@ Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding ku
 |Les 1   |4 uur          |Les veiligheid                          |College en practicum |Formatieve (digitale) toets    |
 |Les 2   |8 uur          |Microscopie                             |Lab practicum        |Logboek met formatieve feedback|
 |Les 3   |8 uur          |Pipetteren/wegen                        |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
-|Les 4   |4 uur          |Proeve van bekwaamheid (basis )         |Lab practicum        |Tussentoets ijklijn maken en uitwerken. (summatief met feedback voor volgende experiment)|
+|Les 4   |4 uur          |Ijklijn maken                           |Lab practicum        |Tussentoets ijklijn maken en uitwerken. (summatief met feedback voor volgende experiment)|
 |Les 5   |4 uur          |Buffers en media                        |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 6   |8 uur          |*E. coli* kweek                         |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 7   |90 minuten     |PCR en restrictie in Benchling          |Computerles          |Opdrachten beoordelen (summatief maar met feedback)|
 |Les 8   |8 uur          |PCR en agarose gelelectroforese         |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 9   |8 uur          |Plasmide isolatie en restrictie analyse |Lab practicum        |Logboek Logboek (summatief met feedback)|
 
-- [Measuring pH](https://www.youtube.com/watch?v=gtcCLldrcg4)
-- [Pipetting liquids](https://www.youtube.com/watch?v=D_wx6hXhiGs)
-- [Measuring OD values](https://www.youtube.com/watch?v=xHQM4BbR040)
-- [Measuring growth of bacteria](https://www.youtube.com/watch?v=_5_tlot3rvs)
-- [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
-- [Linear Regression Excel](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
-- [Polynomial Quadratic Regression](https://www.youtube.com/watch?v=kXezPdlO-G8)
+- [Algemene intro](../short/short.md)
+- [Microscopie](../short/gram_staining.md)
+- [Pipetteren/wegen](../short/pipetting.md)
+- [Buffers en media](../short/chemical_calculations.md)
+- [IJklijn maken](../short/calibration_curve_copper.md)
+- [*E. coli* kweek](../short/buffers_growth.md)
+- [PCR](../pcr/pcr.md)
+- [Agarose gelelectroforese](../agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
+- [Plasmide isolatie](../nucleic_acid_isolation/nucleic_acid_isolation.md)
+- [Restrictie analyse](../restriction_analysis/restriction_analysis.md)
 
 
 
