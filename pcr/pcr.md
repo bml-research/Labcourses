@@ -53,8 +53,6 @@ DNA is visualized by staining with Midori Green, which intercalates into the maj
 We will use the pHIPH4 plasmid to PCR amplify the Hygromycine gene using a forward and reverse primer. 
 
 Primer sequences:  
-•	KO-SUC2-f: ATGCTTTTGCAAGCTTTCCTTTTCCTTTTGGCTGGTTTTGCCCACACACCATAGCTTCAA  
-•	KO-SUC2-r: CTATTTTACTTCCCTTACTTGGAACTTGTCAATGTAGAACCGTTTTCGACACTGGATGGC  
 
 •	pHIPH4-f: CCCACACACCATAGCTTCAA  
 •	pHIPH4-r: CGTTTTCGACACTGGATGGC  
