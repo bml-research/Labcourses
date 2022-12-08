@@ -1,7 +1,7 @@
 {% include head.html %}
 ![Hanze](../../hanze/hanze.png)
 
-[Back to crash course](../short.html)
+[Back to the home page](../../index.md)  
 
 # Microscope Alignment for Köhler Illumination
 
@@ -20,3 +20,8 @@
 - Center the image of the illuminated field diaphragm with the condenser centering screws. This will be made easier for you if the diameter of the field diaphragm image is lying almost on top of the image of the field of view.
 - Open the illuminated field diaphragm until the entire field of view is bright.
 - When necessary change the aperture diaphragm. The aperture diaphragm is more closed with a smaller magnification. The value of the aperture diaphragm is most of the times indicated on the objective with NA followed by a number (0.05, 0.35, 0.65 or 0.95). 
+
+
+[Back to the home page](../../index.md)  
+
+---
