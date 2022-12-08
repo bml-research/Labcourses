@@ -2,7 +2,7 @@
 ![Hanze](../hanze/hanze.png)
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+  
 
 # The Lowry Assay
 
@@ -66,4 +66,4 @@ or Python:
 The end...
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+  
