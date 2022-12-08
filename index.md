@@ -33,7 +33,7 @@
 
 ## Courses
 - [Crash Course](./crash_course/crash_course.md)
-- [Keuzemodule Introductie Laboratoriumvaardigheden (Nederlands)](./intro_lab/intro_lab.md)
+- [Keuzemodule Introductie Laboratoriumvaardigheden (Nederlands)](./keuzemodule_intro_lab/keuzemodule_intro_lab.md)
 - [VMT](./vmt/00_vmt_index.md) 
 
 
