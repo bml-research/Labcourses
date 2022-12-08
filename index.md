@@ -14,6 +14,7 @@
 
 
 ## Experiments 
+
 - [Agarose gel electrophoresis](./agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
 - [Buffers and Growth](./buffers_growth/buffers_growth.md)
 - [CRISPR-Cas9](./crispr/crispr.md) 
@@ -23,11 +24,11 @@
 - [Gram staining](./gram_staining/gram_staining.md)
 - [Lowry](./lowry/lowry.md)
 - [PCR](./pcr/pcr.md) 
+- [Pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
 - [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) 
 - [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) 
 - [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
 - [Western Blot](./western_blot/western_blot.md) 
-- [pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
 
 --- 
 
