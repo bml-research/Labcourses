@@ -81,7 +81,3 @@ Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding ku
 [Back to the home page](../index.md)
 
 
-
----
-
-[Back to the home page](../index.md)

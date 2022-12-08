@@ -14,20 +14,20 @@
 
 
 ## Experiments 
-- [Buffers and Growth](./buffers_growth/buffers_growth.md)
-- [Gram staining](./gram_staining/gram_staining.md)
-- [Calibration curve copper](./calibration_curve_copper/calibration_curve_copper.md)
-- [Lowry](./lowry/lowry.md)
-- [pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
-- [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) 
-- [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
-- [PCR](./pcr/pcr.md) 
 - [Agarose gel electrophoresis](./agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
-- [ELISA](./elisa/elisa.md) 
-- [Western Blot](./western_blot/western_blot.md) 
-- [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) 
-- [Cloning](./cloning/cloning.md) 
+- [Buffers and Growth](./buffers_growth/buffers_growth.md)
 - [CRISPR-Cas9](./crispr/crispr.md) 
+- [Calibration curve copper](./calibration_curve_copper/calibration_curve_copper.md)
+- [Cloning](./cloning/cloning.md) 
+- [ELISA](./elisa/elisa.md) 
+- [Gram staining](./gram_staining/gram_staining.md)
+- [Lowry](./lowry/lowry.md)
+- [PCR](./pcr/pcr.md) 
+- [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) 
+- [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) 
+- [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
+- [Western Blot](./western_blot/western_blot.md) 
+- [pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
 
 --- 
 
