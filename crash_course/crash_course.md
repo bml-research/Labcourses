@@ -11,35 +11,23 @@
 *<sub>Source: Hanzehogeschool</sub>*
 
 ## Introduction
-The following items will be clickable links with short web pages or short instruction movies covering the following subjects:
-- [Safety in the laboratory](./safety/safety.html)
-- [Labjournal general information](./labjournal/labjournal.pdf)
-- [Labjournal (eLabjournal)](https://www.elabjournal.com/doc/QuickStartGuide.html)
-- [Lab Equipment](./lab_equipment.html)
-- [Basics of Chemical calculations](./chemical_calculations.html)
-- [Weighing chemicals](https://www.youtube.com/watch?v=kNUdYdwQ-2Q)
-- [Measuring pH](https://www.youtube.com/watch?v=gtcCLldrcg4)
-- [Pipetting liquids](https://www.youtube.com/watch?v=D_wx6hXhiGs)
-- [Measuring OD values](https://www.youtube.com/watch?v=xHQM4BbR040)
-- [Measuring growth of bacteria](https://www.youtube.com/watch?v=_5_tlot3rvs)
-- [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
-- [Linear Regression Excel](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
-- [Polynomial Quadratic Regression](https://www.youtube.com/watch?v=kXezPdlO-G8)
+See the following page for the Laboratory basics: 
+[Laboratory basics](../labbasics/labbasics.md)
 
 ---
 
 ## Experiments
 
 ### Day 1
-- [Pipetting fluids](./pipetting.md)
-- [Calibration curve copper sulphate and linear regression analysis](./calibration_curve_copper.md)
-- [Gram-staining of *E.coli*](gram_staining.md)
+- [Pipetting fluids](../pipetting_fluids/pipetting_fluids.md)
+- [Calibration curve copper sulphate and linear regression analysis](../calibration_curve_copper/calibration_curve_copper.md)
+- [Gram-staining of *E.coli*](../gram_staining/gram_staining.md)
 
 ### Day 2
-- [Preparation of buffers and growth of *E. coli* at different pH values](buffers_growth.md)
+- [Preparation of buffers and growth of *E. coli* at different pH values](../buffers_growth/buffers_growth.md)
 
 ### Day 3
-- [Measuring protein concentration using the Lowry method](lowry.md)
+- [Measuring protein concentration using the Lowry method](../lowry/lowry.md)
 
 ---
 
