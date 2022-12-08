@@ -14,6 +14,7 @@
 
 
 ## Experiments 
+- [pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
 - [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) 
 - [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
 - [PCR](./pcr/pcr.md) 
