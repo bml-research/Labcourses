@@ -3,7 +3,7 @@
 
 [Back to the home page](../index.md)
 
-# Crash course basic laboratory skills
+# Laboratory Basics
 
 ---
 
@@ -11,7 +11,7 @@
 *<sub>Source: Hanzehogeschool</sub>*
 
 ## Introduction
-The following items will be clickable links with short web pages or short instruction movies covering the following subjects:
+
 - [Basics of Chemical calculations](./chemical_calculations.html)
 - [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
 - [Lab Equipment](./lab_equipment.html)

@@ -14,6 +14,8 @@
 
 
 ## Experiments 
+- [Calibration curve copper](./calibration_curve_copper/calibration_curve_copper.md)
+- [Lowry](./lowry/lowry.md)
 - [pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
 - [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) 
 - [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
