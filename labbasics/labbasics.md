@@ -23,7 +23,7 @@
 - [Measuring pH](https://www.youtube.com/watch?v=gtcCLldrcg4)
 - [Pipetting liquids](https://www.youtube.com/watch?v=D_wx6hXhiGs)
 - [Polynomial Quadratic Regression](https://www.youtube.com/watch?v=kXezPdlO-G8)
-- [Safety in the laboratory](./safety/safety.html)
+- [Safety in the laboratory](./safety/safety.md)
 - [Weighing chemicals](https://www.youtube.com/watch?v=kNUdYdwQ-2Q)
 
 
