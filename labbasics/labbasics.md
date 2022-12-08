@@ -17,14 +17,14 @@
 - [Lab Equipment](./lab_equipment/lab_equipment.md)
 - [Labjournal (eLabjournal)](https://www.elabjournal.com/doc/QuickStartGuide.html)
 - [Labjournal general information](./labjournal/labjournal.pdf)
-- [Linear Regression Excel (Youtube video)](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
-- [Measuring OD values (Youtube video)](https://www.youtube.com/watch?v=xHQM4BbR040)
-- [Measuring growth of bacteria (Youtube video)](https://www.youtube.com/watch?v=_5_tlot3rvs)
-- [Measuring pH (Youtube video)](https://www.youtube.com/watch?v=gtcCLldrcg4)
-- [Pipetting liquids (Youtube video)](https://www.youtube.com/watch?v=D_wx6hXhiGs)
-- [Polynomial Quadratic Regression (Youtube video)](https://www.youtube.com/watch?v=kXezPdlO-G8)
+- [Linear Regression Excel (YouTube video)](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
+- [Measuring OD values (YouTube video)](https://www.youtube.com/watch?v=xHQM4BbR040)
+- [Measuring growth of bacteria (YouTube video)](https://www.youtube.com/watch?v=_5_tlot3rvs)
+- [Measuring pH (YouTube video)](https://www.youtube.com/watch?v=gtcCLldrcg4)
+- [Pipetting liquids (YouTube video)](https://www.youtube.com/watch?v=D_wx6hXhiGs)
+- [Polynomial Quadratic Regression (YouTube video)](https://www.youtube.com/watch?v=kXezPdlO-G8)
 - [Safety in the laboratory](./safety/safety.md)
-- [Weighing chemicals (Youtube video)](https://www.youtube.com/watch?v=kNUdYdwQ-2Q)
+- [Weighing chemicals (YouTube video)](https://www.youtube.com/watch?v=kNUdYdwQ-2Q)
 
 
 ---
