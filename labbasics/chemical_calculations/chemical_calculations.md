@@ -61,6 +61,6 @@ $1000 \cdot V_1 = 150 \cdot 500$
 Thus:
 $V_1 = \frac{150 \cdot 500}{1000} = 75 \ mL$
 
-[Back to the home page](../index.md)  
+[Back to the home page](../../index.md)  
 
 --- 
