@@ -13,8 +13,8 @@
 ## Introduction
 
 - [Basics of Chemical calculations](./chemical_calculations/chemical_calculations.md)
-- [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
-- [Lab Equipment](./lab_equipment.html)
+- [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.md)
+- [Lab Equipment](./lab_equipment.md)
 - [Labjournal (eLabjournal)](https://www.elabjournal.com/doc/QuickStartGuide.html)
 - [Labjournal general information](./labjournal/labjournal.pdf)
 - [Linear Regression Excel](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
