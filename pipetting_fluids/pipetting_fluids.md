@@ -2,7 +2,7 @@
 ![Hanze](../hanze/hanze.png)
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+
 
 # Pipetting fluids
 
@@ -24,7 +24,7 @@ There are many different types of pipettes that are used in practice:
 9. Light-guided pipetting system
 This manual explains the adjustable pipette and how it should be used in the laboratoty. 
 
-![Various pipettes](./pipetting/fig1.jpg)
+![Various pipettes](./pipetting_fluids/fig1.jpg)
 *<sub>Source: https://en.wikipedia.org/wiki/Pipette#/media/File:Pipettes.jpg</sub>*
 
 
@@ -35,21 +35,21 @@ Within the types of automatic pipettes, there are 2 types of pipettes that diffe
 the type of pipette that is standardly used in the lab.
 With the positive-displacement pipette, the volume pipetted is not affected by the properties of the liquid to be pipetted. Also, the temperature has no influence on the volume. That makes This pipette is extremely suitable for pipetting viscous, cold or warm liquids
 
-![Air displacement pipette](./pipetting/fig2.png)
+![Air displacement pipette](./pipetting_fluids/fig2.png)
 *<sub>Schematic diagram of an air displacement pipette. The "Digital volume indicator" is a dial display that indicates the digits. Source: https://en.wikipedia.org/wiki/Air_displacement_pipette#/media/File:Gilson_schematic.svg</sub>*
 
 ## Range and accuracy of the different types of pipettes
 
 Table 1 shows the range and systematic and random error for each type of pipette in the Pipetman Neo range indicated. The systematic or accuracy error is caused by the properties of the pipette itself or by using improperly fitting pipette tips. The precision or accidental (random) error is caused by the user's technique or also the pipette tips.
 
-![Air displacement pipette](./pipetting/fig2.png)
+![Air displacement pipette](./pipetting_fluids/fig2.png)
 *<sub>Schematic diagram of an air displacement pipette. The "Digital volume indicator" is a dial display that indicates the digits. Source: https://en.wikipedia.org/wiki/Air_displacement_pipette#/media/File:Gilson_schematic.svg</sub>*
 
 
-![Accuracy and precision](./pipetting/fig3.png)
+![Accuracy and precision](./pipetting_fluids/fig3.png)
 *<sub>Accuracy and precision. Source: https://commons.wikimedia.org/wiki/File:Accuracy-vs-precision-nl.svg</sub>*
 
-![Specifications of pipetman Neo](./pipetting/fig4.png)
+![Specifications of pipetman Neo](./pipetting_fluids/fig4.png)
 *<sub>Specifications of Pipetman Neo. Source: https://commons.wikimedia.org/wiki/File:Accuracy-vs-precision-nl.svg</sub>*
 
 
@@ -63,14 +63,14 @@ A pipette always consists of the following parts:
 5. Tip holder: air column and placement of disposable tips
 6. Disposable tips: always work with a well-fitting clean tip
 
-![Parts of a Pipette](./pipetting/fig5.png)
+![Parts of a Pipette](./pipetting_fluids/fig5.png)
 *<sub>Parts of a Pipette</sub>*
 
 ## Set the volume
 
 The volume should always be set clockwise. This means if while the volume should be adjusted to a lower volume this quietly, with clockwise to the desired volume. If the volume should be larger, the mechanism should be turned 1/3 further than desired volume and then gently turned back to it desired volume. When setting the correct volume, the pipette should be in a horizontal position. That way you don't get a skewed image, which can cause a reading error to arise. With the Pipetman Neo, the volume can be set with both the push button and the volume adjustment screw. For older models, setting the volume applies only with the volume adjustment screw The volume setting must be within the volume range of the pipette lie down (see table 1). Most of the numbers on the eyedropper are black in color. This one all represent microliters. The different red color indicates either 10th or 100th microliter again at the P2, P10 or P20. Or the red number indicates milliliters the P1000. PAY ATTENTION! All pipettes are never turned to a higher volume may exceed the maximum volume. Place the correct tip of the correct size/color on the matching pipette.
 
-![Display of volume settings for different pipettes](./pipetting/fig6.png)
+![Display of volume settings for different pipettes](./pipetting_fluids/fig6.png)
 *<sub>Display of volume settings for different pipettes</sub>*
 
 |Pipettype|Color/Type     |
@@ -99,7 +99,7 @@ This pre-rinsing is carried out by sucking in and blowing out the liquid.
 
 The most important thing when pipetting correctly is that you watch what happens in the pipette tip during the different steps of pipetting. Then you can check any irregularities that may occur (discussed below).
 
-![Forward Pipetting technique](./pipetting/fig7.png)
+![Forward Pipetting technique](./pipetting_fluids/fig7.png)
 *<sub>Forward Pipetting technique</sub>*
 
 In most cases, the forward pipetting technique is used.
@@ -135,7 +135,7 @@ This method is used for:
 - repetitive pipetting
 You will not need to use this technique very often. There is a short practice with pipetting assignments 3 and 4.
 
-![Reverse Pipetting technique](./pipetting/fig8.png)
+![Reverse Pipetting technique](./pipetting_fluids/fig8.png)
 *<sub>Reverse Pipetting technique</sub>*
 
 >With this technique you do NOT wipe the pipette tip against the wall when pipetting!
@@ -221,4 +221,4 @@ The end...
 
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+  
