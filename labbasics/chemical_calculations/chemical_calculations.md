@@ -1,8 +1,7 @@
 {% include head.html %}
-![Hanze](../hanze/hanze.png)
+![Hanze](../../hanze/hanze.png)
 
-[Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+[Back to the home page](../../index.md)   
 
 # Basics of chemical calculations
 
@@ -63,4 +62,5 @@ Thus:
 $V_1 = \frac{150 \cdot 500}{1000} = 75 \ mL$
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+
+--- 
