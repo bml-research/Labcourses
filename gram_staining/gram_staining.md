@@ -2,7 +2,7 @@
 ![Hanze](../hanze/hanze.png)
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+
 
 # Gram staining of *Escherichia coli* and *Staphylococcus epidermidis*
 
@@ -46,4 +46,4 @@ __Solutions needed for Gram staining will be supplied by teacher__
 The end...
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+ 
