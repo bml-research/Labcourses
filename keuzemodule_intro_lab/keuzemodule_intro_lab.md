@@ -38,17 +38,47 @@ Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding ku
 
 ## Links naar experimenten
 
-- [Algemene intro](../short/short.md)
-- [Microscopie](../short/gram_staining.md)
-- [Pipetteren/wegen](../short/pipetting.md)
-- [Buffers en media](../short/chemical_calculations.md)
-- [IJklijn maken (kopersulfaat)](../short/calibration_curve_copper.md)
-- [IJklijn maken (Lowry)](../short/lowry.md)
-- [*E. coli* kweek](../short/buffers_growth.md)
+### Les 1
+
+- [Algemene laboratorium informatie](../labbasics/labbasics.md)
+
+## Les 2:
+
+- [Microscopie](../gram_staining/gram_staining.md)
+
+## Les 3:
+
+- [Pipetteren/wegen](../pipetting_fluids/pipetting_fluids.md)
+
+
+## Les 4:
+- [IJklijn maken (kopersulfaat)](../calibration_curve_copper/calibration_curve_copper.md)
+- [IJklijn maken (Lowry)](../lowry/lowry.md)
+
+## Les 5:
+
+- [Buffers en media](../buffers_growth/buffers_growth.md)
+
+## Les 6:
+
+- [*E. coli* kweek](../buffers_growth/buffers_growth.md)
+
+## Les 7: 
+
+- [PCR simulatie in Benchling](nog doen)
+
+## Les 8:
+
 - [PCR](../pcr/pcr.md)
 - [Agarose gelelectroforese](../agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
+
+## Les 9:
 - [Plasmide isolatie](../nucleic_acid_isolation/nucleic_acid_isolation.md)
 - [Restrictie analyse](../restriction_analysis/restriction_analysis.md)
+
+---
+
+[Back to the home page](../index.md)
 
 
 
