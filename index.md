@@ -14,6 +14,7 @@
 
 
 ## Experiments 
+- [Buffers and Growth](./buffers_growth/buffers_growth.md)
 - [Gram staining](./gram_staining/gram_staining.md)
 - [Calibration curve copper](./calibration_curve_copper/calibration_curve_copper.md)
 - [Lowry](./lowry/lowry.md)
@@ -31,7 +32,7 @@
 --- 
 
 ## Courses
-- [Crash Course](./short/short.md)
+- [Crash Course](./crash_course/crash_course.md)
 - [Keuzemodule Introductie Laboratoriumvaardigheden (Nederlands)](./intro_lab/intro_lab.md)
 - [VMT](./vmt/00_vmt_index.md) 
 
