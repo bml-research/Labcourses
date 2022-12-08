@@ -1,4 +1,6 @@
+{% include head.html %}
 ![Hanze](../../hanze/hanze.png)
+
 [Back to crash course](../short.html)
 
 # Microscope Alignment for Köhler Illumination
