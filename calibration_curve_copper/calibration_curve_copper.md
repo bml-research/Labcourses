@@ -1,8 +1,7 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
-[Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+[Back to the home page](../index.md)   
 
 # Calibration curve copper sulphate
 
@@ -68,4 +67,5 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 The end...
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+
+---
