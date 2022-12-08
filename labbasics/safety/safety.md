@@ -1,5 +1,7 @@
+{% include head.html %}
 ![Hanze](../../hanze/hanze.png)
-[Back to crash course](../short.html)
+
+[Back to crash course](../../short.html)
 
 # General Lab Safety
 
