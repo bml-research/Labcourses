@@ -2,7 +2,7 @@
 ![Hanze](../hanze/hanze.png)
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+ 
 
 # Buffer preparation and the effect of pH on growth of *Escherichia coli*
 
@@ -113,4 +113,5 @@ $g = \frac{0.301}{slope}$
 The end...
 
 [Back to the home page](../index.md)  
-[Back to the home page of the crash course](./short.md)  
+
+---  
