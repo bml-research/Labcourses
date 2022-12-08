@@ -14,6 +14,7 @@
 
 
 ## Experiments 
+- [Gram staining](./gram_staining/gram_staining.md)
 - [Calibration curve copper](./calibration_curve_copper/calibration_curve_copper.md)
 - [Lowry](./lowry/lowry.md)
 - [pipetting fluids](.pipetting_fluids/pipetting_fluids.md)

@@ -12,7 +12,7 @@
 
 ## Introduction
 
-- [Basics of Chemical calculations](./chemical_calculations.html)
+- [Basics of Chemical calculations](./chemical_calculations/chemical_calculations.md)
 - [Handling a microscope (Microscope Alignment for Köhler Illumination)](./microscopy/microscopy.html)
 - [Lab Equipment](./lab_equipment.html)
 - [Labjournal (eLabjournal)](https://www.elabjournal.com/doc/QuickStartGuide.html)
