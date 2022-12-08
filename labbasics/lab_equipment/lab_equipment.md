@@ -1,7 +1,8 @@
 {% include head.html %}
-![Hanze](../../hanze/hanze.png)
+![Hanze](../hanze/hanze.png)
 
-[Back to the home page](../../index.md)    
+[Back to the home page](../../index.md)  
+
 
 # Lab Equipment
 
@@ -97,6 +98,7 @@ Analytical Weighing Scale:
 *<sub>Source: https://commons.wikimedia.org/wiki/File:LTEE_Incubator.jpg</sub>*
 
 
-[Back to the home page](../../index.md)    
+[Back to the home page](../../index.md)  
+
 
 ---
