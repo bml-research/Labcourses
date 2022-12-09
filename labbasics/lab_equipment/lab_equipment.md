@@ -1,5 +1,5 @@
 {% include head.html %}
-![Hanze](../hanze/hanze.png)
+![Hanze](../../hanze/hanze.png)
 
 [Back to the home page](../../index.md)  
 
