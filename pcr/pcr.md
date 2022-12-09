@@ -61,7 +61,7 @@ The [sequence of pHIPH4](https://www.addgene.org/117685/) can be found at the ad
 
 ## Simulate the PCR
 Simulate the PCR using [Benchling](https://www.benchling.com/).
-A step-by-step guide can be found [here](https://www.benchling.com/blog/in-silico-pcr-primer-design-and-gene-amplification) and here.
+A step-by-step guide can be found [here](https://www.benchling.com/blog/in-silico-pcr-primer-design-and-gene-amplification) and [here](../primer_design/primer_design.md).
 
 Simulate the PCR reaction and record the expected product length in your lab journal.
 

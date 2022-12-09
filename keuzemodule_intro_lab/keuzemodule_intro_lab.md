@@ -65,7 +65,7 @@ Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding ku
 
 ## Les 7: 
 
-- [PCR simulatie in Benchling](nog doen)
+- [PCR simulatie in Benchling](../primer_design/primer_design.md)
 
 ## Les 8:
 
