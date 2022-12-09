@@ -277,7 +277,7 @@ Start the following PCR program:
 - ∞ at 4ºC
 
 #### Agarose gel elctrophoresis
-Check 10 μl of the PCR product on a 1% agarose gel. Use an appropriate marker and use loading dye. You can find the procedure for agarose electrophoresis [here](../pcr/pcr.html).
+Check 10 μl of the PCR product on a 1% agarose gel. Use an appropriate marker and use loading dye. You can find the procedure for agarose electrophoresis [here](../agarose_gel_electrophoresis/agarose_gel_electropheresis.md).
 Use your phone to create a picture of the gel on a UV illuminator.
 
 >Be carefull with the UV illuminator. Use a protective mask.
