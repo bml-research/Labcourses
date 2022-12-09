@@ -121,7 +121,7 @@ Add Millipore water to adjust volume to 16 µl
 
 ### Day 2: Agarose gel electrophoresis
 
-Proceed with the procedure of [Agerose gel electrophoresis](../agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
+Proceed with the procedure of [Agarose gel electrophoresis](../agarose_gel_electrophoresis/agarose_gel_electropheresis.md)
 
 
 ## Post-lab assignments

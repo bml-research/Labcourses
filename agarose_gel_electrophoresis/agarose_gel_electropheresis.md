@@ -3,7 +3,7 @@
 
 [Back to the main page](../index.md)
 
-# Agerose Gel Electrophoresis
+# agarose Gel Electrophoresis
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 ## Preparation
-Watch the [following video](https://www.youtube.com/watch?v=vq759wKCCUQ&t=2s) regarding the principle of agerose gel electrophoresis.
+Watch the [following video](https://www.youtube.com/watch?v=vq759wKCCUQ&t=2s) regarding the principle of agarose gel electrophoresis.
 
 ## Introduction
 Agarose gel electrophoresis is a method to separate DNA in a matrix of agarose. The DNA is separated by charge and length in a suitable electrophoresis buffer. Larger DNA molecules migrate slower than shorter DNA in the electric field and, hence, they get seperated. 

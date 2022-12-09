@@ -15,7 +15,7 @@
 
 ## Experiments 
 
-- [Agarose gel electrophoresis](./agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
+- [Agarose gel electrophoresis](./agarose_gel_electrophoresis/agarose_gel_electropheresis.md)
 - [Buffers and Growth](./buffers_growth/buffers_growth.md)
 - [CRISPR-Cas9](./crispr/crispr.md) 
 - [Calibration curve copper](./calibration_curve_copper/calibration_curve_copper.md)

@@ -70,7 +70,7 @@ Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding ku
 ## Les 8:
 
 - [PCR](../pcr/pcr.md)
-- [Agarose gelelectroforese](../agerose_gel_electrophoresis/agerose_gel_electropheresis.md)
+- [Agarose gelelectroforese](../agarose_gel_electrophoresis/agarose_gel_electropheresis.md)
 
 ## Les 9:
 - [Plasmide isolatie](../nucleic_acid_isolation/nucleic_acid_isolation.md)
