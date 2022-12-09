@@ -3,7 +3,7 @@
 
 [Back to the main page](../index.md)
 
-# agarose Gel Electrophoresis
+# Agarose Gel Electrophoresis
 
 ---
 
