@@ -84,7 +84,7 @@ Analytical Weighing Scale:
 
 ## Spectrophotometer
 
-![Spectrophotometer](./equipment/spectrophotometer.png)
+![Spectrophotometer](./equipment/spectrophotometer.jpg)
 *<sub>Source: https://commons.wikimedia.org/wiki/File:Spectrophotometer_Model_1.JPG</sub>*
 
 ## Stereo Microscope

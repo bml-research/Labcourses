@@ -19,12 +19,6 @@
 
 ---
 
->Some of the text of this webpage is copied, adapted and modified from Wikipedia.org.  
-This is an open-access article distributed under the terms of the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
-Creative Commons License: CC BY-SA 4.0.
-
----
-
 > Before you start:
 We assume that you have basic knowledge and skills about general aseptic techniques in microbiology. It is required that you have obtained a VMT certificate as a start requirement to follow this course!
 
@@ -302,6 +296,12 @@ What could be a reason for this observation?
 The end...
 
 --- 
+
+>Some of the text of this webpage is copied, adapted and modified from Wikipedia.org.  
+This is an open-access article distributed under the terms of the Creative Commons Attribution License which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Creative Commons License: CC BY-SA 4.0.
+
+---
 
 [Back to the main page](../index.md)
 

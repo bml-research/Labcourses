@@ -24,7 +24,7 @@
 - [Gram staining](./gram_staining/gram_staining.md)
 - [Lowry](./lowry/lowry.md)
 - [PCR](./pcr/pcr.md) 
-- [Pipetting fluids](.pipetting_fluids/pipetting_fluids.md)
+- [Pipetting fluids](./pipetting_fluids/pipetting_fluids.md)
 - [Plasmid DNA isolation](./nucleic_acid_isolation/nucleic_acid_isolation.md) 
 - [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) 
 - [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
