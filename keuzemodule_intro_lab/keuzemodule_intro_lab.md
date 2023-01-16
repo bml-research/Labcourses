@@ -54,7 +54,8 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 
 ## Les 2:
 
-- [Microscopie](../gram_staining/gram_staining.md)
+- [Microscopie de basis](../microscope/microscope.md)
+- [Gram Kleuring](../gram_staining/gram_staining.md)
 
 ## Les 3:
 
