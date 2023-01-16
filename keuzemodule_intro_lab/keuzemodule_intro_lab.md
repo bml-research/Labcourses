@@ -17,6 +17,16 @@ De beoordeling vindt plaats op grond van een tussentijdse “proeve van bekwaamh
 Welke software je gebruikt voor de dataverwerking is je eigen keuze. Je mag spreadsheet software zoals Microsoft Excel/LibreOffice gebruiken maar ook de data-analyse uitvoeren in R of Python. Je maakt XY-scatterplots en barplots van je resultaten. Ook voer je regressie analyses uit.
 Houd er wel rekening mee dat de docenten op het lab veelal alleen begeleiding kunnen geven voor spreadsheetsoftware en je mogelijk niet goed kunnen ondersteunen in R en Python. Als je voor R of Python kiest dan ben je dus wat meer op jezelf aangewezen.
 
+## Leerdoelen
+Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
+•	veilig en effectief werken in een biologisch of medisch laboratorium;
+•	stoffen nauwkeurig afwegen, oplossingen maken, buffers maken, metingen uitvoeren en eenvoudige experimenten opzetten en uitvoeren;
+•	risico’s van een aantal stoffen inschatten;
+•	kwantificaties uitvoeren door interpolatie in kallibratielijnen en regressie analyse toepassen;
+•	een PCR simuleren en de grootte van het amplicon bepalen met Benchling.
+•	de Polymerase Chain Reaction (PCR) uitvoeren;
+•	een agarose-gel bereiden, laden, runnen en het DNA zichtbaar maken;
+
 
 ## Planning
 
