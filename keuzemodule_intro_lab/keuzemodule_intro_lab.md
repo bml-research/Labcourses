@@ -40,8 +40,8 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 |Les 5   |4 uur          |Buffers en media                        |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 6   |8 uur          |*E. coli* kweek                         |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 7   |90 minuten     |PCR en restrictie in Benchling          |Computerles          |Opdrachten beoordelen (summatief maar met feedback)|
-|Les 8   |8 uur          |PCR en agarose gelelectroforese         |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
-|Les 9   |8 uur          |Plasmide isolatie en restrictie analyse |Lab practicum        |Logboek Logboek (summatief met feedback)|
+|Les 8   |8 uur          |PCR                                     |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
+|Les 9   |4 uur          |Agarose gelelectroforese                |Lab practicum        |Logboek Logboek (summatief met feedback)|
 
 
 ---
@@ -62,8 +62,8 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 
 
 ## Les 4:
+
 - [IJklijn maken (kopersulfaat)](../calibration_curve_copper/calibration_curve_copper.md)
-- [IJklijn maken (Lowry)](../lowry/lowry.md)
 
 ## Les 5:
 
@@ -80,11 +80,11 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 ## Les 8:
 
 - [PCR](../pcr/pcr.md)
-- [Agarose gelelectroforese](../agarose_gel_electrophoresis/agarose_gel_electropheresis.md)
+
 
 ## Les 9:
-- [Plasmide isolatie](../nucleic_acid_isolation/nucleic_acid_isolation.md)
-- [Restrictie analyse](../restriction_analysis/restriction_analysis.md)
+
+- [Agarose gelelectroforese](../agarose_gel_electrophoresis/agarose_gel_electropheresis.md)
 
 ---
 
