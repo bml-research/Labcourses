@@ -146,6 +146,7 @@ NA = the numerical aperture of the objective used (n sin ½ ) is on each obje
 
 
 >Note: During this practical you will make several drawings of preparations. Make sure that you add a scale indication (measurement bar) and the magnification to each drawing
+
 ---
 
 The end...
