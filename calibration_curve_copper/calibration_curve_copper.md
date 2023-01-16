@@ -64,6 +64,8 @@ Spectrophotometry can be used to quantify chemicals that absorb light of a speci
 - Fill in your y-value and calculate the unknown x-value.
 - Report the copper sulphate concentration in your lab journal.
 
+>You are also welcome to perform the analysis in Python or R.
+
 The end...
 
 [Back to the home page](../index.md)  

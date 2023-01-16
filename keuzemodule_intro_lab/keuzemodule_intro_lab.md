@@ -48,7 +48,7 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 
 ## Links naar experimenten
 
-### Les 1
+## Les 1
 
 - [Algemene laboratorium informatie](../labbasics/labbasics.md)
 
