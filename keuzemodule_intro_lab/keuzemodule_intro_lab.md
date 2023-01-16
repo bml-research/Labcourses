@@ -27,7 +27,6 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 - de Polymerase Chain Reaction (PCR) uitvoeren;  
 - een agarose-gel bereiden, laden, runnen en het DNA zichtbaar maken;  
 
-Test $\frac{x}{y}$
 
 ## Planning
 
