@@ -29,6 +29,7 @@
 - [RNA isolation and qPCR on HSP gene *C. elegans*. ](./elegans/elegans.md) 
 - [Restriction analysis](./restriction_analysis/restriction_analysis.md) 
 - [Western Blot](./western_blot/western_blot.md) 
+- [Working with a microscope](./microscope/microscope.md)
 
 --- 
 
