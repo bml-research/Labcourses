@@ -27,6 +27,12 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 - de Polymerase Chain Reaction (PCR) uitvoeren;  
 - een agarose-gel bereiden, laden, runnen en het DNA zichtbaar maken;  
 
+## Leeruitkomsten  
+
+- Je werkt veilig en effectief volgens de aangereikte protocollen vanuit de practica in een biologisch of medisch laboratorium aan eenvoudige experimenten waarbij je laat zien hoe je media en buffers maakt;  
+- Je kwantificeert stoffen zoals suikers of eiwitten nauwkeurig uit een monster in een biologisch of medisch laboratorium door middel van regressieanalyse;  
+- Je amplificeert specifieke stukken DNA uit een monster in een biologisch of medisch laboratorium door Polymerase Chain Reaction (PCR) en visualiseert deze door gel elektroforese.  
+
 
 ## Planning
 
