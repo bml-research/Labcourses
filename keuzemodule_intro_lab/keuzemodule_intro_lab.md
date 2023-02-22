@@ -48,7 +48,7 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 |Les 7   |90 minuten     |PCR en restrictie in Benchling          |Computerles          |Opdrachten beoordelen (summatief maar met feedback)|
 |Les 8   |8 uur          |PCR                                     |Lab practicum        |Logboek (summatief met feedback voor volgende logboek)|
 |Les 9   |4 uur          |Agarose gelelectroforese                |Lab practicum        |Logboek Logboek (summatief met feedback)|
-
+|Les 10  |4 uur          |Restictie analyse plasmide DNA          |Lab practicum        |Logboek (summatief met feedback)|
 
 ---
 
@@ -92,6 +92,13 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 ## Les 9:
 
 - [Agarose gelelectroforese](../agarose_gel_electrophoresis/agarose_gel_electropheresis.md)
+
+
+## Les 10:
+
+- [Simulatie restrictie analyse Benchling](../benchling/benchling.md)
+- [Restictie analyse plasmide DNA](../restriction_analysis/restriction_analysis.md)
+
 
 ---
 
