@@ -24,8 +24,6 @@ The document is divided in two parts:
 
 ---
 
-An introduction PowerPoint (with voice recording) can be downloaded [here](./files/introduction_benchling.pptx)
-
 ## Use the following links for this lesson
 
 - [Introduction Benchling](./files/introduction_benchling.pdf)

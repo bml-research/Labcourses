@@ -82,7 +82,7 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 
 ## Les 7: 
 
-- [PCR simulatie in Benchling](../primer_design/primer_design.md)
+- [PCR simulatie in Benchling](../benchling/benchling.md)
 
 ## Les 8:
 
