@@ -33,8 +33,6 @@ An introduction PowerPoint (with voice recording) can be downloaded [here](./fil
 - [Files Benchling](./files/files_benchling.zip)
 
 
-text
-
 ---
 
 >Some  information on this page was adapted and modified from Wikipedia.org.
