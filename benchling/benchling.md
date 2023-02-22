@@ -18,8 +18,8 @@
 
 The lesson is in Dutch.
 The document is divided in two parts:
-- Part 1: **In Sillico** Restriction analysis of plasmid DNA
-- Part 2: **In Sillico** PCR
+- Part 1: *In Sillico* Restriction analysis of plasmid DNA
+- Part 2: *In Sillico* PCR
 
 
 ---
