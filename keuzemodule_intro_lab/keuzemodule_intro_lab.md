@@ -99,6 +99,7 @@ Na de cursus Keuzemodule Introductie Laboratoriumvaardigheden kan de student:
 - [Simulatie restrictie analyse Benchling](../benchling/benchling.md)
 - [Restictie analyse plasmide DNA](../restriction_analysis/restriction_analysis.md)
 
+test
 
 ---
 
