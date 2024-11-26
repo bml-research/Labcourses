@@ -250,6 +250,7 @@ See primer sequences below:
 For example: Use Hsp70 F1 with Hsp70 R1. All primer combinations are tested and do work well.  
 
 
+
 #### Data analysis
 When finished, the software will automatically set the baseline level. Check if the baseline is set correct (in the exponential phase). However, leave the baseline for each amplified gene at the same level. Make screenshots and place them in eLabJournal.
 
