@@ -209,12 +209,43 @@ d.	5,5 ul sterile MilliQ
     6.	MeltCurve 
         0:03 from 65°C to 95°C, 0,5°C per cycle
 
+Example Plate setup:  
 
 ![Table 1](./pics/table1.png)
 *<sub>Table 1.</sub>*
 
-Choose a HSP (HSP70 or HSP16.1).
-If for a gene multiple primer sets are present, choose a primerset.
+Choose a HSP (HSP70 or HSP16.1).  
+Multiple primer sets are present, choose a primerset.  
+See primer sequences below:  
+
+| Name       | Gene Name | Sequence (5' to 3')  |
+|------------|-----------|----------------------|
+| Act-1 F1   | Actin     | GGTTGCCGCTCTTGTTGTAG |
+| Act-1 F2   | Actin     | TCTGGCATCACACCTTCTAC |
+| Act-1 F3   | Actin     | GGACTTGTACGCCAACACTG |
+| Act-1 R1   | Actin     | CCGACAATGGATGGGAACAC |
+| Act-1 R2   | Actin     | CGGTTAGCCTTTGGATTGAG |
+| Act-1 R3   | Actin     | GAGCGGTGATTTCCTTCTGC |
+| Hsp16.1 F1 | Hsp16     | GATGTTGGTGCAGTTGCTTC |
+| Hsp16.1 F2 | Hsp16     | TGGTCGTACGCTATCAATCC |
+| Hsp16.1 F3 | Hsp16     | CGTACGCTATCAATCCAAGG |
+| Hsp16.1 F4 | Hsp16     | GGAACGCCAATTTGCTCCAG |
+| Hsp16.1 R1 | Hsp16     | TCTTCGACGATTGCCTGTTG |
+| Hsp16.1 R2 | Hsp16     | GAAGCAACTGCACCAACATC |
+| Hsp16.1 R3 | Hsp16     | GAAGCAACTGCACCAACATC |
+| Hsp16.1 R4 | Hsp16     | TTGATAGCGTACGACCATCC |
+| HSP70 F1   | Hsp70     | TAAGCAGGCTCTCGAAGAAC |
+| HSP70 F2   | Hsp70     | AAAGCCCGTTGTTGAGGTTG |
+| HSP70 F3   | Hsp70     | TCCAAGTTAAGCAGGCTCTC |
+| HSP70 F4   | Hsp70     | CAAGCAGCTGTACTTTCTGG |
+| HSP70 R1   | Hsp70     | TCCATCCAACGAAGGGTATC |
+| HSP70 R2   | Hsp70     | AGTACAGCTTCAGCCGTTTC |
+| HSP70 R3   | Hsp70     | TCCATCCAACGAAGGGTATC |
+| HSP70 R4   | Hsp70     | CCATGACTTAGTGGGACAAC |
+
+
+>Note that only the forward and reverse combinations with the same numbers yield a correct amplicon length.
+For example: Use Hsp70 F1 with Hsp70 R1. 
 
 
 #### Data analysis
