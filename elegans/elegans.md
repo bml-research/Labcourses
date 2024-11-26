@@ -220,6 +220,7 @@ Multiple primer sets are present, choose a primerset from table 2.
 See primer sequences below:  
 
 *<sub>Table 2. Primer sequences.</sub>*
+
 | Name       | Gene Name | Sequence (5' to 3')  |
 |:-----------|:----------|:---------------------|
 | Act-1 F1   | Actin     | GGTTGCCGCTCTTGTTGTAG |
