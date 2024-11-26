@@ -221,7 +221,7 @@ See primer sequences below:
 
 *<sub>Table 2. Primer sequences.</sub>*
 | Name       | Gene Name | Sequence (5' to 3')  |
-|------------|-----------|----------------------|
+|:-----------|:----------|:---------------------|
 | Act-1 F1   | Actin     | GGTTGCCGCTCTTGTTGTAG |
 | Act-1 F2   | Actin     | TCTGGCATCACACCTTCTAC |
 | Act-1 F3   | Actin     | GGACTTGTACGCCAACACTG |
