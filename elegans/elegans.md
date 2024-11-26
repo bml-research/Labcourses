@@ -211,13 +211,15 @@ d.	5,5 ul sterile MilliQ
 
 Example Plate setup:  
 
-![Table 1](./pics/table1.png)
 *<sub>Table 1.</sub>*
+![Table 1](./pics/table1.png)
+
 
 Choose a HSP (HSP70 or HSP16.1).  
-Multiple primer sets are present, choose a primerset.  
+Multiple primer sets are present, choose a primerset from table 2.  
 See primer sequences below:  
 
+*<sub>Table 2. Primer sequences.</sub>*
 | Name       | Gene Name | Sequence (5' to 3')  |
 |------------|-----------|----------------------|
 | Act-1 F1   | Actin     | GGTTGCCGCTCTTGTTGTAG |
@@ -245,7 +247,7 @@ See primer sequences below:
 
 
 >Note that only the forward and reverse combinations with the same numbers yield a correct amplicon length.
-For example: Use Hsp70 F1 with Hsp70 R1. 
+For example: Use Hsp70 F1 with Hsp70 R1. All primer combinations are tested and do work well.  
 
 
 #### Data analysis
