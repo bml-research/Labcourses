@@ -5,7 +5,13 @@
 
 # Crash Course
 
-## Inhoudsopgave
+## Navigatie
+
+* [1. Veiligheid](#1-veiligheid)
+* [2. Wegen, glaswerk, pipeteren](#2-wegen-glaswerk-pipeteren)
+* [3. Microscopie en Gramkleuring](#3-microscopie-en-gramkleuring)
+* [4. pH-meter en buffers](#4-ph-meter-en-buffers)
+* [5. PCR: PTC bitter proeven](#5-pcr-ptc-bitter-proeven)
 
 
 
@@ -28,7 +34,7 @@ Logboekinstructie
 ---
 
 
-## 1.  Veiligheid
+## 1. Veiligheid
 
 Veiligheidsvoorzieningen in het laboratorium
 
@@ -53,7 +59,7 @@ Veiligheidsvoorzieningen in de plattegrond:
 - Vluchtweg
 - etc.........................
 
-## Veiligheidsaspecten van chemicaliën in het lab.
+### Veiligheidsaspecten van chemicaliën in het lab.
 
 Op het lab gebruik je verschillende chemicaliën. Om veilig met deze chemicaliën te kunnen werken is het belangrijk om voor aanvang van een experiment de risico's uit te zoeken en uit te schrijven in een veiligheidstabel.
 
@@ -79,7 +85,9 @@ Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert.
 
 - Vloeibare *Escherichia coli* cultuur
 
-## 2.  Wegen, glaswerk, pipeteren ($CuSO_4$)
+---
+
+## 2. Wegen, glaswerk, pipeteren
 
 ### Wegen 
 
@@ -457,7 +465,7 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 
 ---
 
-## 3.  Microscopie en Gramkleuring
+## 3. Microscopie en Gramkleuring
 
 **De microscoop **
 
@@ -468,10 +476,8 @@ Het beeld dat het oog binnenkomt valt op de cellen in het netvlies. Het signaal 
 In theorie is de minimale gezichtshoek (α) van het oog 1 boogminuut (1/60 graad). Als we dit weten en met het blote oog kijken naar twee objecten op een afstand van 25 cm, dan moeten deze objecten tenminste 0.07 mm (70µm) uit elkaar liggen om deze als afzonderlijk te kunnen onderscheiden (Figuur 1). In dat geval zal het beeld van de objecten op verschillende netvliescellen vallen en als afzonderlijk geregistreerd worden. In de praktijk is deze afstand vaak groter (1 tot 2 mm), omdat ook de grootte en de vorm van de lens in het oog invloed heeft op de minimale gezichtshoek.   
 
  
-
  ​![](pics/Picture12.png) 
 
- 
 *<sub>Figuur 1: Effect van afstand tot en tussen de objecten op het onderscheidend vermogen van het oog. Als de afstand tussen de objecten te klein wordt of de afstand tot de objecten te groot, neemt de gezichtshoek af (α < 1 boogminuut). Hierdoor wordt het beeld op een te klein deel van het netvlies geprojecteerd om het als twee afzonderlijke objecten waar te nemen.</sub>*
  
 Om twee punten die dichter bij elkaar liggen dan 0,07 mm toch van elkaar te onderscheiden kunnen we gebruik maken van een microscoop. De microscoop verspreid het beeld met zo min mogelijk detailverlies over een groter aantal netvliescellen, oftewel onder een grotere gezichtshoek. Dit vergroten van het beeld wordt bewerkstelligd door het lenzenstelsel van de microscoop. Met een gewone lichtmicroscoop kan het scheidend vermogen van 70 µm (blote oog) terug gebracht worden tot ongeveer 0,3 µm. Dat is ongeveer 300x nauwkeuriger dan met het blote oog. Op deze manier kunnen biologische preparaten, die vaak maar enkele millimeters groot zijn, toch bestudeerd worden. 
@@ -670,7 +676,7 @@ Maak van een aantal aangegeven bacteriestammen een Gram-preparaat en bekijk deze
 
 ---
 
-## 4.  pH-meter en buffers
+## 4. pH-meter en buffers
 
 **Algemene theorie**
 
@@ -1205,3 +1211,5 @@ Er zijn vier oplossingen met verschillende concentraties PTC (A t/m D). Om er ze
 -   Beschrijf of de resultaten van de twee bepalingen (fenotype vs. genotype) met elkaar overeenkomen, of waar ze van elkaar afwijken.
 
 ---
+
+[Back to the main page](../index.md)
