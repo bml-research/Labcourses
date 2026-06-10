@@ -254,9 +254,9 @@ Binnen het type automatische pipetten zijn er 2 typen pipetten die verschillen i
 
 Bij de positive-displacement pipet wordt het volume dat gepipetteerd wordt niet beïnvloed door de eigenschappen van de te pipetteren vloeistof. Ook heeft de temperatuur geen invloed op het volume. Dat maakt deze pipet uitermate geschikt voor het pipetteren van viskeuze, koude of juist warme vloeistoffen.
 
-![Figuur 5](pics/Picture5.png)!
+![Figuur 5](pics/Picture5.png)
 
-*<sub>Figuur 5 a. uiterlijk + b. principe verschillen tussen air-displacement en positive-displacement pipetten </sub>*
+*<sub>Figuur 5 a. uiterlijk b. principe verschillen tussen air-displacement en positive-displacement pipetten </sub>*
 
 #### Bereik en nauwkeurigheid van de verschillende typen pipetten
 
