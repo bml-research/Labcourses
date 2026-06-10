@@ -5,7 +5,12 @@
 
 # Crash Course
 
+## Inhoudsopgave
+
+
+
 ## Programma
+
 Dag 1
 1. Veiligheid
 2. Wegen, glaswerk, pipeteren ($CuSO_4$)
@@ -76,7 +81,7 @@ Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert.
 
 ## 2.  Wegen, glaswerk, pipeteren ($CuSO_4$)
 
-## Wegen 
+### Wegen 
 
 Voor het afwegen van vaste stoffen worden de bovenweger of analytische balans gebruikt. In onderstaande figuur staan de twee typen weergegeven die op de labzalen te vinden zijn met daarbij aangegeven de range voor af te wegen hoeveelheden. Een balans en de weegtafel dienen na gebruik direct schoongemaakt te worden. Vaste stoffen trekken vocht uit de lucht aan waardoor de stof vastplakt aan de oppervlakte, dit bemoeilijkt het schoonmaken, het correct functioneren van de apparatuur (corrosie) of geeft een eventuele 'besmetting' van de af te wegen stof. Voor aanvang van het afwegen is het dus belangrijk om te controleren of de balans en weegtafel schoon is achtergelaten. Wanneer dat niet het geval is, maak je deze dus eerst schoon volgens de instructies.
 
@@ -140,7 +145,7 @@ Druk op T (van tarreren) van een bovenweger en wacht tot de balans 0.000 aangeef
 
 Druk op T (van tarreren) van een analytische balans met de deurtjes dicht en wacht tot de balans 0.0000 aangeeft. Zet de deurtjes open en verplaats lucht door erlangs te lopen. Beschrijf wat je ziet bij de balans en geef aan waarop je moet letten om nauwkeurig af te wegen.
 
-## Glaswerk
+### Glaswerk
 
 Een bekerglas en een maatcilinder zijn voorbeelden van laboratoriumglaswerk. Een bekerglas bestaat uit een cilindrische beker met een tuitje om het schenken van vloeistoffen mogelijk te maken. Doordat een bekerglas ongeveer even hoog als breed is, is hij zeer stabiel en makkelijk te hanteren. De belangrijkste toepassing van bekerglazen is als schenkwerktuig voor vloeistoffen. In veel gevallen hebben bekerglazen een volumeaanduiding die het mogelijk maakt om een schatting te maken van de aanwezige hoeveelheid vloeistof, maar het is maar een grove indicatie van het volume. Om nauwkeurig een volume te bepalen of af te meten moet geijkt glaswerk zoals een volumepipet of een maatcilinder gebruikt worden. Bekerglazen zijn daarvoor niet geschikt en ook niet bedoeld. Een maatcilinder gebruik je dus om een oplosmiddel nauwkeurig af te meten. Als je werkt met volumina boven de 10 ml maak je gebruik van een maatcilinder. Voor volumina onder de 10 ml maak je gebruik van een volume pipet of micropipet. De nauwkeurigheid van het afgemeten volume wordt bepaald door de breedte van de cilinder en de breedte van de gebruikte maatstrepen.
 
@@ -204,7 +209,7 @@ in 50 ml demiwater. 
 5.  Giet de oplossing weer over in het bekerglas. Je hebt nu een
     (stock)oplossing van x mg/ml, bewaar deze voor opdracht 9.
 
-## Pipetteren 
+### Pipetteren 
 Tijdens het werken op een laboratorium kom je veel in aanraking met het verplaatsen van volumes vloeistoffen van de ene plek naar de andere plek. Daarvoor wordt in de meeste gevallen, als het om kleine volumes gaat, een pipet gebruikt. Het is belangrijk om de pipet correct tegebruiken zodat de nauwkeurigheid het grootst is.
 
 Er zijn veel verschillende type pipetten die in de praktijk gebruikt
@@ -228,7 +233,7 @@ In deze handleiding wordt ingegaan op de automatische pipet en hetgebruik ervan.
 *<sub>Figuur 4. Verschillende typen pipetten.</sub>*
 
 
-### Air-displacement pipet vs positive-displacement pipet
+#### Air-displacement pipet vs positive-displacement pipet
 Binnen het type automatische pipetten zijn er 2 typen pipetten die verschillen in het principe van het aanzuigen van de vloeistof. Bij de air-displacement pipet wordt gebruik gemaakt van een luchtkolom tussen het vloeistofmonster en de zuiger. Deze pipet is zeer geschikt voor waterige en niet-viskeuze vloeistoffen. De temperatuur en de druk in de atmosfeer hebben invloed op de prestaties van de air-displacement pipet. Dit is het type pipet die standaard op het lab gebruikt wordt.
 
 Bij de positive-displacement pipet wordt het volume dat gepipetteerd wordt niet beïnvloed door de eigenschappen van de te pipeteren vloeistof. Ook heeft de temperatuur geen invloed op het volume. Dat maakt deze pipet uitermate geschikt voor het pipeteren van viskeuze, koude of juist warme vloeistoffen.
@@ -237,7 +242,7 @@ Bij de positive-displacement pipet wordt het volume dat gepipetteerd wordt niet 
 
 *<sub>Figuur 5 a. uiterlijk + b. principe verschillen tussen air-displacement en positive-displacement pipetten </sub>*
 
-### Bereik en nauwkeurigheid van de verschillende typen pipetten
+#### Bereik en nauwkeurigheid van de verschillende typen pipetten
 
 In tabel 1 staat van elk type pipet van de reeks Pipetman Neo het bereik en de systematische en toevallige fout aangegeven. De systematische of accuratesse fout wordt veroorzaakt door de eigenschappen van de pipet zelf of door het gebruik van **niet goed passende** pipetpunten. De precisie of toevallige (random) fout wordt veroorzaakt door de techniek van de gebruiker of ook de pipetpunten.
 
@@ -250,9 +255,9 @@ Tabel 1: pipetman Neo specificaties
 
 ![](pics/Table1.png)
 
-## Correct pipetteren stap voor stap
+### Correct pipetteren stap voor stap
 
-### Onderdelen pipet
+#### Onderdelen pipet
 
 ![](pics/Picture7.png)
 
@@ -269,7 +274,7 @@ onderdelen:
 
 
 
-### Volume instellen
+#### Volume instellen
 
 ![](pics/Picture8.png) 
 *<sub>Figuur 8: instellen volume van de pipet in verticale stand geeft afwijking</sub>*
@@ -288,7 +293,7 @@ Het instellen van het volume moet binnen het volume-bereik van de pipet liggen (
 
 *<sub>Figuur 9: weergave van volume instellingen bij verschillende pipetten. </sub>*
 
-### Tip plaatsen
+#### Tip plaatsen
 
 Plaats de juiste tip van de juiste afmeting/kleur op de bijpassende
 pipet.
@@ -300,7 +305,7 @@ pipet.
 
 Je plaatst de pipetpunt door tijdens het aandrukken de pipet een kwartslag te draaien. Dan sluit de pipetpunt het beste aan op de tiphouder. Doe dit niet door meermaals achtereen te tikken met de tiphouder op de pipet.
 
-### Voorspoelen
+#### Voorspoelen
 
 Voor elke pipeteerhandeling dient de pipetpunt voorgespoeld te worden met de vloeistof die gepipetteerd gaat worden. Dit zorgt er voor dat de temperatuur van de pipetpunt gelijk wordt aan de temperatuur van de te pipeteren vloeistof. Tevens voorkomt het verdamping. Kortom het zorgt voor een grotere uniformiteit en grotere accuratesse en precisie.
 
@@ -311,7 +316,7 @@ Het voorspoelen van een pipetpunt moet in de volgende gevallen:
 
 Dit voorspoelen wordt uitgevoerd door het opzuigen en weer uitblazen van de vloeistof tot de eerste stop.
 
-### Pipeteren (forward)
+#### Pipeteren (forward)
 
 ![](pics/Picture10.png)
 
@@ -353,7 +358,7 @@ E.  Breng de pipetpunt los van de zojuist gepipetteerde vloeistof en laat de dru
 
 >Let op: Bij kleine volumes (1-5 µl) is het gebruikelijk om in de reeds aanwezige vloeistof uit te pipeteren, in plaats van tegen de wand!
 
-### Pipeteren (reverse)
+#### Pipeteren (reverse)
 
 Voor het pipeteren van "lastige" vloeistoffen kan gebruik worden gemaakt van de reverse pipetetting- methode. Deze methode wordt gebruikt bij:
 
@@ -531,8 +536,7 @@ Bij het microscopiseren moet je er voor zorgen dat het beeld zo homogeen mogelij
 7.  Velddiafragma verder openen totdat het net niet meer in het gezichtsveld zichtbaar is. 
 8.  Pas eventueel je condensordiafragma daarna aan, bij kleinere vergroting is deze meer gesloten. De waarde van het condensordiafragma ofwel apertuurdiafragma, staat meestal op het objectief. 
 
-**Algemene regels bij microscoopgebruik, instellen van een optimaal
-beeld **
+**Algemene regels bij microscoopgebruik, instellen van een optimaal beeld **
 
 9.  Leg het preparaat altijd onder de kleinste vergroting (objectief 4x) in het midden van de preparaattafel, waarbij de objecten juist boven de opening van de preparaattafel en de condensorlens komen te liggen 
 10. Bij de kleinste vergroting kan je de preparaattafel in de hoogste stand draaien zonder dat de lens het objectglas raakt. 
@@ -581,9 +585,7 @@ Bepaal voor de 4x, 10x en 40x objectief de waarde van een schaaldeel van de ocul
 
 Om micro-organismen in te delen in een groep wordt vaak gebruik gemaakt van de Gramkleuring. Door middel van deze kleuring worden bacteriën verdeeld in Grampositieve en Gramnegatieve bacteriën.
 
-De cellen worden gekleurd met een kristalviolet-jodium complex, ontkleurd met alcohol en nagekleurd met waterige fuchsine of safranine.
-Bij Grampositieve bacteriën wordt het kristalviolet-jodium complex niet weggewassen door de alcohol; deze cellen kleuren blauw-paars.
-Gram-negatieve cellen verliezen deze kleurstof door de alcohol; door het nakleuren met [safranine](http://nl.wikipedia.org/w/index.php?title=Fuchsine&action=edit) kleuren ze rood/roze. Het verschil tussen Grampositieve en Gram-negatieve bacteriën is gelegen in de samenstelling van de celwand.
+De cellen worden gekleurd met een kristalviolet-jodium complex, ontkleurd met alcohol en nagekleurd met waterige fuchsine of safranine. Bij Grampositieve bacteriën wordt het kristalviolet-jodium complex niet weggewassen door de alcohol; deze cellen kleuren blauw-paars. Gram-negatieve cellen verliezen deze kleurstof door de alcohol; door het nakleuren met [safranine](http://nl.wikipedia.org/w/index.php?title=Fuchsine&action=edit) kleuren ze rood/roze. Het verschil tussen Grampositieve en Gram-negatieve bacteriën is gelegen in de samenstelling van de celwand.
 
 In de Grampositieve celwand worden heel veel lagen peptidoglycaan gevonden met erg veel peptide-dwarsverbindingen. In de Grampositieve celwand liggen teichonzuren ingebed (Figuur 1).
 
@@ -663,6 +665,7 @@ Kwaliteitscontrole GRAM-reeks:
 -   Spoelvloeistoffen: als deze te veel kleur bevatten, vervangen!
 
 **Opdracht 4**
+
 Maak van een aantal aangegeven bacteriestammen een Gram-preparaat en bekijk deze onder een correct ingestelde microscoop. Beoordeel het Gram-karakter. Maak een foto van het microscopisch beeld en geef daarin de schaalverdeling weer. Bekijk ook de yoghurt. Welk type bacteriën zijn daarin aanwezig?
 
 ---
@@ -675,17 +678,17 @@ Maak van een aantal aangegeven bacteriestammen een Gram-preparaat en bekijk deze
 
 De pH-waarde is een negatief logaritme van de concentratie waterstofionen. De letters 'p' en 'H' staat voor kracht en het waterstofatoom. De pH-waarde is verbonden met de pH-schaal.
 
-De zuurgraad van een oplossing wordt bepaald door de concentratie H~3~O^+^. Hoe meer H~3~O ^+^in een oplossing, des te zuurder de oplossing. Omgekeerd wordt de 'basiseenheid' van een oplossing bepaald door de concentratie OH- ionen. Het product van de concentratie H~3~O ^+^ en OH^-^ is altijd 10^-14^.
+De zuurgraad van een oplossing wordt bepaald door de concentratie $H_3O^+$. Hoe meer $H_3O^+$in een oplossing, des te zuurder de oplossing. Omgekeerd wordt de 'basiseenheid' van een oplossing bepaald door de concentratie OH- ionen. Het product van de concentratie $H_3O^+$ en $OH^-$ is altijd 10^-14^.
 
 ![](pics/Picture17.png)
 *<sub> Figuur 1 - pH schaal – pH schaal en indicaties van de zuurgraad van een aantal stoffen </sub>*
 
 
-Dat betekent dat als er meer H~3~O ^+^ in een oplossing zit, er minder OH- in de oplossing aanwezig zal zijn.
+Dat betekent dat als er meer $H_3O^+$ in een oplossing zit, er minder OH- in de oplossing aanwezig zal zijn.
 
-De pH heeft een logaritmische schaal. Dat betekent dat elke pH-eenheid een factor 10 verschil in de concentratie H~3~O ^+^ inhoud. 
+De pH heeft een logaritmische schaal. Dat betekent dat elke pH-eenheid een factor 10 verschil in de concentratie $H_3O^+$ inhoud. 
 
-Een verschil van 2 pH eenheden betekent een verschil van 100x in zuurgraad, 3 pH eenheden een verschil van 1000x. Een oplossing met een pH van 3 bevat 10x meer H~3~O ^+^ dan een oplossing met een pH van 4.
+Een verschil van 2 pH eenheden betekent een verschil van 100x in zuurgraad, 3 pH eenheden een verschil van 1000x. Een oplossing met een pH van 3 bevat 10x meer $H_3O^+$ dan een oplossing met een pH van 4.
 
 $pH = -\log[H_3O^+]$
 
@@ -718,7 +721,7 @@ Voor geconcentreerde zure of basische waterige oplossingen zijn er afvalvaten: A
 
 Het is belangrijk om te kunnen bepalen met welke zuurgraad je te maken hebt. Voor oplossingen kan er gebruik worden gemaakt van verschillende methoden. Voor de kwantitatieve meting van pH zijn er pH-indicatoren beschikbaar. Een pH-indicator is een chemische stof die een bepaalde kleuromslag kan vertonen op basis van de omgeving. De kleur blijft constant na een ontwikkelde reactie. Veel gebruikte pH-indicatoren zijn onder andere broomthymolblauw, methylrood en fenolftaleïne. Verder is het mogelijk om i.p.v. kleurstoffen pH-indicator papier toe te passen. pH-indicator papier heeft bijvoorbeeld een universele bereik van pH 1 t/m 14, en dat kan gebruikt worden door een strookje af te nemen en te dompelen in meetoplossing.
 
-Een meer nauwkeurige meting van de pH wordt gemeten met een pH-meter (Figuur 4). Voor de meting met een pH wordt de gecombineerde glaselectrode gebruikt. De gecombineerde glaselectrode bestaat zilverchloride-electrode (Ag/AgCl) en een verzadigde calomel electrode (Hg/Hg~2~Cl~2~). Rondom de binnenste zilverchloride-electrode zit de calomel electrode en ze dienen als referentie-electrodes. Aan het eind van de glaselektrode zit het pH gevoelige glasmembraan. Dit is een speciaal type glas met een glasmembraan. Voor het goed functioneren van de pH-meter is het belangrijk dat dit glasmembraan gehydrateerd is en de buitenste elektrode contact heeft met de meetoplossing via een zoutbrug.
+Een meer nauwkeurige meting van de pH wordt gemeten met een pH-meter (Figuur 4). Voor de meting met een pH wordt de gecombineerde glaselectrode gebruikt. De gecombineerde glaselectrode bestaat zilverchloride-electrode ($Ag/AgCl$) en een verzadigde calomel electrode ($Hg/Hg_2Cl_2$). Rondom de binnenste zilverchloride-electrode zit de calomel electrode en ze dienen als referentie-electrodes. Aan het eind van de glaselektrode zit het pH gevoelige glasmembraan. Dit is een speciaal type glas met een glasmembraan. Voor het goed functioneren van de pH-meter is het belangrijk dat dit glasmembraan gehydrateerd is en de buitenste elektrode contact heeft met de meetoplossing via een zoutbrug.
 
 De stroomkring loopt dus van de buitenste elektrode via de meetoplossing en het pH-gevoelige glasmembraan naar de binnenste elektrode. De potentiaal over het glasmembraan (Em) hangt af van de concentratie H+ in de meetoplossing en de concentratie H+ in de glaselektrode. De concentratie H+ in de glaselektrode is constant (pH=7). De volgende vergelijking geldt:
 
@@ -1046,7 +1049,7 @@ Het experiment bevat de volgende stappen:
 
 -   Pipetteer 200 µl Instagene Matrix (figuur 5) in een nieuw Eppendorfcupje (1,5 ml).
 
-**NB**.: InstaGene matrix moet constant met een magneetroerder op matige snelheid worden geroerd om de matrix in suspensie te houden. De pipet punt moet een grote opening hebben zoals een 1000 µl pipet punt.
+>NB: InstaGene matrix moet constant met een magneetroerder op matige snelheid worden geroerd om de matrix in suspensie te houden. De pipet punt moet een grote opening hebben zoals een 1000 µl pipet punt.
 
 -   Voeg 20 µl van de celsuspensie toe aan deze 200 µl van InstaGene matrix.
 
@@ -1118,7 +1121,7 @@ De sequentie van de primers is:
 
 **DNA gel elektroforese**
 
-Gieten van de gel
+Gieten van de gel:
 
 (zie dit filmpje: <http://www.youtube.com/watch?v=KKmiKKMDDhY>)
 
@@ -1158,7 +1161,7 @@ Gieten van de gel
 
 18. Verwijder voorzichtig het kammetje uit de gel.
 
-Het laden van de gel
+Het laden van de gel:
 
 (zie dit filmpje: <http://www.youtube.com/watch?v=vq759wKCCUQ>)
 
