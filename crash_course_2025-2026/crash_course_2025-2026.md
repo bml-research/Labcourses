@@ -503,26 +503,26 @@ from:http://faculty.scf.edu/keirlem/BSC_1007_eText_UNIT_3/TEXT\_
 Cellular_Structures/TEXT_Cellular_Structures_print.html)</sub>*
   
 
-1\. oculairen
-2\. dioptrie ring voor het instellen van de brilsterkte 
-3\. instelschaal voor de interpupillaire afstand (afstand tussen de ogen) 
-4\. preparaattafel 
-5\. condensor 
-6\. diafragma van de condensor 
-7\. schroef om oculairen vast te zetten 
-8\. grove scherpstelschroef 
-9\. fijne scherpstelschroef 
-12\. kruistafel 
+1\. oculairen  
+2\. dioptrie ring voor het instellen van de brilsterkte  
+3\. instelschaal voor de interpupillaire afstand (afstand tussen de ogen)  
+4\. preparaattafel  
+5\. condensor  
+6\. diafragma van de condensor  
+7\. schroef om oculairen vast te zetten  
+8\. grove scherpstelschroef  
+9\. fijne scherpstelschroef  
+12\. kruistafel  
 13\. instelknop condensor  
-14/15\. schroef om kruistafel te bewegen (voor/achter en links/rechts) 
-16\. lichtschakelaar 
-17\. binoculaire tubuskop 
-18\. revolver met objectieven 
-19\. objectief 
-21\. houder met lens en velddiafragma 
-22\. plaats voor (daglicht)filter 
-23\. ring om velddiafragma open en dicht te draaien 
-24\. centreerschroeven voor het velddiafragma 
+14/15\. schroef om kruistafel te bewegen (voor/achter en links/rechts)  
+16\. lichtschakelaar  
+17\. binoculaire tubuskop  
+18\. revolver met objectieven  
+19\. objectief  
+21\. houder met lens en velddiafragma  
+22\. plaats voor (daglicht)filter  
+23\. ring om velddiafragma open en dicht te draaien  
+24\. centreerschroeven voor het velddiafragma  
 
 **Opdracht 1:** 
 Gebruik de onderstaande tekst en figuur 2 om de onderdelen van je eigen microscoop te benoemen. Maak een foto van beide hoeken van de microscoop en geef in de foto de namen van alle onderdelen weer.
