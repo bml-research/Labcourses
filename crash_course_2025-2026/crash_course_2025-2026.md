@@ -279,14 +279,13 @@ Tabel 1: pipetman Neo specificaties
 
 *<sub>Figuur 7: Pipetonderdelen.</sub>*
 
-Een pipet bestaat altijd uit de volgende
-onderdelen:
-1) Drukknop: bediening pipet en instellen volume
-2) Tip-ejector: afwerpen van de pipetpunten
-3) Volume instelschroef: instellen van het gewenste volume
-4) Tip-ejector arm: afwerpen van de tips
-5) Tip-houder: luchtkolom en plaatsen van disposable tips
-6) Disposable tips: werk altijd met een goed passende schone tip
+Een pipet bestaat altijd uit de volgende onderdelen:  
+1. Drukknop: bediening pipet en instellen volume
+2. Tip-ejector: afwerpen van de pipetpunten
+3. Volume instelschroef: instellen van het gewenste volume
+4. Tip-ejector arm: afwerpen van de tips
+5. Tip-houder: luchtkolom en plaatsen van disposable tips
+6. Disposable tips: werk altijd met een goed passende schone tip
 
 
 
