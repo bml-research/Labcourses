@@ -1221,5 +1221,6 @@ Er zijn vier oplossingen met verschillende concentraties PTC (A t/m D). Om er ze
 
 ---
 
-[Naar de top](#navigatie)
+[Naar de top](#navigatie)  
+  
 [Naar de hoofdpagina](../index.md)
