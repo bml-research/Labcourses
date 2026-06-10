@@ -537,7 +537,7 @@ Verticaal wordt de objecttafel ingesteld met de grote instelschroef **(macromete
 De condensor is verticaal verstelbaar met de **condensorknop** en is uitgerust met een **diafragma** waarmee de hoeveelheid doorgelaten licht kan worden geregeld. De apertuur (wijdte van de opening) bepaalt ook de hoeveelheid randstralen die worden weggenomen. Randstralen veroorzaken een onscherp beeld. Het lamplicht wordt op de condensor gericht met de gemonteerde spiegel met een vlakke of een holle zijde. 
 
  
- **Het gebruik van de microscoop**
+**Het gebruik van de microscoop**
  
 Bij het microscopiseren moet je er voor zorgen dat het beeld zo homogeen mogelijk verlicht wordt. Dit betekent dat de lichtbundel vanuit de lamp zo optimaal mogelijk door de lenzenstelsels gaat. Dit noemt men Köhleren, naar de uitvinder van de methode; Köhler.   Onderin de microscoop bevindt zich de lichtbron die het preparaat verlicht en via het lenzenstelsel zorgt voor een beeld van het preparaat. Via een spiegel wordt het licht door het preparaat naar de lenzen gestuurd. De grootte van het verlichte veld kan met behulp van het velddiafragma geregeld worden. Door het velddiafragma zo in te stellen dat net het hele gezichtsveld gevuld is, wordt voorkomen dat verstorend strooilicht door het preparaat valt (zie stappenplan Köhleren). Vervolgens wordt het licht vanuit het velddiafragma door de condensor gebundeld op het preparaat geprojecteerd. Het brandpunt van de condensor moet zo ingesteld zijn dat de rand van het velddiafragma precies in het vlak van het scherpgestelde preparaat valt. Ook moet het velddiafragma in het midden van het gezichtsveld vallen, zodat de belichting egaal is (zie stappenplan Köhleren). Als aan deze voorwaarden is voldaan is de microscoop geköhlerd. Deze instellingen voorkomen dat je overbelichte regio's, schaduwen en afwijkingen (artefacten) in het preparaat ziet. Tevens vergroten deze instellingen het contrast in het preparaat. Deze instellingen maken dus dat je je preparaat optimaal kunt bestuderen! 
 
@@ -555,16 +555,16 @@ Bij het microscopiseren moet je er voor zorgen dat het beeld zo homogeen mogelij
 
 **Algemene regels bij microscoopgebruik, instellen van een optimaal beeld **
 
-9.  Leg het preparaat altijd onder de kleinste vergroting (objectief 4x) in het midden van de preparaattafel, waarbij de objecten juist boven de opening van de preparaattafel en de condensorlens komen te liggen 
-10. Bij de kleinste vergroting kan je de preparaattafel in de hoogste stand draaien zonder dat de lens het objectglas raakt. 
-11. Nu kan je met de macrometerschroef al kijkend in de microscoop de preparaattafel langzaam naar beneden draaien tot zich een scherp beeld van het object heeft gevormd.  
-12. Breng het beste object (dat wat je bij een grotere vergroting wilt zien) in het midden van het gezichtsveld. 
-13. Nu kan je ongehinderd doordraaien naar objectief 10x. Scherpstellen met de micrometerschroef. Bij deze vergroting ga je eventueel Köhleren (stap 1-7). 
-14. Vervolgens kan je, nadat je het onderdeel dat je verder uitvergroot wilt bekijken in het midden van het gezichtsveld hebt gelegd, weer doordraaien naar de volgende vergroting (objectief 40x). 
-15. Scherpstellen van het beeld gebeurt ook nu weer alleen met de micrometerschroef. Eventueel het diafragma van de condensor bijstellen. 
-16. **Het vervangen of het verwijderen van een preparaat gebeurt altijd onder het kleinste objectief.** 
-17. Lenzen worden in normale gevallen schoongemaakt met een droge tissue. Bij erg vieze lenzen kan je deze schoonmaken met een tissue met xyleen of lenzencleaner. Dit alleen na toestemming van de docent. 
-18. Alvorens de microscoop weggezet wordt, wordt de revolver teruggedraaid naar objectief 4x (kleinste vergroting), het preparaat verwijderd en de lenzen schoongemaakt. De microscoop wordt in de kast gezet, afgedekt met een hoes. 
+1.  Leg het preparaat altijd onder de kleinste vergroting (objectief 4x) in het midden van de preparaattafel, waarbij de objecten juist boven de opening van de preparaattafel en de condensorlens komen te liggen 
+2. Bij de kleinste vergroting kan je de preparaattafel in de hoogste stand draaien zonder dat de lens het objectglas raakt. 
+3. Nu kan je met de macrometerschroef al kijkend in de microscoop de preparaattafel langzaam naar beneden draaien tot zich een scherp beeld van het object heeft gevormd.  
+4. Breng het beste object (dat wat je bij een grotere vergroting wilt zien) in het midden van het gezichtsveld. 
+5. Nu kan je ongehinderd doordraaien naar objectief 10x. Scherpstellen met de micrometerschroef. Bij deze vergroting ga je eventueel Köhleren (stap 1-7). 
+6. Vervolgens kan je, nadat je het onderdeel dat je verder uitvergroot wilt bekijken in het midden van het gezichtsveld hebt gelegd, weer doordraaien naar de volgende vergroting (objectief 40x). 
+7. Scherpstellen van het beeld gebeurt ook nu weer alleen met de micrometerschroef. Eventueel het diafragma van de condensor bijstellen. 
+8. **Het vervangen of het verwijderen van een preparaat gebeurt altijd onder het kleinste objectief.** 
+9. Lenzen worden in normale gevallen schoongemaakt met een droge tissue. Bij erg vieze lenzen kan je deze schoonmaken met een tissue met xyleen of lenzencleaner. Dit alleen na toestemming van de docent. 
+10. Alvorens de microscoop weggezet wordt, wordt de revolver teruggedraaid naar objectief 4x (kleinste vergroting), het preparaat verwijderd en de lenzen schoongemaakt. De microscoop wordt in de kast gezet, afgedekt met een hoes. 
 
 **Opdracht 2: ** 
 
@@ -669,13 +669,9 @@ Bakje 8: kraanwater: goed naspoelen
 
 Kwaliteitscontrole GRAM-reeks:
 
--   Lugol: papier stukje in oplossing dopen: Blauw/zwart = in orde
+-   Lugol: papier stukje in oplossing dopen: Blauw/zwart = in orde, Lichtblauw/geel = lugol vervangen
 
-> Lichtblauw/geel = lugol vervangen
-
--   Kristalviolet: vloeistof langs rand bakje bewegen: Stroperig/viskeus = in orde
-
-> Vloeibaar = vervangen
+-   Kristalviolet: vloeistof langs rand bakje bewegen: Stroperig/viskeus = in orde, Vloeibaar = vervangen
 
 -   Spoelvloeistoffen: als deze te veel kleur bevatten, vervangen!
 
@@ -740,7 +736,7 @@ Het is belangrijk om te kunnen bepalen met welke zuurgraad je te maken hebt. Voo
 
 Een meer nauwkeurige meting van de pH wordt gemeten met een pH-meter (Figuur 4). Voor de meting met een pH wordt de gecombineerde glaselectrode gebruikt. De gecombineerde glaselectrode bestaat zilverchloride-electrode ($Ag/AgCl$) en een verzadigde calomel electrode ($Hg/Hg_2Cl_2$). Rondom de binnenste zilverchloride-electrode zit de calomel electrode en ze dienen als referentie-electrodes. Aan het eind van de glaselektrode zit het pH gevoelige glasmembraan. Dit is een speciaal type glas met een glasmembraan. Voor het goed functioneren van de pH-meter is het belangrijk dat dit glasmembraan gehydrateerd is en de buitenste elektrode contact heeft met de meetoplossing via een zoutbrug.
 
-De stroomkring loopt dus van de buitenste elektrode via de meetoplossing en het pH-gevoelige glasmembraan naar de binnenste elektrode. De potentiaal over het glasmembraan (Em) hangt af van de concentratie H+ in de meetoplossing en de concentratie H+ in de glaselektrode. De concentratie H+ in de glaselektrode is constant (pH=7). De volgende vergelijking geldt:
+De stroomkring loopt dus van de buitenste elektrode via de meetoplossing en het pH-gevoelige glasmembraan naar de binnenste elektrode. De potentiaal over het glasmembraan (Em) hangt af van de concentratie $H^+$ in de meetoplossing en de concentratie $H^+$ in de glaselektrode. De concentratie $H^+$ in de glaselektrode is constant (pH=7). De volgende vergelijking geldt:
 
 $Em = 0,4144 - 0,0592 \cdot pH$
 
