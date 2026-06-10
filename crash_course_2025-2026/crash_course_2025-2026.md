@@ -17,183 +17,118 @@ Dag 2
 Dag 3
 5. PCR: PTC bitter proeven
 
-Extra informatie\
+Extra informatie
 Logboekinstructie
+
+---
+
 
 ## 1.  Veiligheid
 
 Veiligheidsvoorzieningen in het laboratorium
 
-Op elk lab zijn meerdere veiligheidsvoorzieningen aanwezig. Het is van
-belang om te weten bij een calamiteit waar de afsluiters van gas,
-elektriciteit en water zich bevinden. Waar je de brandblusapparatuur en
-de EHBO-kist kunt vinden en hoe je deze apparatuur op een correcte wijze
-gebruikt.
+Op elk lab zijn meerdere veiligheidsvoorzieningen aanwezig. Het is van belang om te weten bij een calamiteit waar de afsluiters van gas, elektriciteit en water zich bevinden. Waar je de brandblusapparatuur en de EHBO-kist kunt vinden en hoe je deze apparatuur op een correcte wijze gebruikt.
 
 ### Opdracht 1:
 
-• Maak foto's van de veiligheidsvoorzieningen in het lab waarin je je nu
-bevindt.
+• Maak foto's van de veiligheidsvoorzieningen in het lab waarin je je nu bevindt.
 
-• Teken een plattegrond van de labzaal waarin je nu practicum hebt en
-voeg de foto's van de veiligheidsvoorzieningen op de juiste plek in, op
-de plattegrond
+• Teken een plattegrond van de labzaal waarin je nu practicum hebt en voeg de foto's van de veiligheidsvoorzieningen op de juiste plek in, op de plattegrond
 
-• Probeer een situatie te bedenken waarin je een veiligheidsvoorziening
-gebruikt.
+• Probeer een situatie te bedenken waarin je een veiligheidsvoorziening gebruikt.
 
-• Beschrijf deze situatie en hoe je deze veiligheidsvoorziening gaat
-gebruiken.
+• Beschrijf deze situatie en hoe je deze veiligheidsvoorziening gaat gebruiken.
 
 Veiligheidsvoorzieningen in de plattegrond:
 
-\- Oogdouche
-
-\- Nooddouche
-
-\- Brandblusser
-
-\- Noodstop
-
-\- Vluchtweg
-
-\- etc.........................
+- Oogdouche
+- Nooddouche
+- Brandblusser
+- Noodstop
+- Vluchtweg
+- etc.........................
 
 ## Veiligheidsaspecten van chemicaliën in het lab.
 
-Op het lab gebruik je verschillende chemicaliën. Om veilig met deze
-chemicaliën te kunnen werken is het belangrijk om voor aanvang van een
-experiment de risico's uit te zoeken en uit te schrijven in een
-veiligheidstabel.
+Op het lab gebruik je verschillende chemicaliën. Om veilig met deze chemicaliën te kunnen werken is het belangrijk om voor aanvang van een experiment de risico's uit te zoeken en uit te schrijven in een veiligheidstabel.
 
-In groepsverband ga je voor een stof/oplossing/suspensie alle
-veiligheidsaspecten doornemen. De veiligheidsinformatie kun je
-verzamelen via de toxic database, een WIK (Werkplekinstructiekaart),
-chemiekaarten en zogenaamde MSDS-en (Material Safety Data Sheet). De
-gevonden informatie zet je vervolgens in een veiligheidstabel zoals
-hieronder. In een veiligheidstabel komt de volgende informatie te staan:
+In groepsverband ga je voor een stof/oplossing/suspensie alle veiligheidsaspecten doornemen. De veiligheidsinformatie kun je verzamelen via de toxic database, een WIK (Werkplekinstructiekaart), chemiekaarten en zogenaamde MSDS-en (Material Safety Data Sheet). De gevonden informatie zet je vervolgens in een veiligheidstabel zoals hieronder. In een veiligheidstabel komt de volgende informatie te staan:
 
-\- Een volledige beschrijving van de stof/oplossing/suspensie. Denk
-hierbij bijvoorbeeld aan een structuurformule en de gebruikte
-concentratie.
+- Een volledige beschrijving van de stof/oplossing/suspensie. Denk hierbij bijvoorbeeld aan een structuurformule en de gebruikte concentratie.
 
-\- De afvalcategorie voor het afvoeren van de stoffen/middelen (denk
-hierbij ook aan glas, naalden etc.).
+- De afvalcategorie voor het afvoeren van de stoffen/middelen (denk hierbij ook aan glas, naalden etc.).
 
-\- De persoonlijke beschermingsmiddelen die je moet gebruiken om veilig
-met de stof of het voorwerp te kunnen werken.
+- De persoonlijke beschermingsmiddelen die je moet gebruiken om veilig met de stof of het voorwerp te kunnen werken.
 
-\- De voorzorgsmaatregelen die getroffen dienen te worden. Denk hierbij
-bijvoorbeeld aan masker, handschoenen enzovoorts. Dit vul je in onder
-het kopje "beperking".
+- De voorzorgsmaatregelen die getroffen dienen te worden. Denk hierbij bijvoorbeeld aan masker, handschoenen enzovoorts. Dit vul je in onder het kopje "beperking".
 
 ## Opdracht 2:
 
-Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten
-noteert. Verdeel de taken en zoek de veiligheidsaspecten uit en noteer
-op de juiste plaats in de tabel. Bekijk ook de overeenkomsten en
-verschillen tussen de verschillende bronnen en vergelijk ze met elkaar.
+Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert. Verdeel de taken en zoek de veiligheidsaspecten uit en noteer op de juiste plaats in de tabel. Bekijk ook de overeenkomsten en verschillen tussen de verschillende bronnen en vergelijk ze met elkaar.
 
-\- 12,5M NaOH (Natriumhydroxide)
+- 12,5M NaOH (Natriumhydroxide)
 
-\- 18M H~2~SO~4~ (Zwavelzuur)
+- 18M H~2~SO~4~ (Zwavelzuur)
 
-\- 100 mg/ml CuSO~4~
+- 100 mg/ml CuSO~4~
 
-\- Vloeibare *Escherichia coli* cultuur
+- Vloeibare *Escherichia coli* cultuur
 
-## 2.  Wegen, glaswerk, pipeteren (CuSO~4~)
+## 2.  Wegen, glaswerk, pipeteren ($CuSO_4$)
 
 ## Wegen 
 
-Voor het afwegen van vaste stoffen worden de bovenweger of analytische
-balans gebruikt. In onderstaande figuur staan de twee typen weergegeven
-die op de labzalen te vinden zijn met daarbij aangegeven de range voor
-af te wegen hoeveelheden. Een balans en de weegtafel dienen na gebruik
-direct schoongemaakt te worden. Vaste stoffen trekken vocht uit de lucht
-aan waardoor de stof vastplakt aan de oppervlakte, dit bemoeilijkt het
-schoonmaken, het correct functioneren van de apparatuur (corrosie) of
-geeft een eventuele 'besmetting' van de af te wegen stof. Voor aanvang
-van het afwegen is het dus belangrijk om te controleren of de balans en
-weegtafel schoon is achtergelaten. Wanneer dat niet het geval is, maak
-je deze dus eerst schoon volgens de instructies.
+Voor het afwegen van vaste stoffen worden de bovenweger of analytische balans gebruikt. In onderstaande figuur staan de twee typen weergegeven die op de labzalen te vinden zijn met daarbij aangegeven de range voor af te wegen hoeveelheden. Een balans en de weegtafel dienen na gebruik direct schoongemaakt te worden. Vaste stoffen trekken vocht uit de lucht aan waardoor de stof vastplakt aan de oppervlakte, dit bemoeilijkt het schoonmaken, het correct functioneren van de apparatuur (corrosie) of geeft een eventuele 'besmetting' van de af te wegen stof. Voor aanvang van het afwegen is het dus belangrijk om te controleren of de balans en weegtafel schoon is achtergelaten. Wanneer dat niet het geval is, maak je deze dus eerst schoon volgens de instructies.
 
-Na het afwegen moeten de tafel en balans weer schoongemaakt en
-gecontroleerd worden.
+Na het afwegen moeten de tafel en balans weer schoongemaakt en gecontroleerd worden.
 
 ![Figuur 1](pics/Picture1.png)
 *<sub> Figuur 1: Type weegschalen en weegmiddelen. A. Bovenweger, B. Analytische balans, C. Weegschuitje, D. Weegflesje. </sub>*
 
 Stappenplan voor het correct gebruiken van de balans:
 
-1.  Kies een spatel/lepel en controleer of deze schoon is. Als dat niet
-    het geval is, spoel de spatel/lepel schoon onder de kraan en droog
-    die netjes af.
+1.  Kies een spatel/lepel en controleer of deze schoon is. Als dat niet het geval is, spoel de spatel/lepel schoon onder de kraan en droog die netjes af.
 
 2.  Kies de juiste balans voor de hoeveelheid die je wil afwegen.
 
 3.  Staat de balans op juiste tafel (gewone tafel/weegtafel)
 
-4.  Is de balans schoon? Een balans hoort altijd schoon te worden
-    achtergelaten!!!! Zo niet maak de balans eerst schoon (zie vanaf
-    stap 16).
+4.  Is de balans schoon? Een balans hoort altijd schoon te worden achtergelaten!!!! Zo niet maak de balans eerst schoon (zie vanaf stap 16).
 
-5.  Staat de balans waterpas? Verstel de pootjes van de weegschaal om
-    deze waterpas te zetten. De luchtbel moet in het midden van de
-    cirkel staan.
+5.  Staat de balans waterpas? Verstel de pootjes van de weegschaal om deze waterpas te zetten. De luchtbel moet in het midden van de cirkel staan.
 
 6.  Zet de balans aan.
 
-7.  Is de balans gekalibreerd? Als de balans gekalibreerd moet worden
-    knippert CAL. Druk CAL op het touchscreen om de balans te
-    kalibreren. Wacht tot de balans aangeeft dat deze is gekalibreerd.
+7.  Is de balans gekalibreerd? Als de balans gekalibreerd moet wordenknippert CAL. Druk CAL op het touchscreen om de balans tekalibreren. Wacht tot de balans aangeeft dat deze is gekalibreerd.
 
 8.  Plaats een weegschuitje/weegflesje op de balans
 
 9.  Tarreer de weegschaal door op de "T" te drukken.
 
-10. Haal het weegschuitje/weegflesje uit de balans. Maak de voorraadpot
-    naast de balans open en schep een hoeveelheid stof op het
-    weegschuitje en weeg het weegschuitje. Aan de hand van de gewogen
-    hoeveelheid bepaal je hoeveel schepjes er ongeveer aan toegevoegd
-    moeten worden voor de juiste hoeveelheid.
+10. Haal het weegschuitje/weegflesje uit de balans. Maak de voorraadpot naast de balans open en schep een hoeveelheid stof op het weegschuitje en weeg het weegschuitje. Aan de hand van de gewogen hoeveelheid bepaal je hoeveel schepjes er ongeveer aan toegevoegd moeten worden voor de juiste hoeveelheid.
 
-11. Weeg het weegschuitje/weegflesje nogmaals. Als je te veel stof hebt
-    afgewogen, gooi je de restante stof in een afvalcontainer. [Let
-    op]{.underline}: Gooi nooit stof terug in de voorraadpot dit in
-    verband met besmettingen.
+11. Weeg het weegschuitje/weegflesje nogmaals. Als je te veel stof hebt afgewogen, gooi je de restante stof in een afvalcontainer. Let op: Gooi nooit stof terug in de voorraadpot dit in verband met besmettingen.
 
 12. Noteer de precies afgewogen hoeveelheid.
 
-13. Breng de stof over in het glaswerk/plastic waarin je de oplossing
-    wilt oplossen. Spoel de overgebleven stof van het
-    weegschuitje/weegflesje af met een spuitfles met oplosmiddel. [Let
-    op]{.underline}: Blijf onder het totaal volume dat je nodig hebt.
+13. Breng de stof over in het glaswerk/plastic waarin je de oplossing wilt oplossen. Spoel de overgebleven stof van het weegschuitje/weegflesje af met een spuitfles met oplosmiddel. Let
+op: Blijf onder het totaal volume dat je nodig hebt.
 
-14. Los de stof eerst op met een kleine hoeveelheid oplosmiddel. In het
-    geval dat de stof moeilijk is op te lossen maak je gebruik van een
-    magneet-roerder eventueel met verwarmingselement.
+14. Los de stof eerst op met een kleine hoeveelheid oplosmiddel. In het geval dat de stof moeilijk is op te lossen maak je gebruik van een magneet-roerder eventueel met verwarmingselement.
 
-15. Als de stof goed is opgelost, vul het aan met het gewenste
-    eindvolume in een maatcilinder.
+15. Als de stof goed is opgelost, vul het aan met het gewenste eindvolume in een maatcilinder.
 
 16. Maak de balans schoon:
 
-17. Veeg eerst alle gemorste vaste stof met een kwast (hoort bij de
-    balansen te liggen) van/uit de balans en weegtafel in de
-    afvalcontainer.
+17. Veeg eerst alle gemorste vaste stof met een kwast (hoort bij de balansen te liggen) van/uit de balans en weegtafel in de afvalcontainer.
 
-18. Veeg vervolgens met een droge papieren doekje de overgebleven stof
-    in de afvalcontainer.
+18. Veeg vervolgens met een droge papieren doekje de overgebleven stof in de afvalcontainer.
 
-19. Maak voorzichtig met een papieren doekje bevochtigd met demiwater de
-    balans en weegtafel schoon.
+19. Maak voorzichtig met een papieren doekje bevochtigd met demiwater de balans en weegtafel schoon.
 
 20. Wacht tot alles opgedroogd is voor je verder gaat met afwegen.
 
-21. Wanneer je de balans niet goed schoon krijgt met bovenstaande
-    instructies, vraag dan de docent om te helpen de balans schoon te
-    maken.
+21. Wanneer je de balans niet goed schoon krijgt met bovenstaande instructies, vraag dan de docent om te helpen de balans schoon te maken.
 
 22. Zet de balans uit als deze niet meer wordt gebruikt.
 
@@ -201,35 +136,13 @@ Stappenplan voor het correct gebruiken van de balans:
 
 ### Opdracht 2:
 
-Druk op T (van tarreren) van een bovenweger en wacht tot de balans 0.000
-aangeeft. En druk dan voorzicht aan de zijkant van de tafels. Beschrijf
-wat je ziet bij de balans en geef aan of deze tafel geschikt is om
-nauwkeurig af te wegen.
+Druk op T (van tarreren) van een bovenweger en wacht tot de balans 0.000 aangeeft. En druk dan voorzicht aan de zijkant van de tafels. Beschrijf wat je ziet bij de balans en geef aan of deze tafel geschikt is om nauwkeurig af te wegen.
 
-Druk op T (van tarreren) van een analytische balans met de deurtjes
-dicht en wacht tot de balans 0.0000 aangeeft. Zet de deurtjes open en
-verplaats lucht door erlangs te lopen. Beschrijf wat je ziet bij de
-balans en geef aan waarop je moet letten om nauwkeurig af te wegen.
+Druk op T (van tarreren) van een analytische balans met de deurtjes dicht en wacht tot de balans 0.0000 aangeeft. Zet de deurtjes open en verplaats lucht door erlangs te lopen. Beschrijf wat je ziet bij de balans en geef aan waarop je moet letten om nauwkeurig af te wegen.
 
 ## Glaswerk
 
-Een bekerglas en een maatcilinder zijn voorbeelden van
-laboratoriumglaswerk. Een bekerglas bestaat uit een cilindrische beker
-met een tuitje om het schenken van vloeistoffen mogelijk te maken.
-Doordat een bekerglas ongeveer even hoog als breed is, is hij zeer
-stabiel en makkelijk te hanteren. De belangrijkste toepassing van
-bekerglazen is als schenkwerktuig voor vloeistoffen. In veel gevallen
-hebben bekerglazen een volumeaanduiding die het mogelijk maakt om een
-schatting te maken van de aanwezige hoeveelheid vloeistof, maar het is
-maar een grove indicatie van het volume. Om nauwkeurig een volume te
-bepalen of af te meten moet geijkt glaswerk zoals een volumepipet of een
-maatcilinder gebruikt worden. Bekerglazen zijn daarvoor niet geschikt en
-ook niet bedoeld. Een maatcilinder gebruik je dus om een oplosmiddel
-nauwkeurig af te meten. Als je werkt met volumina boven de 10 ml maak je
-gebruik van een maatcilinder. Voor volumina onder de 10 ml maak je
-gebruik van een volume pipet of micropipet. De nauwkeurigheid van het
-afgemeten volume wordt bepaald door de breedte van de cilinder en de
-breedte van de gebruikte maatstrepen.
+Een bekerglas en een maatcilinder zijn voorbeelden van laboratoriumglaswerk. Een bekerglas bestaat uit een cilindrische beker met een tuitje om het schenken van vloeistoffen mogelijk te maken. Doordat een bekerglas ongeveer even hoog als breed is, is hij zeer stabiel en makkelijk te hanteren. De belangrijkste toepassing van bekerglazen is als schenkwerktuig voor vloeistoffen. In veel gevallen hebben bekerglazen een volumeaanduiding die het mogelijk maakt om een schatting te maken van de aanwezige hoeveelheid vloeistof, maar het is maar een grove indicatie van het volume. Om nauwkeurig een volume te bepalen of af te meten moet geijkt glaswerk zoals een volumepipet of een maatcilinder gebruikt worden. Bekerglazen zijn daarvoor niet geschikt en ook niet bedoeld. Een maatcilinder gebruik je dus om een oplosmiddel nauwkeurig af te meten. Als je werkt met volumina boven de 10 ml maak je gebruik van een maatcilinder. Voor volumina onder de 10 ml maak je gebruik van een volume pipet of micropipet. De nauwkeurigheid van het afgemeten volume wordt bepaald door de breedte van de cilinder en de breedte van de gebruikte maatstrepen.
 
 ![Figuur 2](pics/Picture2.png)
 
@@ -239,8 +152,7 @@ Gebruik van een maatcilinder:
 
 -   Vul de maatcilinder met een oplossing tot het gewenste volume.
 
--   Lees hiervoor de maatcilinder horizontaal af, aan de onderkant van
-    het wateroppervlakte, de meniscus (zie fig.3).
+-   Lees hiervoor de maatcilinder horizontaal af, aan de onderkant van het wateroppervlakte, de meniscus (zie fig.3).
 
 ![Figuur 3](pics/Picture3.png)
 
@@ -250,49 +162,28 @@ Gebruik van een maatcilinder:
 
 [Voorbereiding algemeen:]{.underline}
 
-1.  Afhankelijk van de hoeveelheid stof (vloeistof) die je moet gaan
-    wegen, kies je het juiste materiaal om de stof/vloeistof in te doen
-    (weegpapier, bekerglas, erlenmeyer, fles). Ook moet je opletten of
-    de stof/vloeistof veilig is om mee te werken. Daarvoor moet je
-    altijd een chemiekaart van de bepaalde stof nalezen om te beslissen
-    welke veiligheidsmaatregelen je moet treffen. Denk hierbij aan
-    veiligheidsbril, mondkapje, handschoenen, vluchtige stoffen in de
-    zuurkast wegen, enz.
+1.  Afhankelijk van de hoeveelheid stof (vloeistof) die je moet gaan wegen, kies je het juiste materiaal om de stof/vloeistof in te doen (weegpapier, bekerglas, erlenmeyer, fles). Ook moet je opletten of de stof/vloeistof veilig is om mee te werken. Daarvoor moet je altijd een chemiekaart van de bepaalde stof nalezen om te beslissen welke veiligheidsmaatregelen je moet treffen. Denk hierbij aan veiligheidsbril, mondkapje, handschoenen, vluchtige stoffen in de zuurkast wegen, enz.
 
 2.  Bereken de hoeveelheid stof die je moet gaan wegen/ pipetteren.
 
-3.  Kies een spatel/ pipet, en controleer of die schoon is. Als dat niet
-    het geval is, spoel de spatel schoon onder de kraan en droog die
-    netjes af.
+3.  Kies een spatel/ pipet, en controleer of die schoon is. Als dat niet het geval is, spoel de spatel schoon onder de kraan en droog die netjes af.
 
 4.  Kies een balans. Hierbij kunt je kiezen uit een bovenweger of een
     analytische balans. Let op de range waarin mag worden afgewogen.
 
 Uitvoering algemeen:
 
-1.  Controleer of de balans geijkt is en waterpas staat. Leg het
-    weegpapier erop en dan op nul.
+1.  Controleer of de balans geijkt is en waterpas staat. Leg het weegpapier erop en dan op nul.
 
-2.  Maak de voorraadpot naast de balans open en schep de juiste
-    hoeveelheid stof op een weegpapier/ schuitje/ bekerglas. Als je er
-    te veel stof hebt uitgeschept, gooi je de restante stof in een
-    afvalcontainer. [Let op]{.underline}: Gooi nooit stof terug in de
-    pot, dit in verband met besmettingen.
+2.  Maak de voorraadpot naast de balans open en schep de juiste hoeveelheid stof op een weegpapier/ schuitje/ bekerglas. Als je er te veel stof hebt uitgeschept, gooi je de restante stof in een afvalcontainer. [Let op]{.underline}: Gooi nooit stof terug in de pot, dit in verband met besmettingen.
 
-3.  Breng de stof van weegpapier over in het bekerglas of een
-    maatcilinder. Zorg dat alles wordt overgebracht. Spoel de
-    overgebleven stof van het papier af met een spuitfles met
-    oplosmiddel.
+3.  Breng de stof van weegpapier over in het bekerglas of een maatcilinder. Zorg dat alles wordt overgebracht. Spoel de overgebleven stof van het papier af met een spuitfles met oplosmiddel.
 
-4.  Los de stof eerst op met een kleine hoeveelheid oplosmiddel. In het
-    geval dat de stof moeilijk is op te lossen maak je gebruik van een
-    magneet-roerder en/of een verwarmingselement.
+4.  Los de stof eerst op met een kleine hoeveelheid oplosmiddel. In het geval dat de stof moeilijk is op te lossen maak je gebruik van een magneet-roerder en/of een verwarmingselement.
 
-5.  Als de stof goed is opgelost, schenk je de oplossing over in een
-    maatcilinder en vul je daarin aan tot het eindvolume.
+5.  Als de stof goed is opgelost, schenk je de oplossing over in een maatcilinder en vul je daarin aan tot het eindvolume.
 
-6.  Schenk de oplossing terug in het bekerglas en homogeniseer/meng. De
-    oplossing heeft nu de juiste concentratie.
+6.  Schenk de oplossing terug in het bekerglas en homogeniseer/meng. De oplossing heeft nu de juiste concentratie.
 
 7.  Aan het eind maak je alles schoon: balans, spatel, overige.
 
@@ -300,30 +191,21 @@ Uitvoering algemeen:
 
 Je gaat nu 50 ml van een kopersulfaat oplossing maken.
 
-1.  Kies daarvoor eerst het juiste glaswerk en controleer of deze goed
-    schoon is (wanneer dat niet het geval is; maak het glaswerk dan
-    schoon volgens de instructies).
+1.  Kies daarvoor eerst het juiste glaswerk en controleer of deze goed schoon is (wanneer dat niet het geval is; maak het glaswerk dan schoon volgens de instructies).
 
 2.  Weeg nu 5 gram CuSO~4~ af volgens het stappenplan.
 
-3.  Doe een laagje demiwater (minder dan het eindvolume) in het
-    bekerglas en voeg daar de afgewogen CuSO~4~ aan toe. Als de stof
-    niet goed oplost kan je een magneetroerder gebruiken*.*
+3.  Doe een laagje demiwater (minder dan het eindvolume) in het bekerglas en voeg daar de afgewogen CuSO~4~ aan toe. Als de stof niet goed oplost kan je een magneetroerder gebruiken*.*
 
 4.  Als de CuSO~4~ is opgelost, giet het dan over in de maatcilinder en
-    vul aan tot 50 ml. Bedenk goed waarom je niet gelijk de stof oplost
-    in 50 ml demiwater. 
+vul aan tot 50 ml. Bedenk goed waarom je niet gelijk de stof oplost
+in 50 ml demiwater. 
 
 5.  Giet de oplossing weer over in het bekerglas. Je hebt nu een
     (stock)oplossing van x mg/ml, bewaar deze voor opdracht 9.
 
 ## Pipetteren 
-
-Tijdens het werken op een laboratorium kom je veel in aanraking met het
-verplaatsen van volumes vloeistoffen van de ene plek naar de andere
-plek. Daarvoor wordt in de meeste gevallen, als het om kleine volumes
-gaat, een pipet gebruikt. Het is belangrijk om de pipet correct te
-gebruiken zodat de nauwkeurigheid het grootst is.
+Tijdens het werken op een laboratorium kom je veel in aanraking met het verplaatsen van volumes vloeistoffen van de ene plek naar de andere plek. Daarvoor wordt in de meeste gevallen, als het om kleine volumes gaat, een pipet gebruikt. Het is belangrijk om de pipet correct tegebruiken zodat de nauwkeurigheid het grootst is.
 
 Er zijn veel verschillende type pipetten die in de praktijk gebruikt
 worden:
@@ -339,11 +221,7 @@ worden:
 -   Automatische pipet (e)
 
 -   Multichannel pipet (f)
-
-In deze handleiding wordt ingegaan op de automatische pipet en het
-gebruik ervan. De meeste pipetten op onze labs zijn van de firma Gilson.
-De instructies zijn dan ook voornamelijk op deze pipetten gebaseerd;
-andere pipetten werken op vergelijkbare wijze.
+In deze handleiding wordt ingegaan op de automatische pipet en hetgebruik ervan. De meeste pipetten op onze labs zijn van de firma Gilson.De instructies zijn dan ook voornamelijk op deze pipetten gebaseerd;andere pipetten werken op vergelijkbare wijze.
 
 ![figuur 4](pics/Picture4.png)
 
@@ -351,29 +229,17 @@ andere pipetten werken op vergelijkbare wijze.
 
 
 ### Air-displacement pipet vs positive-displacement pipet
+Binnen het type automatische pipetten zijn er 2 typen pipetten die verschillen in het principe van het aanzuigen van de vloeistof. Bij de air-displacement pipet wordt gebruik gemaakt van een luchtkolom tussen het vloeistofmonster en de zuiger. Deze pipet is zeer geschikt voor waterige en niet-viskeuze vloeistoffen. De temperatuur en de druk in de atmosfeer hebben invloed op de prestaties van de air-displacement pipet. Dit is het type pipet die standaard op het lab gebruikt wordt.
 
-Binnen het type automatische pipetten zijn er 2 typen pipetten die
-verschillen in het principe van het aanzuigen van de vloeistof. Bij de
-air-displacement pipet wordt gebruik gemaakt van een luchtkolom tussen
-het vloeistofmonster en de zuiger. Deze pipet is zeer geschikt voor
-waterige en niet-viskeuze vloeistoffen. De temperatuur en de druk in de
-atmosfeer hebben invloed op de prestaties van de air-displacement pipet.
-Dit is het type pipet die standaard op het lab gebruikt wordt.
+Bij de positive-displacement pipet wordt het volume dat gepipetteerd wordt niet beïnvloed door de eigenschappen van de te pipeteren vloeistof. Ook heeft de temperatuur geen invloed op het volume. Dat maakt deze pipet uitermate geschikt voor het pipeteren van viskeuze, koude of juist warme vloeistoffen.
 
-Bij de positive-displacement pipet wordt het volume dat gepipetteerd
-wordt niet beïnvloed door de eigenschappen van de te pipeteren
-vloeistof. Ook heeft de temperatuur geen invloed op het volume. Dat
-maakt deze pipet uitermate geschikt voor het pipeteren van viskeuze, koude of juist warme vloeistoffen
 ![Figuur 5](pics/Picture5.png)!
 
 *<sub>Figuur 5 a. uiterlijk + b. principe verschillen tussen air-displacement en positive-displacement pipetten </sub>*
 
 ### Bereik en nauwkeurigheid van de verschillende typen pipetten
 
-In tabel 1 staat van elk type pipet van de reeks Pipetman Neo het bereik
-en de systematische en toevallige fout aangegeven. De systematische of
-accuratesse fout wordt veroorzaakt door de eigenschappen van de pipet
-zelf of door het gebruik van **niet goed passende** pipetpunten. De precisie of toevallige (random) fout wordt veroorzaakt door de techniek van de gebruiker of ook de pipetpunten.
+In tabel 1 staat van elk type pipet van de reeks Pipetman Neo het bereik en de systematische en toevallige fout aangegeven. De systematische of accuratesse fout wordt veroorzaakt door de eigenschappen van de pipet zelf of door het gebruik van **niet goed passende** pipetpunten. De precisie of toevallige (random) fout wordt veroorzaakt door de techniek van de gebruiker of ook de pipetpunten.
 
 ![Figuur 6](pics/Picture6.png)
 
@@ -405,27 +271,16 @@ onderdelen:
 
 ### Volume instellen
 
-
 ![](pics/Picture8.png) 
 *<sub>Figuur 8: instellen volume van de pipet in verticale stand geeft afwijking</sub>*
 
-Het volume dient altijd met de klok mee te worden ingesteld. Dit
-betekent als daarbij het volume naar een lager volume moet worden
-afgesteld deze rustig, met de klok mee, naar het gewenste volume
-gedraaid kan worden. Als het volume groter moet worden, dient het
-mechanisme 1/3 verder gedraaid te worden dan het gewenste volume en
-vervolgens rustig teruggedraaid te worden naar het gewenste volume.
+Het volume dient altijd met de klok mee te worden ingesteld. Dit betekent als daarbij het volume naar een lager volume moet worden afgesteld deze rustig, met de klok mee, naar het gewenste volume gedraaid kan worden. Als het volume groter moet worden, dient het mechanisme 1/3 verder gedraaid te worden dan het gewenste volume en vervolgens rustig teruggedraaid te worden naar het gewenste volume.
 
-Bij het instellen van het juiste volume dient de pipet in horizontale
-positie te zijn. Op die manier krijg je geen scheef beeld, waardoor dan
-een afleesfout kan ontstaan.
+Bij het instellen van het juiste volume dient de pipet in horizontale positie te zijn. Op die manier krijg je geen scheef beeld, waardoor dan een afleesfout kan ontstaan.
 
-Bij de Pipetman Neo kan het volume ingesteld worden met zowel de
-drukknop als de volume instelschroef. Voor oudere modellen geldt het
-instellen van het volume alleen met de volume instelschroef.
+Bij de Pipetman Neo kan het volume ingesteld worden met zowel de drukknop als de volume instelschroef. Voor oudere modellen geldt het instellen van het volume alleen met de volume instelschroef.
 
-Het instellen van het volume moet binnen het volume-bereik van de pipet
-liggen (zie tabel 1).
+Het instellen van het volume moet binnen het volume-bereik van de pipet liggen (zie tabel 1).
 
 >Let op: Voor alle pipetten geldt dat deze nooit naar een hoger volume gedraaid mogen worden dan het maximale volume.
 
@@ -447,19 +302,14 @@ Je plaatst de pipetpunt door tijdens het aandrukken de pipet een kwartslag te dr
 
 ### Voorspoelen
 
-Voor elke pipeteerhandeling dient de pipetpunt voorgespoeld te worden
-met de vloeistof die gepipetteerd gaat worden. Dit zorgt er voor dat de
-temperatuur van de pipetpunt gelijk wordt aan de temperatuur van de te
-pipeteren vloeistof. Tevens voorkomt het verdamping. Kortom het zorgt
-voor een grotere uniformiteit en grotere accuratesse en precisie.
+Voor elke pipeteerhandeling dient de pipetpunt voorgespoeld te worden met de vloeistof die gepipetteerd gaat worden. Dit zorgt er voor dat de temperatuur van de pipetpunt gelijk wordt aan de temperatuur van de te pipeteren vloeistof. Tevens voorkomt het verdamping. Kortom het zorgt voor een grotere uniformiteit en grotere accuratesse en precisie.
 
 Het voorspoelen van een pipetpunt moet in de volgende gevallen:
 - na het aanbrengen van een nieuwe pipetpunt
 - na het instellen van een hoger volume
 - wanneer een pipetpunt langer dan 1 minuut niet gebruikt is
 
-Dit voorspoelen wordt uitgevoerd door het opzuigen en weer uitblazen van
-de vloeistof tot de eerste stop.
+Dit voorspoelen wordt uitgevoerd door het opzuigen en weer uitblazen van de vloeistof tot de eerste stop.
 
 ### Pipeteren (forward)
 
@@ -467,11 +317,7 @@ de vloeistof tot de eerste stop.
 
 *<sub>Figuur 10: overzicht van de forward pipeteer techniek</sub>*
 
-Het allerbelangrijkste bij het juist
-pipeteren is dat je **kijkt** wat er gebeurt in de
-pipetpunt gedurende de verschillende stappen van het pipeteren. Dan kun
-je eventuele onregelmatigheden, die kunnen optreden (hieronder
-besproken) waarnemen.
+Het allerbelangrijkste bij het juist pipeteren is dat je **kijkt** wat er gebeurt in de pipetpunt gedurende de verschillende stappen van het pipeteren. Dan kun je eventuele onregelmatigheden, die kunnen optreden (hieronder besproken) waarnemen.
 
 *<sub>Tabel 3 insteekdiepte pipetpunt bij opzuigen van verschillende volumes.</sub>*
 
@@ -486,16 +332,11 @@ In de meeste gevallen wordt de techniek van forward pipeteren gebruikt:
 
 A.  Breng de drukknop met de duim tot de eerste stop
 
-B.  Zuig de vloeistof op. Let daarbij op de opzuigsnelheid. Doe dit
-    langzaam! En met constante snelheid. Te snel opzuigen kan het
-    volgende veroorzaken:
+B.  Zuig de vloeistof op. Let daarbij op de opzuigsnelheid. Doe dit langzaam! En met constante snelheid. Te snel opzuigen kan het volgende veroorzaken:
 
-    -   spetters vloeistof in de pipetpunt
-
-    -   luchtbellen in het monster
-
-    -   het monster kan in de tiphouder komen en daarmee de pipet
-        verontreinigen
+-   spetters vloeistof in de pipetpunt
+-   luchtbellen in het monster
+-   het monster kan in de tiphouder komen en daarmee de pipet verontreinigen
 
 > Hoe diep je de pipetpunt in de vloeistof brengt, hangt af van het te
 > pipeteren volume, zie tabel 3.
@@ -504,14 +345,9 @@ B.  Zuig de vloeistof op. Let daarbij op de opzuigsnelheid. Doe dit
 
 > Trek de pipetpunt niet te snel uit de gepipetteerde vloeistof, dan kunnen er vloeistofdruppeltjes aan de buitenkant van de pipetpunt terecht komen.
 
-C.  Om de vloeistof juist op de volgende bestemming te krijgen, breng je
-    de pipetpunt tegen de wand van het bekerglas/cupje etc. aan onder
-    een hoek van 10-45°. Hierbij houd je de pipet zo verticaal mogelijk.
-    Je drukt de vloeistof uit tot door de drukknop tot de eerste stop te
-    drukken.
+C.  Om de vloeistof juist op de volgende bestemming te krijgen, breng je de pipetpunt tegen de wand van het bekerglas/cupje etc. aan onder een hoek van 10-45°. Hierbij houd je de pipet zo verticaal mogelijk. Je drukt de vloeistof uit tot door de drukknop tot de eerste stop te drukken.
 
-D.  Daarna druk je krachtiger door tot de 2^e^ stop terwijl de pipetpunt langzaam naar boven geveegd wordt tegen de wand van het
-bekerglas/cupje etc.
+D.  Daarna druk je krachtiger door tot de 2^e^ stop terwijl de pipetpunt langzaam naar boven geveegd wordt tegen de wand van het bekerglas/cupje etc.
 
 E.  Breng de pipetpunt los van de zojuist gepipetteerde vloeistof en laat de drukknop volledig omhoog komen. Doe dit niet te snel voordat de tip los is van de vloeistof, anders zuig je die vloeistof weer op. Nu kan de pipetpunt met de ejector verwijderd worden. 
 
@@ -519,33 +355,30 @@ E.  Breng de pipetpunt los van de zojuist gepipetteerde vloeistof en laat de dru
 
 ### Pipeteren (reverse)
 
-Voor het pipeteren van "lastige" vloeistoffen kan gebruik worden gemaakt
-van de reverse pipetetting- methode. Deze methode wordt gebruikt bij:
+Voor het pipeteren van "lastige" vloeistoffen kan gebruik worden gemaakt van de reverse pipetetting- methode. Deze methode wordt gebruikt bij:
 
--   viskeuze/stroperige vloeistoffen
+- viskeuze/stroperige vloeistoffen
 
--   oplosmiddelen
+- oplosmiddelen
 
--   schuimende vloeistoffen
+- schuimende vloeistoffen
 
--   repeterend pipetteren
+- repeterend pipetteren
 
 ![](pics/Picture11.png)
 
 *<sub>Figuur 11: Overzicht van de reverse pipetteer techniek</sub>*
 
-Deze techniek zal je niet vaak hoeven te
-gebruiken. Er wordt kort mee geoefend bij pipetteeropdracht 3 en 4.
+Deze techniek zal je niet vaak hoeven te gebruiken. Er wordt kort mee geoefend bij pipetteeropdracht 3 en 4.
 
-Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het
-uitpipeteren.
+Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 
 **Opdracht 4: Volume instellen**
 
-1.  Neem tabel 4 over in je logboek en vul deze verder in. Welke pipet
-    en instelling gebruik je voor de aangegeven volumes?
+1.  Neem tabel 4 over in je logboek en vul deze verder in. Welke pipet en instelling gebruik je voor de aangegeven volumes?
 
 *<sub>Tabel 4. Pipetteertabel</sub>*
+
 | Hoeveelheid | Range | P waarde | Instelling (+ kleur) |
 | :--- | :--- | :--- | :--- |
 | *Voorbeeld: 9,1 µl* | *1-10 µl* | *P10* | *0 – 9 – 1* |
@@ -563,17 +396,11 @@ uitpipeteren.
 **Opdracht 5: Fouten met invloed**
 
 1.  Markeer drie 1,5 ml eppenorfcupjes met "1", "2" en "3".
-
 2.  Weeg de cupjes (volgens het stappenplan wegen) en schrijf het precieze gewicht op (Tabel 5).
-
 3.  Pipetteer 1 ml kamertemperatuur water van 3 mm diep in cupje 1 met de P1000.
-
 4.  Pipetteer 5x 200 μl kamertemperatuur water van 3 mm diep in cupje 2 met een P200 pipet.
-
 5.  Pipetteer 1 ml kamertemperatuur water van 2 cm diep in cupje 3 met de P1000.
-
 6.  Weeg cupje 1, 2 en 3 opnieuw. Bereken de massa van het water in cupjes 1, 2 en 3.
-
 7.  1 ml water op 21 graden celcius weegt 0,998 g. Welk cupje komt het dichtst bij dit getal?
 
 *<sub> Tabel 5. Weegtabel gepipetteerd water.</sub>*
@@ -584,30 +411,24 @@ uitpipeteren.
 | 2 | | | |
 | 3 | | | |
 
+
 **Opdracht 6: Vluchtige stoffen**
 
 1.  Pipetteer 1 ml water met een geschikt pipet. Als het goed is zitten er geen luchtbellen in het water en blijft de vloeistof goed zitten. Is je pipet functioneel?
-
 2.  Pipetteer 1 ml alcohol (70% en op kamertemperatuur) op met dezelfde pipet. Wacht nu enkele seconden met het pipetpuntje boven de alcohol. Wat gebeurt er met de vloeistof?
-
 3.  Pipetteer 1 ml alcohol voorzichtig 3x op en neer. Pipetteer nu opnieuw 1 ml alcohol met hetzelfde puntje. Zie je een verschil?
-
 4.  Pipetteer 1 ml alcohol met een nieuw pipetpuntje met de reverse pipetting techniek. Wat zie je nu?
 
 **Opdracht 7: Dikke vloeistof**
 
 1.  Pipetteer 1 ml glycerol op met een geschikt pipet en haal je pipetpunt gelijk uit de glycerol als de drukknop op de hoogste stand is. Pipetteer de glycerol uit in een eppendorf cupje van 1,5 ml. Denk je dat je nu 1 ml glycerol in je eppendorf cupje hebt zitten? Verklaar je antwoord.
-
 2.  Pipetteer opnieuw 1 ml glycerol op met hetzelfde pipet. Wacht nu 3 seconden nadat de glycerol gestopt is met bewegen. Pipetteer de glycerol uit in een nieuw eppendorf cupje van 1,5 ml.
-
 3.  Pipetteer ook 1ml glycerol met de reverse pipetting techniek.
-
 4.  Vergelijk de cupjes van vraag A. B. en C. Wat is het verschil en waardoor ontstaat dit?
 
 **Opdracht 8: Vervolg van opdracht 3 kopersulfaat**
 
 1.  Pak nu 5 cupjes en label deze met je naam en de volgende concentraties: 100, 50, 25, 10 en 0 mg/ml. 
-
 2.  Pipetteer nu in de cupjes de ijklijn volgens tabel 1. Vul het volume stock-oplossing in!
 
  
@@ -621,41 +442,26 @@ uitpipeteren.
 | 4 | 10 mg/ml | X µl | Stock (100mg/ml) | 900µl | Demi |
 | 5 | 0 mg/ml | X µl | Stock (100mg/ml) | 1000µl | Demi |
 
-3.  Pak nu een 96 wells plaat en stel de spectrofotometer in op 560
-    nm.  
+3.  Pak nu een 96 wells plaat en stel de spectrofotometer in op 560 nm.  
 
-4.  Vul in duplo de welletjes (dus vul twee welletjes) van de 96 wells
-    plaat met 200µl van ieder punt van de ijklijn en de onbekende
-    monsters meet de plaat door.
+4.  Vul in duplo de welletjes (dus vul twee welletjes) van de 96 wells plaat met 200µl van ieder punt van de ijklijn en de onbekende monsters meet de plaat door.
 
-5.  Giet de plaat en de cupjes leeg in een bekerglas gelabeld "Afval
-    CuSO~4~" en doe de plaat en de cupjes in het zwarte afvalvat.
+5.  Giet de plaat en de cupjes leeg in een bekerglas gelabeld "Afval CuSO~4~" en doe de plaat en de cupjes in het zwarte afvalvat.
 
-6.  Kijk of de weegkamer/weegtafel weer netjes is achtergelaten. En ruim
-    de gebruikte apparatuur op waar het hoort. 
+6.  Kijk of de weegkamer/weegtafel weer netjes is achtergelaten. En ruim de gebruikte apparatuur op waar het hoort. 
 
-7.  Bepaal met behulp van lineaire regressie de concentratie van de
-    monsters. Hiervoor kun je Excel, R of Phyton gebruiken.
+7.  Bepaal met behulp van lineaire regressie de concentratie van de monsters. Hiervoor kun je Excel, R of Phyton gebruiken.
 
 
 ## 3.  Microscopie en Gramkleuring
 
 **De microscoop **
 
-Het scheidend vermogen van het oog beschrijft het vermogen om twee naast elkaar gelegen objecten afzonderlijk van elkaar waar te nemen. Het gaat hier om de minimale afstand tussen de voorwerpen waarop we ze nog als afzonderlijke voorwerpen kunnen waarnemen. Bijvoorbeeld, als je de millimeterstreepjes op een liniaal bekijkt zijn deze als aparte streepjes te zien. Gaan we op grotere afstand van de liniaal staan dan lopen de streepjes in elkaar over en zien we ze niet meer als
-afzonderlijk.  
+Het scheidend vermogen van het oog beschrijft het vermogen om twee naast elkaar gelegen objecten afzonderlijk van elkaar waar te nemen. Het gaat hier om de minimale afstand tussen de voorwerpen waarop we ze nog als afzonderlijke voorwerpen kunnen waarnemen. Bijvoorbeeld, als je de millimeterstreepjes op een liniaal bekijkt zijn deze als aparte streepjes te zien. Gaan we op grotere afstand van de liniaal staan dan lopen de streepjes in elkaar over en zien we ze niet meer als afzonderlijk.  
 
 Het beeld dat het oog binnenkomt valt op de cellen in het netvlies. Het signaal wordt via zenuwcellen overgebracht naar de hersenen, waar het omgezet wordt tot een beeld dat we waarnemen. Dit beeld kan pas gevormd worden wanneer meerdere netvliescellen een signaal doorgeven. Bijvoorbeeld, wanneer we een boek lezen kunnen we de letters als afzonderlijk ervaren. Wanneer we te ver van het boek afstaan vallen de letters niet meer op verschillende cellen in het netvlies. Door de grote afstand worden de letters zo klein dat meerdere letters op 1 netvliescel vallen. Hierdoor worden ze niet meer als afzonderlijk geregistreerd, maar als 1 zwart geheel. Om dezelfde reden is een bacterie niet met het blote oog te zien. Ten eerste is een bacterie zo klein dat deze onvoldoende licht weerkaatst om op het netvlies te projecteren. Maar ook als de bacterie voldoende licht zou weerkaatsen zou deze door zijn grootte slechts op 1 netvliescel geprojecteerd worden en daardoor niet geregistreerd worden. 
 
-In theorie is de minimale gezichtshoek (α) van het oog 1 boogminuut
-(1/60 graad). Als we dit weten en met het blote oog kijken naar twee
-objecten op een afstand van 25 cm, dan moeten deze objecten tenminste
-0.07 mm (70µm) uit elkaar liggen om deze als afzonderlijk te kunnen
-onderscheiden (Figuur 1). In dat geval zal het beeld van de objecten op
-verschillende netvliescellen vallen en als afzonderlijk geregistreerd
-worden. In de praktijk is deze afstand vaak groter (1 tot 2 mm), omdat
-ook de grootte en de vorm van de lens in het oog invloed heeft op de
-minimale gezichtshoek.   
+In theorie is de minimale gezichtshoek (α) van het oog 1 boogminuut (1/60 graad). Als we dit weten en met het blote oog kijken naar twee objecten op een afstand van 25 cm, dan moeten deze objecten tenminste 0.07 mm (70µm) uit elkaar liggen om deze als afzonderlijk te kunnen onderscheiden (Figuur 1). In dat geval zal het beeld van de objecten op verschillende netvliescellen vallen en als afzonderlijk geregistreerd worden. In de praktijk is deze afstand vaak groter (1 tot 2 mm), omdat ook de grootte en de vorm van de lens in het oog invloed heeft op de minimale gezichtshoek.   
 
  
 
@@ -664,36 +470,11 @@ minimale gezichtshoek.   
  
 *<sub>Figuur 1: Effect van afstand tot en tussen de objecten op het onderscheidend vermogen van het oog. Als de afstand tussen de objecten te klein wordt of de afstand tot de objecten te groot, neemt de gezichtshoek af (α < 1 boogminuut). Hierdoor wordt het beeld op een te klein deel van het netvlies geprojecteerd om het als twee afzonderlijke objecten waar te nemen.</sub>*
  
+Om twee punten die dichter bij elkaar liggen dan 0,07 mm toch van elkaar te onderscheiden kunnen we gebruik maken van een microscoop. De microscoop verspreid het beeld met zo min mogelijk detailverlies over een groter aantal netvliescellen, oftewel onder een grotere gezichtshoek. Dit vergroten van het beeld wordt bewerkstelligd door het lenzenstelsel van de microscoop. Met een gewone lichtmicroscoop kan het scheidend vermogen van 70 µm (blote oog) terug gebracht worden tot ongeveer 0,3 µm. Dat is ongeveer 300x nauwkeuriger dan met het blote oog. Op deze manier kunnen biologische preparaten, die vaak maar enkele millimeters groot zijn, toch bestudeerd worden. 
 
- 
-
-Om twee punten die dichter bij elkaar liggen dan 0,07 mm toch van elkaar
-te onderscheiden kunnen we gebruik maken van een microscoop. De
-microscoop verspreid het beeld met zo min mogelijk detailverlies over
-een groter aantal netvliescellen, oftewel onder een grotere
-gezichtshoek. Dit vergroten van het beeld wordt bewerkstelligd door het
-lenzenstelsel van de microscoop. Met een gewone lichtmicroscoop kan het
-scheidend vermogen van 70 µm (blote oog) terug gebracht worden tot
-ongeveer 0,3 µm. Dat is ongeveer 300x nauwkeuriger dan met het blote
-oog. Op deze manier kunnen biologische preparaten, die vaak maar enkele
-millimeters groot zijn, toch bestudeerd worden. 
-
- 
-
-Om goed met een microscoop te kunnen werken is het noodzakelijk om de
-bouw van een microscoop en de functies van de verschillende onderdelen
-te kennen. Bij Microscopie Theorie leer je de theoretische achtergrond
-van de werking van de microscoop.
-
- 
-
- 
-
- 
+Om goed met een microscoop te kunnen werken is het noodzakelijk om de bouw van een microscoop en de functies van de verschillende onderdelen te kennen. Bij Microscopie Theorie leer je de theoretische achtergrond van de werking van de microscoop.
 
 **Bouw van de microscoop **
-
- 
 
  ​![](pics/Picture13.png) 
 
@@ -723,65 +504,21 @@ Cellular_Structures/TEXT_Cellular_Structures_print.html)</sub>*
 24. centreerschroeven voor het velddiafragma 
 
 **Opdracht 1:** 
+Gebruik de onderstaande tekst en figuur 2 om de onderdelen van je eigen microscoop te benoemen. Maak een foto van beide hoeken van de microscoop en geef in de foto de namen van alle onderdelen weer.
 
-Gebruik de onderstaande tekst en figuur 2 om de onderdelen van je eigen
-microscoop te benoemen. Maak een foto van beide hoeken van de microscoop
-en geef in de foto de namen van alle onderdelen weer.
+In het bovenste deel of **tubus** zit een prismastelsel dat de enkelvoudige projectie van het object uitsplitst over de beide **oculairen**  De oculairen zijn onderling verstelbaar in horizontale richting **(interpupillaire afstand).** De tubus is draaibaar op **het statief**  Hieronder is een draaibare **objectiefhouder** geschroefd, de revolver. In de revolver kunnen vier **objectieven** een plaats vinden. Regel is dat de objectieven in een oplopende sterkte in de revolver geschroefd worden, bijvoorbeeld 4x, 10x, 40x en 100x. 
 
-*In het bovenste deel of **tubus** zit een prismastelsel dat de
-enkelvoudige projectie van het object uitsplitst over de beide
-**oculairen**  De oculairen zijn onderling verstelbaar in horizontale
-richting **(interpupillaire afstand).** De tubus is draaibaar op **het
-statief**  Hieronder is een draaibare **objectiefhouder** geschroefd, de
-revolver. In de revolver kunnen vier **objectieven** een plaats vinden.
-Regel is dat de objectieven in een oplopende sterkte in de revolver
-geschroefd worden, bijvoorbeeld 4x, 10x, 40x en 100x. *
+Het object (voorwerp) ligt op een objectglas en is soms afgedekt door een dekglas. Het objectglas ligt op de **objecttafel** en kan horizontaal bewogen worden met de **objectgeleider** met behulp van **twee co-axiale stelschroeven** (links/rechts en voor/achter). 
 
-*Het object (voorwerp) ligt op een objectglas en is soms afgedekt door
-een dekglas. Het objectglas ligt op de **objecttafel** en kan
-horizontaal bewogen worden met de **objectgeleider** met behulp van
-**twee co-axiale stelschroeven** (links/rechts en voor/achter). *
+Verticaal wordt de objecttafel ingesteld met de grote instelschroef **(macrometer)** en later nauwkeurig geregeld met de kleine instelschroef **(micrometer).** Het licht door het object is afkomstig van de **lichtbron**. Het divergerende (uiteenwijkende) lamplicht wordt gebundeld tot een intensieve straal door de **condensor.** 
 
 
-*Verticaal wordt de objecttafel ingesteld met de grote instelschroef
-**(macrometer)** en later nauwkeurig geregeld met de kleine
-instelschroef **(micrometer).** Het licht door het object is afkomstig
-van de **lichtbron**. Het divergerende (uiteenwijkende) lamplicht wordt
-gebundeld tot een intensieve straal door de **condensor.** *
-
-*De condensor is verticaal verstelbaar met de **condensorknop** en is
-uitgerust met een **diafragma** waarmee de hoeveelheid doorgelaten licht
-kan worden geregeld. De apertuur (wijdte van de opening) bepaalt ook de
-hoeveelheid randstralen die worden weggenomen. Randstralen veroorzaken
-een onscherp beeld. Het lamplicht wordt op de condensor gericht met de
-gemonteerde spiegel met een vlakke of een holle zijde. *
+De condensor is verticaal verstelbaar met de **condensorknop** en is uitgerust met een **diafragma** waarmee de hoeveelheid doorgelaten licht kan worden geregeld. De apertuur (wijdte van de opening) bepaalt ook de hoeveelheid randstralen die worden weggenomen. Randstralen veroorzaken een onscherp beeld. Het lamplicht wordt op de condensor gericht met de gemonteerde spiegel met een vlakke of een holle zijde. 
 
  
-
-**Het gebruik van de microscoop\
-**Bij het microscopiseren moet je er voor zorgen dat het beeld zo
-homogeen mogelijk verlicht wordt. Dit betekent dat de lichtbundel vanuit
-de lamp zo optimaal mogelijk door de lenzenstelsels gaat. Dit noemt men
-Köhleren, naar de uitvinder van de methode; Köhler.  
-
-Onderin de microscoop bevindt zich de lichtbron die het preparaat
-verlicht en via het lenzenstelsel zorgt voor een beeld van het
-preparaat. Via een spiegel wordt het licht door het preparaat naar de
-lenzen gestuurd. De grootte van het verlichte veld kan met behulp van
-het velddiafragma geregeld worden. Door het velddiafragma zo in te
-stellen dat net het hele gezichtsveld gevuld is, wordt voorkomen dat
-verstorend strooilicht door het preparaat valt (zie stappenplan
-Köhleren). Vervolgens wordt het licht vanuit het velddiafragma door de
-condensor gebundeld op het preparaat geprojecteerd. Het brandpunt van de
-condensor moet zo ingesteld zijn dat de rand van het velddiafragma
-precies in het vlak van het scherpgestelde preparaat valt. Ook moet het
-velddiafragma in het midden van het gezichtsveld vallen, zodat de
-belichting egaal is (zie stappenplan Köhleren). Als aan deze voorwaarden
-is voldaan is de microscoop geköhlerd. Deze instellingen voorkomen dat
-je overbelichte regio's, schaduwen en afwijkingen (artefacten) in het
-preparaat ziet. Tevens vergroten deze instellingen het contrast in het
-preparaat. Deze instellingen maken dus dat je je preparaat optimaal kunt
-bestuderen! 
+ **Het gebruik van de microscoop**
+ 
+Bij het microscopiseren moet je er voor zorgen dat het beeld zo homogeen mogelijk verlicht wordt. Dit betekent dat de lichtbundel vanuit de lamp zo optimaal mogelijk door de lenzenstelsels gaat. Dit noemt men Köhleren, naar de uitvinder van de methode; Köhler.   Onderin de microscoop bevindt zich de lichtbron die het preparaat verlicht en via het lenzenstelsel zorgt voor een beeld van het preparaat. Via een spiegel wordt het licht door het preparaat naar de lenzen gestuurd. De grootte van het verlichte veld kan met behulp van het velddiafragma geregeld worden. Door het velddiafragma zo in te stellen dat net het hele gezichtsveld gevuld is, wordt voorkomen dat verstorend strooilicht door het preparaat valt (zie stappenplan Köhleren). Vervolgens wordt het licht vanuit het velddiafragma door de condensor gebundeld op het preparaat geprojecteerd. Het brandpunt van de condensor moet zo ingesteld zijn dat de rand van het velddiafragma precies in het vlak van het scherpgestelde preparaat valt. Ook moet het velddiafragma in het midden van het gezichtsveld vallen, zodat de belichting egaal is (zie stappenplan Köhleren). Als aan deze voorwaarden is voldaan is de microscoop geköhlerd. Deze instellingen voorkomen dat je overbelichte regio's, schaduwen en afwijkingen (artefacten) in het preparaat ziet. Tevens vergroten deze instellingen het contrast in het preparaat. Deze instellingen maken dus dat je je preparaat optimaal kunt bestuderen! 
 
  
  
@@ -789,53 +526,34 @@ bestuderen! 
 **Stappenplan Köhleren:** 
 
 1.  Controleer of het 4x objectief de gebruikslens is en leg het preparaat op de objecttafel  
-
 2.  Stel de oculairen in: zowel de horizontale afstand als eventueel de dioptrie instelling 
-
 3.  Stel via de 4x en daarna met de 10x objectief je preparaat scherp 
-
 4.  Zet de condensor in de hoogste stand en sluit het velddiafragma zodat je een kleine lichte vlek ziet Dit is de afbeelding van het velddiafragma 
-
 5.  De randen van het velddiafragma scherp stellen door de condensor langzaam omlaag te draaien m.b.v. de condensorschroef. 
-
-
 6.  De condensor centreren met de centreerschroeven (zitten vaak aan de voorzijde van de condensor). Het centreren is gemakkelijk als je het velddiafragma zover opent dat de randen van je beeldveld en velddiafragma bijna samenvallen 
-
 7.  Velddiafragma verder openen totdat het net niet meer in het gezichtsveld zichtbaar is. 
-
 8.  Pas eventueel je condensordiafragma daarna aan, bij kleinere vergroting is deze meer gesloten. De waarde van het condensordiafragma ofwel apertuurdiafragma, staat meestal op het objectief. 
- 
+
 **Algemene regels bij microscoopgebruik, instellen van een optimaal
 beeld **
 
 9.  Leg het preparaat altijd onder de kleinste vergroting (objectief 4x) in het midden van de preparaattafel, waarbij de objecten juist boven de opening van de preparaattafel en de condensorlens komen te liggen 
-
 10. Bij de kleinste vergroting kan je de preparaattafel in de hoogste stand draaien zonder dat de lens het objectglas raakt. 
-
 11. Nu kan je met de macrometerschroef al kijkend in de microscoop de preparaattafel langzaam naar beneden draaien tot zich een scherp beeld van het object heeft gevormd.  
-
 12. Breng het beste object (dat wat je bij een grotere vergroting wilt zien) in het midden van het gezichtsveld. 
-
 13. Nu kan je ongehinderd doordraaien naar objectief 10x. Scherpstellen met de micrometerschroef. Bij deze vergroting ga je eventueel Köhleren (stap 1-7). 
-
 14. Vervolgens kan je, nadat je het onderdeel dat je verder uitvergroot wilt bekijken in het midden van het gezichtsveld hebt gelegd, weer doordraaien naar de volgende vergroting (objectief 40x). 
-
 15. Scherpstellen van het beeld gebeurt ook nu weer alleen met de micrometerschroef. Eventueel het diafragma van de condensor bijstellen. 
-
 16. **Het vervangen of het verwijderen van een preparaat gebeurt altijd onder het kleinste objectief.** 
-
-
 17. Lenzen worden in normale gevallen schoongemaakt met een droge tissue. Bij erg vieze lenzen kan je deze schoonmaken met een tissue met xyleen of lenzencleaner. Dit alleen na toestemming van de docent. 
-
-
 18. Alvorens de microscoop weggezet wordt, wordt de revolver teruggedraaid naar objectief 4x (kleinste vergroting), het preparaat verwijderd en de lenzen schoongemaakt. De microscoop wordt in de kast gezet, afgedekt met een hoes. 
 
 
 **Opdracht 2: ** 
 
+
 > Stel je microscoop zo optimaal mogelijk in door de microscoop die je vandaag gebruikt te Köhleren. 
  
-
 **Oculairmicrometer **
 
 
@@ -857,12 +575,13 @@ In figuur 3 komen 13 schaaldelen van de oculairmicrometer overeen met 50 schaald
 
 Uitgezet in een formule is dit: 
 
-**b/a x 10 (µm)= µm** 
+$\frac{b}{a} \cdot 10 (µm) = µm$ 
 
 **Opdracht 3:** 
 
 Bepaal voor de 4x, 10x en 40x objectief de waarde van een schaaldeel van de oculairmicrometer. Per lens bepaal je 3 keer de waarde van de schaaldelen, waarbij tussen de metingen de objectmicrometer iets verschoven wordt. Op deze wijze minimaliseer je de meetfout door de gemiddelde waarde van de drie metingen te nemen. Noteer deze waarden overzichtelijk in een tabel met een duidelijk bovenschrift! Deze waarden kun je bij het gebruik van deze microscoop gebruiken om de grootte van cel(onderdelen) te bepalen door een schaalverdeling in de microscopische foto te plaatsen.
 
+---
 
 **Gramkleuring**
 
@@ -887,23 +606,14 @@ In de Gramnegatieve celwand ligt slechts één laag peptidoglycaan met weinig dw
 **Benodigdheden**
 
 -   Gramkleuring vloeistoffen
-
 -   8 glazen preparaat kleurbakjes
-
 -   Objectglazen
-
 -   Strekplaat
-
 -   Fysiologisch zout (bij het resuspenderen van een kolonie)
-
 -   Filtreerpapier
-
 -   Entoog
-
 -   Bunsenbrander
-
 -   Microscoop
-
 -   Immersie olie
 
 **Uitvoering:**
@@ -961,13 +671,13 @@ Kwaliteitscontrole GRAM-reeks:
 **Opdracht 4**
 Maak van een aantal aangegeven bacteriestammen een Gram-preparaat en bekijk deze onder een correct ingestelde microscoop. Beoordeel het Gram-karakter. Maak een foto van het microscopisch beeld en geef daarin de schaalverdeling weer. Bekijk ook de yoghurt. Welk type bacteriën zijn daarin aanwezig?
 
-4.  pH-meter en buffers
+---
+
+## 4.  pH-meter en buffers
 
 **Algemene theorie**
 
 **De kracht van waterstofatoom**
-
-
 
 De pH-waarde is een negatief logaritme van de concentratie waterstofionen. De letters 'p' en 'H' staat voor kracht en het waterstofatoom. De pH-waarde is verbonden met de pH-schaal.
 
@@ -1107,11 +817,11 @@ Een buffer kan op verschillende manieren worden gemaakt. Het is gebruikelijk om 
 
 Veel gebruikte buffers in een biomedisch laboratorium zijn:
 
-\- Fosfaat ($HPO_4^{2-}$/$H_2PO_4^-$)-buffer (pH-range: 5,7 - 8,0)
+- Fosfaat ($HPO_4^{2-}$/$H_2PO_4^-$)-buffer (pH-range: 5,7 - 8,0)
 
-\- Azijnzuur/acetaatbuffer (pH-range: 3,6 - 5,6)
+- Azijnzuur/acetaatbuffer (pH-range: 3,6 - 5,6)
 
-\- Tris/HCl buffer (pH-range: 7,3 -- 8,6)
+- Tris/HCl buffer (pH-range: 7,3 -- 8,6)
 
 Veel analisten gebruiken tabellen uit Lab FAQS-boek om buffers te maken. Met behulp van deze tabellen worden betrouwbare buffers gemaakt. Tijdens komend experiment wordt er een buffer gemaakt aan de hand van Lab-FAQS: Find a quick solution, 4th ed., 2011, Roche Applied Science.
 
@@ -1206,7 +916,6 @@ Van bijna alle genen heb je twee versies: één van je vader en één van je moe
 3)  Wanneer je van beide ouders het gen TAS2R38 zonder mutatie krijgt proef je de bittere smaak van het PTC heel sterk. Je bent dan **homozygoot taster**.
 
 
-
 **Het experiment**
 
 In dit experiment gaan we zowel het fenotype als het genotype bepalen voor het proeven van PTC. Het bepalen van het fenotype wordt gedaan door oplossingen met een verschillende concentratie PTC te proeven. Daarnaast ga je van je eigen DNA het genotype bepalen, oftewel of je homozygoot non-taster, heterozygoot of homozygoot taster bent. Voor het bepalen van het genotype gaan we DNA uit wangslijmvliescellen isoleren. Vervolgens gaan we met behulp van een polymerase chain reaction (PCR) het gen voor *TAS2R38* vermeerderen. Je krijgt dan een stukje DNA van 220 baseparen lang.
@@ -1295,7 +1004,7 @@ Om zeker te weten hoe groot de DNA fragmenten zijn, wordt in één slotje van de
 
 Na het uitvoeren van de PCR ga je niet al het DNA knippen. Je bewaart een deel van het PCR-product als controle. Na het knippen breng je zowel het geknipte DNA als het ongeknipte DNA op gel:
 
-![](Picture24.png)
+![](pics/Picture24.png)
 
 *<sub>Figuur 3: Samenvatting van de genotype bepaling. Vanaf het geïsoleerde DNA wordt een stukje van het PTC gen met behulp van PCR vermeerderd. Het DNA van nontasters wordt niet geknipt door *Hae*III, het DNA van tasters wel. Met behulp van gel electroforese is de lengte van de DNA fragmenten vervolgens te zien.</sub>*
 
@@ -1343,9 +1052,7 @@ Het experiment bevat de volgende stappen:
 
 -   Pipetteer 200 µl Instagene Matrix (figuur 5) in een nieuw Eppendorfcupje (1,5 ml).
 
-**NB**.: InstaGene matrix moet constant met een magneetroerder op matige
-snelheid worden geroerd om de matrix in suspensie te houden. De pipet
-punt moet een grote opening hebben zoals een 1000 µl pipet punt.
+**NB**.: InstaGene matrix moet constant met een magneetroerder op matige snelheid worden geroerd om de matrix in suspensie te houden. De pipet punt moet een grote opening hebben zoals een 1000 µl pipet punt.
 
 -   Voeg 20 µl van de celsuspensie toe aan deze 200 µl van InstaGene matrix.
 
@@ -1361,104 +1068,59 @@ punt moet een grote opening hebben zoals een 1000 µl pipet punt.
 
 **PCR Tas2R38 gen**
 
-1.  Neem een PCR cupje en label deze met een watervaste stift op de
-    > [zijkant]{.underline} van het cupje. Tekst op de bovenkant van het
-    > cupje is vaak niet meer zichtbaar na afloop van de PCR.
+1.  Neem een PCR cupje en label deze met een watervaste stift op de zijkant van het cupje. Tekst op de bovenkant van het cupje is vaak niet meer zichtbaar na afloop van de PCR.
 
-2.  De mastermix is al door de docenten voorbereid volgens onderstaand
-    > schema:
+2.  De mastermix is al door de docenten voorbereid volgens onderstaand schema:
 
-  ----------------------------------------------------------------------------
-                       Beginconcentratie   Volume in de     Eindconcentratie
-                                           mastermix        (inclusief DNA)
-  -------------------- ------------------- ---------------- ------------------
-  PCR reactiebuffer 10 10 x geconcentreerd x μl             1x geconcentreerd
-  x                                                         
+| Component | Beginconcentratie | Volume in de mastermix | Eindconcentratie (inclusief DNA) |
+| :--- | :--- | :--- | :--- |
+| PCR reactiebuffer 10 x | 10 x geconcentreerd | x µl | 1x geconcentreerd |
+| MgCl2 | 50 mM | x µl | 4 mM |
+| Forward primer *TAS2R38* | 25 µM | x µl | 1 µM |
+| Reverse primer *TAS2R38* | 25 µM | x µl | 1 µM |
+| dNTPs | 20 mM | x µl | 0,8 mM |
+| Taq polymerase | 5 U/µl | x µl | 0,08 U/µl |
+| Millipore water | | x µl | |
+| **Totaal volume** | | **20 µl** | |
 
-  MgCl2                50 mM               x μl             4 mM
-
-  Forward primer       25 μM               x μl             1 μM
-  *TAS2R38*                                                 
-
-  Reverse primer       25 μM               x μl             1 μM
-  *TAS2R38*                                                 
-
-  dNTPs                20 mM               x μl             0,8 mM
-
-  Taq polymerase       5 U/μl              x μl             0,08 U/μl
-
-  Millipore water                          x μl             
-
-  **Totaal volume**                        **20 μl**        
-  ----------------------------------------------------------------------------
 
 De sequentie van de primers is:
 
-  --------------------- ----------------------------------------------------
-  **Naam van de         **Sequentie**
-  primer**              
+| Naam van de primer | Sequentie |
+| :--- | :--- |
+| Forward primer *TAS2R38* | 5’-CCTTCGTTTTCTTGGTGAATTTTTGGGATGTAGTGAAGAGGCGG-3’ |
+| Reverse primer *TAS2R38* | 5'-AGGTTGGCTTGGTTTGCAATCATC-3' |
 
-  Forward primer        5'-CCTTCGTTTTCTTGGTGAATTTTTGGGATGTAGTGAAGAGGCGG-3'
-  *TAS2R38*             
+3.  Pipetteer met een schone pipetpunt 20 μl van de mastermix in het PCR cupje. Zorg dat de mastermix mooi onder in het cupje zit. Als dat niet zo is, tik dan voorzichtig met het cupje op de tafel totdat de mastermix naar beneden is gezakt.
 
-  Reverse primer        5\'-AGGTTGGCTTGGTTTGCAATCATC-3\'
-  *TAS2R38*             
-  --------------------- ----------------------------------------------------
+4.  Voeg 5 μl van het geïsoleerde DNA toe aan het PCR cupje. Let erop dat het DNA in de mastermix komt en niet aan de zijwand van het cupje blijft hangen. Let er ook op dat er geen vloeistof achterblijft in de pipetpunt.
 
-3.  Pipetteer met een schone pipetpunt 20 μl van de mastermix in het PCR
-    > cupje. Zorg dat de mastermix mooi onder in het cupje zit. Als dat
-    > niet zo is, tik dan voorzichtig met het cupje op de tafel totdat
-    > de mastermix naar beneden is gezakt.
+5.  Voeg ook Blanco reactie toe, waarbij het template DNA wordt vervangen door Millipore water (dit is een apart PCR-cupje)
 
-4.  Voeg 5 μl van het geïsoleerde DNA toe aan het PCR cupje. Let erop
-    > dat het DNA in de mastermix komt en niet aan de zijwand van het
-    > cupje blijft hangen. Let er ook op dat er geen vloeistof
-    > achterblijft in de pipetpunt.
+6.  Als je voor het inzetten van de PCR moet wachten, bewaar dan je cupje op ijs.
 
-5.  Voeg ook Blanco reactie toe, waarbij het template DNA wordt
-    > vervangen door Millipore water (dit is een apart PCR-cupje)
+7.  Plaats de PCR cupje in het PCR apparaat. Stel het volgende programma in:
 
-6.  Als je voor het inzetten van de PCR moet wachten, bewaar dan je
-    > cupje op ijs.
-
-7.  Plaats de PCR cupje in het PCR apparaat. Stel het volgende programma
-    > in:
-
-  -----------------------------------------------------------------------
-  **Stap**          **Temperatuur**   **Tijd**          **Aantal cycli**
-  ----------------- ----------------- ----------------- -----------------
-  Denaturatie       94 °C             5 minuten         
-
-  Denaturatie       94 °C             30 seconden       35 x
-
-  Annealing         68 °C             30 seconden       
-
-  Elongatie         72 °C             30 seconden       
-
-  Laatste           72 °C             5 minuten         
-  verlengstap                                           
-
-  Koelen            4 °C              5 minuten         
-  -----------------------------------------------------------------------
+| Stap | Temperatuur | Tijd | Aantal cycli |
+| :--- | :--- | :--- | :--- |
+| Denaturatie | 94 °C | 5 minuten | |
+| Denaturatie | 94 °C | 30 seconden | 35 x |
+| Annealing | 68 °C | 30 seconden | |
+| Elongatie | 72 °C | 30 seconden | |
+| Laatste verlengstap | 72 °C | 5 minuten | |
+| Koelen | 4 °C | 5 minuten | |
 
 **Restrictie met *HaeIII***
 
-1.  Markeer één cupje voor het PCR dat ongeknipt blijft en een cupje met
-    > PCR product geknipt met HaeIII
+1.  Markeer één cupje voor het PCR dat ongeknipt blijft en een cupje met PCR product geknipt met HaeIII
 
-2.  Neem 2x 10 μl van het PCR product pipetteer dat in de 2 gelabelde
-    > cupjes
+2.  Neem 2x 10 μl van het PCR product pipetteer dat in de 2 gelabelde cupjes
 
-3.  Voeg aan de rest van het PCR product 1 μl van het restrictie enzym
-    > HaeIII toe + 2 μl CutSmart buffer en 7 μl millipore water. Bij de
-    > ongeknipte controle wordt de 1 μl restrictie enzym vervangen door
-    > 1 μl millipore water extra.
+3.  Voeg aan de rest van het PCR product 1 μl van het restrictie enzym HaeIII toe + 2 μl CutSmart buffer en 7 μl millipore water. Bij de ongeknipte controle wordt de 1 μl restrictie enzym vervangen door 1 μl millipore water extra.
 
-4.  Zorg ervoor dat het enzym goed gemengd wordt met het PCR product,
-    > door het cupje kort af te draaien in een mini centrifuge
+4.  Zorg ervoor dat het enzym goed gemengd wordt met het PCR product, door het cupje kort af te draaien in een mini centrifuge
 
-5.  Incubeer beide cupjes bij 37 graden Celsius gedurende minstens 1
-    > uur. Begin tijdens het wachten alvast met de volgende stappen.
+5.  Incubeer beide cupjes bij 37 graden Celsius gedurende minstens 1 uur. Begin tijdens het wachten alvast met de volgende stappen.
 
 **DNA gel elektroforese**
 
@@ -1466,47 +1128,37 @@ Gieten van de gel
 
 (zie dit filmpje: <http://www.youtube.com/watch?v=KKmiKKMDDhY>)
 
-1.  Overleg met de docent welk bakje met welk kammetje gebruikt kan
-    worden, en hoeveel kammetjes er gebruikt worden.
+1.  Overleg met de docent welk bakje met welk kammetje gebruikt kan worden, en hoeveel kammetjes er gebruikt worden.
 
-2.  Maak 500 ml 1x TBE buffer door 10x TBE buffer te verdunnen met
-    demiwater .
+2.  Maak 500 ml 1x TBE buffer door 10x TBE buffer te verdunnen met demiwater .
 
 3.  Meng de 1x TBE buffer goed op een magneetroerder.
 
 4.  Plak een gel elektroforesebakje af met schildertape.
 
-5.  Bereken hoeveel agarose je nodig hebt om 50 ml 2% agarose oplossing
-    te maken.
+5.  Bereken hoeveel agarose je nodig hebt om 50 ml 2% agarose oplossing te maken.
 
-6.  Weeg de benodigde agarose af en doe deze in een voldoende grote
-    Erlenmeyer (minstens 150 ml).
+6.  Weeg de benodigde agarose af en doe deze in een voldoende grote Erlenmeyer (minstens 150 ml).
 
 7.  Voeg 50 ml 1x TBE buffer toe aan de erlenmeyer met agarose.
 
 8.  Verwarm de agarose oplossing tot het kookpunt in de magnetron.
 
-9.  Meng de agarose goed en verhit deze nog een keer in de magnetron tot
-    kookpunt.
+9.  Meng de agarose goed en verhit deze nog een keer in de magnetron tot kookpunt.
 
-10. Laat de agaroseoplossing in de zuurkast afkoelen tot je de
-    buitenkant goed met blote handen aan kunt pakken.
+10. Laat de agaroseoplossing in de zuurkast afkoelen tot je de buitenkant goed met blote handen aan kunt pakken.
 
-11. Voeg 5 μl Midori green (10 mg/ml) toe aan de agaroseoplossing
-    (belangrijk: draag een blauwe handschoen!).
+11. Voeg 5 μl Midori green (10 mg/ml) toe aan de agaroseoplossing (belangrijk: draag een blauwe handschoen!).
 
 12. Meng de agaroseoplossing goed en giet deze in het afgeplakte bakje.
 
-13. Plaats één of twee kammetjes voor 8 slotjes in de gel (overleg
-    vooraf met de docent).
+13. Plaats één of twee kammetjes voor 8 slotjes in de gel (overleg vooraf met de docent).
 
 14. Laat de gel stollen in de zuurkast (duurt ongeveer 30 minuten).
 
-15. Verwijder het schilderstape en plaats de gel in een
-    elektroforese-opstelling (draag ook hier blauwe handschoenen).
+15. Verwijder het schilderstape en plaats de gel in een elektroforese-opstelling (draag ook hier blauwe handschoenen).
 
-16. Controleer of de gel in de goede richting in het bakje ligt
-    (kammetje moet aan de '-' pool zitten).
+16. Controleer of de gel in de goede richting in het bakje ligt (kammetje moet aan de '-' pool zitten).
 
 17. Giet de 1x TBE buffer bij de gel tot de gel net 'onder water' staat.
 
@@ -1516,25 +1168,20 @@ Het laden van de gel
 
 (zie dit filmpje: <http://www.youtube.com/watch?v=vq759wKCCUQ>)
 
-1.  Neem 10 μl geknipt en ongeknipt PCR product en meng dit met 2 μl
-    Loading Dye (6x)
+1.  Neem 10 μl geknipt en ongeknipt PCR product en meng dit met 2 μl Loading Dye (6x)
 
 2.  Bereid de marker - 2 μl Low MW DNA marker (New England Biolabs)
 
-> \- 8 μl millipore water
->
-> \- 2 μl loading dye (6x)
+- 8 μl millipore water
+- 2 μl loading dye (6x)
 
-3.  Pipetteer 12 μl van elk sample en de marker in de slotjes van de
-    gel:
+3.  Pipetteer 12 μl van elk sample en de marker in de slotjes van de gel:
 
 4.  Noteer goed welk monster in welk slotje is gepipetteerd.
 
-5.  Pipetteer 7 μl Midori green (10 mg/ml) in de buffer aan de '+' pool
-    van de elektroforese-opstelling (denk om de blauwe handschoenen).
+5.  Pipetteer 7 μl Midori green (10 mg/ml) in de buffer aan de '+' pool van de elektroforese-opstelling (denk om de blauwe handschoenen).
 
-6.  Doe de deksel op het bakje en sluit de opstelling aan op de
-    voedingsbron.
+6.  Doe de deksel op het bakje en sluit de opstelling aan op de voedingsbron.
 
 **Gel elektroforese en analyse**
 
@@ -1542,29 +1189,22 @@ Het laden van de gel
 
 2.  Druk op de 'run' knop .
 
-3.  Stop de gel elektroforese als het blauwe front 2/3 van de gel
-    doorlopen heeft.
+3.  Stop de gel elektroforese als het blauwe front 2/3 van de gel doorlopen heeft.
 
 4.  Haal de gel voorzichtig uit het bakje (met blauwe handschoenen).
 
-5.  Leg de gel in de Gel Analyzer. Dit is een apparaat met een lichtbak
-    voor UV-licht, waarop je de gel legt. Bovenin het apparaat zit een
-    camera, waarmee de gel via de computer bekeken kan worden.
+5.  Leg de gel in de Gel Analyzer. Dit is een apparaat met een lichtbak voor UV-licht, waarop je de gel legt. Bovenin het apparaat zit een camera, waarmee de gel via de computer bekeken kan worden.
 
-6.  Bekijk met UV-licht of er bandjes zichtbaar zijn en maak een foto.
-    Je kunt deze foto ook digitaal opslaan op een USB-stick.
+6.  Bekijk met UV-licht of er bandjes zichtbaar zijn en maak een foto. Je kunt deze foto ook digitaal opslaan op een USB-stick.
 
 7.  Gooi de gel weg bij het chemisch verontreinigd laboratorium afval.
 
 **5. Bitter proeven (dit kan tijdens één van de wachtstappen)**
 
-Er zijn vier oplossingen met verschillende concentraties PTC (A t/m D).
-Om er zeker van te zijn dat je echt wat proeft, is het aan te raden deze
-blind te testen. Noteer de resultaten van het proeven van alle vier
-oplossingen.
+Er zijn vier oplossingen met verschillende concentraties PTC (A t/m D). Om er zeker van te zijn dat je echt wat proeft, is het aan te raden deze blind te testen. Noteer de resultaten van het proeven van alle vier oplossingen.
 
--   Maak een tabel met daarin de resultaten van het proeven van de
-    PTC-oplossingen.
+-   Maak een tabel met daarin de resultaten van het proeven van de PTC-oplossingen.
 
--   Beschrijf of de resultaten van de twee bepalingen (fenotype vs.
-    genotype) met elkaar overeenkomen, of waar ze van elkaar afwijken.
+-   Beschrijf of de resultaten van de twee bepalingen (fenotype vs. genotype) met elkaar overeenkomen, of waar ze van elkaar afwijken.
+
+---
