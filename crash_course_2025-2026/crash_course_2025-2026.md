@@ -8,7 +8,7 @@
 ## Programma
 Dag 1
 1. Veiligheid
-2. Wegen, glaswerk, pipeteren (CuSO~4~)
+2. Wegen, glaswerk, pipeteren ($CuSO_4$)
 
 Dag 2
 3. Microscopie en Gramkleuring
@@ -29,7 +29,7 @@ Veiligheidsvoorzieningen in het laboratorium
 
 Op elk lab zijn meerdere veiligheidsvoorzieningen aanwezig. Het is van belang om te weten bij een calamiteit waar de afsluiters van gas, elektriciteit en water zich bevinden. Waar je de brandblusapparatuur en de EHBO-kist kunt vinden en hoe je deze apparatuur op een correcte wijze gebruikt.
 
-### Opdracht 1:
+**Opdracht 1:**
 
 • Maak foto's van de veiligheidsvoorzieningen in het lab waarin je je nu bevindt.
 
@@ -62,7 +62,7 @@ In groepsverband ga je voor een stof/oplossing/suspensie alle veiligheidsaspecte
 
 - De voorzorgsmaatregelen die getroffen dienen te worden. Denk hierbij bijvoorbeeld aan masker, handschoenen enzovoorts. Dit vul je in onder het kopje "beperking".
 
-## Opdracht 2:
+**Opdracht 2:**
 
 Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert. Verdeel de taken en zoek de veiligheidsaspecten uit en noteer op de juiste plaats in de tabel. Bekijk ook de overeenkomsten en verschillen tussen de verschillende bronnen en vergelijk ze met elkaar.
 
@@ -134,7 +134,7 @@ op: Blijf onder het totaal volume dat je nodig hebt.
 
 23. Maak het weegschuitje/weegflesje en spatel/lepel schoon.
 
-**Opdracht 2:**
+**Opdracht 3:**
 
 Druk op T (van tarreren) van een bovenweger en wacht tot de balans 0.000 aangeeft. En druk dan voorzicht aan de zijkant van de tafels. Beschrijf wat je ziet bij de balans en geef aan of deze tafel geschikt is om nauwkeurig af te wegen.
 
@@ -193,11 +193,11 @@ Je gaat nu 50 ml van een kopersulfaat oplossing maken.
 
 1.  Kies daarvoor eerst het juiste glaswerk en controleer of deze goed schoon is (wanneer dat niet het geval is; maak het glaswerk dan schoon volgens de instructies).
 
-2.  Weeg nu 5 gram CuSO~4~ af volgens het stappenplan.
+2.  Weeg nu 5 gram $CuSO_4$ af volgens het stappenplan.
 
-3.  Doe een laagje demiwater (minder dan het eindvolume) in het bekerglas en voeg daar de afgewogen CuSO~4~ aan toe. Als de stof niet goed oplost kan je een magneetroerder gebruiken*.*
+3.  Doe een laagje demiwater (minder dan het eindvolume) in het bekerglas en voeg daar de afgewogen $CuSO_4$ aan toe. Als de stof niet goed oplost kan je een magneetroerder gebruiken*.*
 
-4.  Als de CuSO~4~ is opgelost, giet het dan over in de maatcilinder en
+4.  Als de $CuSO_4$ is opgelost, giet het dan over in de maatcilinder en
 vul aan tot 50 ml. Bedenk goed waarom je niet gelijk de stof oplost
 in 50 ml demiwater. 
 
@@ -375,8 +375,6 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 
 **Opdracht 4: Volume instellen**
 
-1.  Neem tabel 4 over in je logboek en vul deze verder in. Welke pipet en instelling gebruik je voor de aangegeven volumes?
-
 *<sub>Tabel 4. Pipetteertabel</sub>*
 
 | Hoeveelheid | Range | P waarde | Instelling (+ kleur) |
@@ -390,7 +388,7 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 | 2,1 µl | | | |
 | 1,25 µl | | | |
 
-
+1.  Neem tabel 4 over in je logboek en vul deze verder in. Welke pipet en instelling gebruik je voor de aangegeven volumes?
 2.  Kijk eens naar de rode getallen van de instelling. Wat geven deze getallen weer? Er is een uitzondering op die regel. Welk pipet is dat en wat geven de rode getallen aan bij die pipet?
 
 **Opdracht 5: Fouten met invloed**
@@ -432,7 +430,7 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 2.  Pipetteer nu in de cupjes de ijklijn volgens tabel 1. Vul het volume stock-oplossing in!
 
  
-*<sub> Tabel 6, Pipetteerschema ijklijn CuSO~4~ </sub>*
+*<sub> Tabel 6, Pipetteerschema ijklijn $CuSO_4$ </sub>*
 
   |  | Concentratie | CuSO₄ | | dH₂O | |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -446,12 +444,13 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 
 4.  Vul in duplo de welletjes (dus vul twee welletjes) van de 96 wells plaat met 200µl van ieder punt van de ijklijn en de onbekende monsters meet de plaat door.
 
-5.  Giet de plaat en de cupjes leeg in een bekerglas gelabeld "Afval CuSO~4~" en doe de plaat en de cupjes in het zwarte afvalvat.
+5.  Giet de plaat en de cupjes leeg in een bekerglas gelabeld "Afval $CuSO_4$" en doe de plaat en de cupjes in het zwarte afvalvat.
 
 6.  Kijk of de weegkamer/weegtafel weer netjes is achtergelaten. En ruim de gebruikte apparatuur op waar het hoort. 
 
 7.  Bepaal met behulp van lineaire regressie de concentratie van de monsters. Hiervoor kun je Excel, R of Phyton gebruiken.
 
+---
 
 ## 3.  Microscopie en Gramkleuring
 
@@ -521,8 +520,6 @@ De condensor is verticaal verstelbaar met de **condensorknop** en is uitgerust m
 Bij het microscopiseren moet je er voor zorgen dat het beeld zo homogeen mogelijk verlicht wordt. Dit betekent dat de lichtbundel vanuit de lamp zo optimaal mogelijk door de lenzenstelsels gaat. Dit noemt men Köhleren, naar de uitvinder van de methode; Köhler.   Onderin de microscoop bevindt zich de lichtbron die het preparaat verlicht en via het lenzenstelsel zorgt voor een beeld van het preparaat. Via een spiegel wordt het licht door het preparaat naar de lenzen gestuurd. De grootte van het verlichte veld kan met behulp van het velddiafragma geregeld worden. Door het velddiafragma zo in te stellen dat net het hele gezichtsveld gevuld is, wordt voorkomen dat verstorend strooilicht door het preparaat valt (zie stappenplan Köhleren). Vervolgens wordt het licht vanuit het velddiafragma door de condensor gebundeld op het preparaat geprojecteerd. Het brandpunt van de condensor moet zo ingesteld zijn dat de rand van het velddiafragma precies in het vlak van het scherpgestelde preparaat valt. Ook moet het velddiafragma in het midden van het gezichtsveld vallen, zodat de belichting egaal is (zie stappenplan Köhleren). Als aan deze voorwaarden is voldaan is de microscoop geköhlerd. Deze instellingen voorkomen dat je overbelichte regio's, schaduwen en afwijkingen (artefacten) in het preparaat ziet. Tevens vergroten deze instellingen het contrast in het preparaat. Deze instellingen maken dus dat je je preparaat optimaal kunt bestuderen! 
 
  
- 
-
 **Stappenplan Köhleren:** 
 
 1.  Controleer of het 4x objectief de gebruikslens is en leg het preparaat op de objecttafel  
@@ -548,14 +545,11 @@ beeld **
 17. Lenzen worden in normale gevallen schoongemaakt met een droge tissue. Bij erg vieze lenzen kan je deze schoonmaken met een tissue met xyleen of lenzencleaner. Dit alleen na toestemming van de docent. 
 18. Alvorens de microscoop weggezet wordt, wordt de revolver teruggedraaid naar objectief 4x (kleinste vergroting), het preparaat verwijderd en de lenzen schoongemaakt. De microscoop wordt in de kast gezet, afgedekt met een hoes. 
 
-
 **Opdracht 2: ** 
-
 
 > Stel je microscoop zo optimaal mogelijk in door de microscoop die je vandaag gebruikt te Köhleren. 
  
 **Oculairmicrometer **
-
 
 Als je cellen of weefsels met de microscoop bestudeert wil je weten hoe groot de cellen, organismen of weefselcomponenten nu in werkelijkheid zijn. En hoe ze zich ten opzichte van elkaar verhouden. In publicaties, en ook in je biologieboek, zie je bij microscopische foto's altijd een maatstreepje of "bar" in de foto staan. Voor nauwkeurige metingen van objecten en delen van objecten, die met een microscoop worden bekeken, maak je gebruik van een zogenaamde oculairmicrometer. Dit is een glasplaatje voorzien van een schaalverdeling. Bij de Olympus microscopen zit deze standaard in je oculair, bij de Leica microscopen is er een apart oculair met micrometer. Deze vind je boven in de microscopenkast. 
 
@@ -826,7 +820,7 @@ Veel gebruikte buffers in een biomedisch laboratorium zijn:
 Veel analisten gebruiken tabellen uit Lab FAQS-boek om buffers te maken. Met behulp van deze tabellen worden betrouwbare buffers gemaakt. Tijdens komend experiment wordt er een buffer gemaakt aan de hand van Lab-FAQS: Find a quick solution, 4th ed., 2011, Roche Applied Science.
 
 Er wordt een fosfaat buffer gemaakt van 200 ml met eindconcentratie van 0.1 M. Hiervoor worden er eerst twee fosfaatzouten bereid van 200 ml 0.2M, een mono-zout en di-zout oplossing. Voorbeeld van mono zout is
-NaH~2~PO~4~ en van di zout is Na~2~HPO~4~.
+$NaH_2PO_4$ en van di zout is $Na_2HPO_4$.
 
 ### Uitvoering bufferoplossing maken en pH bepalen
 
@@ -894,7 +888,7 @@ Er wordt gebruik gemaakt van 1 M HCl-oplossing als zuur en 1 M NaOH-oplossing al
 
 -   Maak een tabel met alle meetresultaten. Trek een conclusie over de bufferwerking (=buffercapaciteit) van de verschillende meetoplossingen
 
-
+---
 
 ## 5. PCR: PTC bitter proeven
 
