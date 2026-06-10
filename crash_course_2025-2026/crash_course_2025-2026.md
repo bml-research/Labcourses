@@ -12,7 +12,7 @@
 ## Navigatie
 
 * [1. Veiligheid](#1-veiligheid)
-* [2. Wegen, glaswerk, pipeteren](#2-wegen-glaswerk-pipeteren)
+* [2. Wegen, glaswerk, pipetteren](#2-wegen-glaswerk-pipetteren)
 * [3. Microscopie en Gramkleuring](#3-microscopie-en-gramkleuring)
 * [4. pH-meter en buffers](#4-ph-meter-en-buffers)
 * [5. PCR: PTC bitter proeven](#5-pcr-ptc-bitter-proeven)
@@ -23,7 +23,7 @@
 
 Dag 1
 1. Veiligheid
-2. Wegen, glaswerk, pipeteren ($CuSO_4$)
+2. Wegen, glaswerk, pipetteren
 
 Dag 2
 3. Microscopie en Gramkleuring
@@ -93,7 +93,7 @@ Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert.
 
 ---
 
-## 2. Wegen, glaswerk, pipeteren
+## 2. Wegen, glaswerk, pipetteren
 
 [Naar de top](#navigatie)
 
@@ -252,7 +252,7 @@ In deze handleiding wordt ingegaan op de automatische pipet en hetgebruik ervan.
 #### Air-displacement pipet vs positive-displacement pipet
 Binnen het type automatische pipetten zijn er 2 typen pipetten die verschillen in het principe van het aanzuigen van de vloeistof. Bij de air-displacement pipet wordt gebruik gemaakt van een luchtkolom tussen het vloeistofmonster en de zuiger. Deze pipet is zeer geschikt voor waterige en niet-viskeuze vloeistoffen. De temperatuur en de druk in de atmosfeer hebben invloed op de prestaties van de air-displacement pipet. Dit is het type pipet die standaard op het lab gebruikt wordt.
 
-Bij de positive-displacement pipet wordt het volume dat gepipetteerd wordt niet beïnvloed door de eigenschappen van de te pipeteren vloeistof. Ook heeft de temperatuur geen invloed op het volume. Dat maakt deze pipet uitermate geschikt voor het pipeteren van viskeuze, koude of juist warme vloeistoffen.
+Bij de positive-displacement pipet wordt het volume dat gepipetteerd wordt niet beïnvloed door de eigenschappen van de te pipetteren vloeistof. Ook heeft de temperatuur geen invloed op het volume. Dat maakt deze pipet uitermate geschikt voor het pipetteren van viskeuze, koude of juist warme vloeistoffen.
 
 ![Figuur 5](pics/Picture5.png)!
 
@@ -323,7 +323,7 @@ Je plaatst de pipetpunt door tijdens het aandrukken de pipet een kwartslag te dr
 
 #### Voorspoelen
 
-Voor elke pipeteerhandeling dient de pipetpunt voorgespoeld te worden met de vloeistof die gepipetteerd gaat worden. Dit zorgt er voor dat de temperatuur van de pipetpunt gelijk wordt aan de temperatuur van de te pipeteren vloeistof. Tevens voorkomt het verdamping. Kortom het zorgt voor een grotere uniformiteit en grotere accuratesse en precisie.
+Voor elke pipeteerhandeling dient de pipetpunt voorgespoeld te worden met de vloeistof die gepipetteerd gaat worden. Dit zorgt er voor dat de temperatuur van de pipetpunt gelijk wordt aan de temperatuur van de te pipetteren vloeistof. Tevens voorkomt het verdamping. Kortom het zorgt voor een grotere uniformiteit en grotere accuratesse en precisie.
 
 Het voorspoelen van een pipetpunt moet in de volgende gevallen:
 - na het aanbrengen van een nieuwe pipetpunt
@@ -332,13 +332,13 @@ Het voorspoelen van een pipetpunt moet in de volgende gevallen:
 
 Dit voorspoelen wordt uitgevoerd door het opzuigen en weer uitblazen van de vloeistof tot de eerste stop.
 
-#### Pipeteren (forward)
+#### pipetteren (forward)
 
 ![](pics/Picture10.png)
 
 *<sub>Figuur 10: overzicht van de forward pipeteer techniek</sub>*
 
-Het allerbelangrijkste bij het juist pipeteren is dat je **kijkt** wat er gebeurt in de pipetpunt gedurende de verschillende stappen van het pipeteren. Dan kun je eventuele onregelmatigheden, die kunnen optreden (hieronder besproken) waarnemen.
+Het allerbelangrijkste bij het juist pipetteren is dat je **kijkt** wat er gebeurt in de pipetpunt gedurende de verschillende stappen van het pipetteren. Dan kun je eventuele onregelmatigheden, die kunnen optreden (hieronder besproken) waarnemen.
 
 *<sub>Tabel 3 insteekdiepte pipetpunt bij opzuigen van verschillende volumes.</sub>*
 
@@ -349,7 +349,7 @@ Het allerbelangrijkste bij het juist pipeteren is dat je **kijkt** wat er gebeur
 | **101 - 1000** | 2-4 |
 | **1001 – 10.000** | 3-6 |
 
-In de meeste gevallen wordt de techniek van forward pipeteren gebruikt:
+In de meeste gevallen wordt de techniek van forward pipetteren gebruikt:
 
 A.  Breng de drukknop met de duim tot de eerste stop
 
@@ -360,7 +360,7 @@ B.  Zuig de vloeistof op. Let daarbij op de opzuigsnelheid. Doe dit langzaam! En
 -   het monster kan in de tiphouder komen en daarmee de pipet verontreinigen
 
 > Hoe diep je de pipetpunt in de vloeistof brengt, hangt af van het te
-> pipeteren volume, zie tabel 3.
+> pipetteren volume, zie tabel 3.
 
 > Na het opzuigen van de vloeistof altijd een paar tellen wachten totdat de vloeistof niet meer de pipet in beweegt.
 
@@ -372,11 +372,11 @@ D.  Daarna druk je krachtiger door tot de 2^e^ stop terwijl de pipetpunt langzaa
 
 E.  Breng de pipetpunt los van de zojuist gepipetteerde vloeistof en laat de drukknop volledig omhoog komen. Doe dit niet te snel voordat de tip los is van de vloeistof, anders zuig je die vloeistof weer op. Nu kan de pipetpunt met de ejector verwijderd worden. 
 
->Let op: Bij kleine volumes (1-5 µl) is het gebruikelijk om in de reeds aanwezige vloeistof uit te pipeteren, in plaats van tegen de wand!
+>Let op: Bij kleine volumes (1-5 µl) is het gebruikelijk om in de reeds aanwezige vloeistof uit te pipetteren, in plaats van tegen de wand!
 
-#### Pipeteren (reverse)
+#### pipetteren (reverse)
 
-Voor het pipeteren van "lastige" vloeistoffen kan gebruik worden gemaakt van de reverse pipetetting- methode. Deze methode wordt gebruikt bij:
+Voor het pipetteren van "lastige" vloeistoffen kan gebruik worden gemaakt van de reverse pipetetting- methode. Deze methode wordt gebruikt bij:
 
 - viskeuze/stroperige vloeistoffen
 
@@ -392,7 +392,7 @@ Voor het pipeteren van "lastige" vloeistoffen kan gebruik worden gemaakt van de 
 
 Deze techniek zal je niet vaak hoeven te gebruiken. Er wordt kort mee geoefend bij pipetteeropdracht 3 en 4.
 
-Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
+Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipetteren.
 
 **Opdracht 4: Volume instellen**
 
