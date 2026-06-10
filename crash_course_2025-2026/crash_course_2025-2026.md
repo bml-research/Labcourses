@@ -11,11 +11,11 @@
 
 ## Navigatie
 
-* [1. Veiligheid](#1-veiligheid)
-* [2. Wegen, glaswerk, pipetteren](#2-wegen-glaswerk-pipetteren)
-* [3. Microscopie en Gramkleuring](#3-microscopie-en-gramkleuring)
-* [4. pH-meter en buffers](#4-ph-meter-en-buffers)
-* [5. PCR: PTC bitter proeven](#5-pcr-ptc-bitter-proeven)
+* [1. Veiligheid ⚠️](#1-veiligheid-️)
+* [2. Wegen, glaswerk, pipetteren 🧪](#2-wegen-glaswerk-pipetteren-)
+* [3. Microscopie en Gramkleuring 🧫](#3-microscopie-en-gramkleuring-)
+* [4. pH-meter en buffers 🌡️](#4-ph-meter-en-buffers-️)
+* [5. PCR: PTC bitter proeven 🧬](#5-pcr-ptc-bitter-proeven-)
 
 ---
 
@@ -38,7 +38,7 @@ Logboekinstructie
 ---
 
 
-## 1. Veiligheid
+## 1. Veiligheid ⚠️
 
 [Naar de top](#navigatie)
 
@@ -93,7 +93,7 @@ Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert.
 
 ---
 
-## 2. Wegen, glaswerk, pipetteren
+## 2. Wegen, glaswerk, pipetteren 🧪
 
 [Naar de top](#navigatie)
 
@@ -473,7 +473,7 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipetteren.
 
 ---
 
-## 3. Microscopie en Gramkleuring
+## 3. Microscopie en Gramkleuring 🧫
 
 [Naar de top](#navigatie)
 
@@ -681,7 +681,7 @@ Maak van een aantal aangegeven bacteriestammen een Gram-preparaat en bekijk deze
 
 ---
 
-## 4. pH-meter en buffers
+## 4. pH-meter en buffers 🌡️
 
 [Naar de top](#navigatie)
 
@@ -906,7 +906,7 @@ Er wordt gebruik gemaakt van 1 M HCl-oplossing als zuur en 1 M NaOH-oplossing al
 
 ---
 
-## 5. PCR: PTC bitter proeven
+## 5. PCR: PTC bitter proeven 🧬
 
 [Naar de top](#navigatie)
 
