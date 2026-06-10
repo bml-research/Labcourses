@@ -1,7 +1,7 @@
 {% include head.html %}
 ![Hanze](../hanze/hanze.png)
 
-[Back to the main page](../index.md)
+[Naar de hoofdpagina](../index.md)
 
 # Crash Course
 
@@ -694,7 +694,7 @@ De pH-waarde is een negatief logaritme van de concentratie waterstofionen. De le
 De zuurgraad van een oplossing wordt bepaald door de concentratie $H_3O^+$. Hoe meer $H_3O^+$in een oplossing, des te zuurder de oplossing. Omgekeerd wordt de 'basiseenheid' van een oplossing bepaald door de concentratie OH- ionen. Het product van de concentratie $H_3O^+$ en $OH^-$ is altijd 10^-14^.
 
 ![](pics/Picture17.png)
-*<sub> Figuur 1 - pH schaal – pH schaal en indicaties van de zuurgraad van een aantal stoffen </sub>*
+*<sub> Figuur 1. pH schaal – pH schaal en indicaties van de zuurgraad van een aantal stoffen </sub>*
 
 
 Dat betekent dat als er meer $H_3O^+$ in een oplossing zit, er minder OH- in de oplossing aanwezig zal zijn.
@@ -720,11 +720,11 @@ Wanneer je een sterk zuur verdunt met water, kan dit leiden tot een heftige reac
 
 ![](pics/Picture19.png)
 
-*<sub>Figuur 2 – ADR label 8 - Gevaren symbool voor corrosie</sub>*
+*<sub>Figuur 2. ADR label 8 - Gevaren symbool voor corrosie</sub>*
 
 ![](pics/Picture20.png)
 
-*<sub>Figuur 3  – Druppelen – Water bij zuur staat je duur</sub>*
+*<sub>Figuur 3. Druppelen – Water bij zuur staat je duur</sub>*
 
 Chemicaliën of oplossingen worden afgevoerd in afvalvaten. Je kunt niet zomaar alle chemicaliën bij elkaar in een afvalvat gooien, want dan kunnen er heftige chemische reacties ontstaan of bijvoorbeeld giftige dampen.
 
@@ -744,7 +744,7 @@ De potentiaal over het membraan wordt gemeten met spanningsmeter van de pH-meter
 
 ![](pics/Picture21.png)
 
-*<sub>Figuur 4  – pH meter</sub>*
+*<sub>Figuur 4. pH meter</sub>*
 
 
 **Het toepassen van een pH-meter**
@@ -809,9 +809,9 @@ Algemeen protocol kalibreren:
 
 -   Druk op \<CAL\> knop.
 
--   Doe de electrode in de 1^e^ meetoplossing/kalibratiebuffer en druk op \<OK\> bij type 827.
+-   Doe de electrode in de eerste meetoplossing/kalibratiebuffer en druk op \<OK\> bij type 827.
 
--   Verwijder electrode van buffer, spoel de pH-electrode met dH~2~O en plaats het in de 2^e^ meetoplossing/kalibratiebuffer.
+-   Verwijder electrode van buffer, spoel de pH-electrode met $dH_2O$ en plaats het in de tweede meetoplossing/kalibratiebuffer.
 
 -   Druk op \<OK\> bij 827.
 
@@ -1221,4 +1221,5 @@ Er zijn vier oplossingen met verschillende concentraties PTC (A t/m D). Om er ze
 
 ---
 
-[Back to the main page](../index.md)
+[Naar de top](#navigatie)
+[Naar de hoofdpagina](../index.md)
