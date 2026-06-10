@@ -5,6 +5,8 @@
 
 # Crash Course
 
+![](pics/impression.jpeg)
+
 ---
 
 ## Navigatie
