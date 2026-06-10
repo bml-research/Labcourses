@@ -42,7 +42,7 @@ Logboekinstructie
 
 [Naar de top](#navigatie)
 
-Veiligheidsvoorzieningen in het laboratorium
+**Veiligheidsvoorzieningen in het laboratorium**
 
 Op elk lab zijn meerdere veiligheidsvoorzieningen aanwezig. Het is van belang om te weten bij een calamiteit waar de afsluiters van gas, elektriciteit en water zich bevinden. Waar je de brandblusapparatuur en de EHBO-kist kunt vinden en hoe je deze apparatuur op een correcte wijze gebruikt.
 
@@ -50,7 +50,7 @@ Op elk lab zijn meerdere veiligheidsvoorzieningen aanwezig. Het is van belang om
 
 • Maak foto's van de veiligheidsvoorzieningen in het lab waarin je je nu bevindt.
 
-• Teken een plattegrond van de labzaal waarin je nu practicum hebt en voeg de foto's van de veiligheidsvoorzieningen op de juiste plek in, op de plattegrond
+• Teken een plattegrond van de labzaal waarin je nu practicum hebt en voeg de foto's van de veiligheidsvoorzieningen op de juiste plek in, op de plattegrond.
 
 • Probeer een situatie te bedenken waarin je een veiligheidsvoorziening gebruikt.
 
@@ -63,7 +63,7 @@ Veiligheidsvoorzieningen in de plattegrond:
 - Brandblusser
 - Noodstop
 - Vluchtweg
-- etc.........................
+- etc...
 
 ### Veiligheidsaspecten van chemicaliën in het lab.
 
@@ -85,7 +85,7 @@ Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert.
 
 - 12,5M $NaOH$ (Natriumhydroxide)
 
-- 18M $H_2_SO_4$ (Zwavelzuur)
+- 18M $H_2SO_4$ (Zwavelzuur)
 
 - 100 mg/ml $CuSO_4$
 
@@ -181,7 +181,7 @@ Gebruik van een maatcilinder:
 
 ### Instructies glasgebruik
 
-[Voorbereiding algemeen:]{.underline}
+**Voorbereiding algemeen:**
 
 1.  Afhankelijk van de hoeveelheid stof (vloeistof) die je moet gaan wegen, kies je het juiste materiaal om de stof/vloeistof in te doen (weegpapier, bekerglas, erlenmeyer, fles). Ook moet je opletten of de stof/vloeistof veilig is om mee te werken. Daarvoor moet je altijd een chemiekaart van de bepaalde stof nalezen om te beslissen welke veiligheidsmaatregelen je moet treffen. Denk hierbij aan veiligheidsbril, mondkapje, handschoenen, vluchtige stoffen in de zuurkast wegen, enz.
 
@@ -192,7 +192,7 @@ Gebruik van een maatcilinder:
 4.  Kies een balans. Hierbij kunt je kiezen uit een bovenweger of een
     analytische balans. Let op de range waarin mag worden afgewogen.
 
-Uitvoering algemeen:
+**Uitvoering algemeen:**
 
 1.  Controleer of de balans geijkt is en waterpas staat. Leg het weegpapier erop en dan op nul.
 
