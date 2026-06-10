@@ -66,11 +66,11 @@ In groepsverband ga je voor een stof/oplossing/suspensie alle veiligheidsaspecte
 
 Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert. Verdeel de taken en zoek de veiligheidsaspecten uit en noteer op de juiste plaats in de tabel. Bekijk ook de overeenkomsten en verschillen tussen de verschillende bronnen en vergelijk ze met elkaar.
 
-- 12,5M NaOH (Natriumhydroxide)
+- 12,5M $NaOH$ (Natriumhydroxide)
 
-- 18M H~2~SO~4~ (Zwavelzuur)
+- 18M $H_2_SO_4$ (Zwavelzuur)
 
-- 100 mg/ml CuSO~4~
+- 100 mg/ml $CuSO_4$
 
 - Vloeibare *Escherichia coli* cultuur
 
@@ -134,7 +134,7 @@ op: Blijf onder het totaal volume dat je nodig hebt.
 
 23. Maak het weegschuitje/weegflesje en spatel/lepel schoon.
 
-### Opdracht 2:
+**Opdracht 2:**
 
 Druk op T (van tarreren) van een bovenweger en wacht tot de balans 0.000 aangeeft. En druk dan voorzicht aan de zijkant van de tafels. Beschrijf wat je ziet bij de balans en geef aan of deze tafel geschikt is om nauwkeurig af te wegen.
 
