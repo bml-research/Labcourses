@@ -358,12 +358,11 @@ B.  Zuig de vloeistof op. Let daarbij op de opzuigsnelheid. Doe dit langzaam! En
 -   luchtbellen in het monster
 -   het monster kan in de tiphouder komen en daarmee de pipet verontreinigen
 
-> Hoe diep je de pipetpunt in de vloeistof brengt, hangt af van het te
-> pipetteren volume, zie tabel 3.
+> Let op: Hoe diep je de pipetpunt in de vloeistof brengt, hangt af van het te pipetteren volume, zie tabel 3.
 
-> Na het opzuigen van de vloeistof altijd een paar tellen wachten totdat de vloeistof niet meer de pipet in beweegt.
+> Let op: Na het opzuigen van de vloeistof altijd een paar tellen wachten totdat de vloeistof niet meer de pipet in beweegt.
 
-> Trek de pipetpunt niet te snel uit de gepipetteerde vloeistof, dan kunnen er vloeistofdruppeltjes aan de buitenkant van de pipetpunt terecht komen.
+> Let op: Trek de pipetpunt niet te snel uit de gepipetteerde vloeistof, dan kunnen er vloeistofdruppeltjes aan de buitenkant van de pipetpunt terecht komen.
 
 C.  Om de vloeistof juist op de volgende bestemming te krijgen, breng je de pipetpunt tegen de wand van het bekerglas/cupje etc. aan onder een hoek van 10-45°. Hierbij houd je de pipet zo verticaal mogelijk. Je drukt de vloeistof uit tot door de drukknop tot de eerste stop te drukken.
 
@@ -407,6 +406,8 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipetteren.
 | 12,5 µl | | | |
 | 2,1 µl | | | |
 | 1,25 µl | | | |
+
+  
 
 1.  Neem tabel 4 over in je logboek en vul deze verder in. Welke pipet en instelling gebruik je voor de aangegeven volumes?
 2.  Kijk eens naar de rode getallen van de instelling. Wat geven deze getallen weer? Er is een uitzondering op die regel. Welk pipet is dat en wat geven de rode getallen aan bij die pipet?
@@ -487,8 +488,8 @@ In theorie is de minimale gezichtshoek (α) van het oog 1 boogminuut (1/60 graad
  
  ​![](pics/Picture12.png) 
 
-*<sub>Figuur 1: Effect van afstand tot en tussen de objecten op het onderscheidend vermogen van het oog. Als de afstand tussen de objecten te klein wordt of de afstand tot de objecten te groot, neemt de gezichtshoek af (α < 1 boogminuut). Hierdoor wordt het beeld op een te klein deel van het netvlies geprojecteerd om het als twee afzonderlijke objecten waar te nemen.</sub>*
- 
+*<sub>Figuur 1: Effect van afstand tot en tussen de objecten op het onderscheidend vermogen van het oog. Als de afstand tussen de objecten te klein wordt of de afstand tot de objecten te groot, neemt de gezichtshoek af (α < 1 boogminuut). Hierdoor wordt het beeld op een te klein deel van het netvlies geprojecteerd om het als twee afzonderlijke objecten waar te nemen.</sub>*  
+   
 Om twee punten die dichter bij elkaar liggen dan 0,07 mm toch van elkaar te onderscheiden kunnen we gebruik maken van een microscoop. De microscoop verspreid het beeld met zo min mogelijk detailverlies over een groter aantal netvliescellen, oftewel onder een grotere gezichtshoek. Dit vergroten van het beeld wordt bewerkstelligd door het lenzenstelsel van de microscoop. Met een gewone lichtmicroscoop kan het scheidend vermogen van 70 µm (blote oog) terug gebracht worden tot ongeveer 0,3 µm. Dat is ongeveer 300x nauwkeuriger dan met het blote oog. Op deze manier kunnen biologische preparaten, die vaak maar enkele millimeters groot zijn, toch bestudeerd worden. 
 
 Om goed met een microscoop te kunnen werken is het noodzakelijk om de bouw van een microscoop en de functies van de verschillende onderdelen te kennen. Bij Microscopie Theorie leer je de theoretische achtergrond van de werking van de microscoop.
@@ -500,27 +501,28 @@ Om goed met een microscoop te kunnen werken is het noodzakelijk om de bouw van e
 *<sub>Figuur 2: Lichtmicroscoop. (Adapted
 from:http://faculty.scf.edu/keirlem/BSC_1007_eText_UNIT_3/TEXT\_
 Cellular_Structures/TEXT_Cellular_Structures_print.html)</sub>*
+  
 
-1. oculairen
-2. dioptrie ring voor het instellen van de brilsterkte 
-3. instelschaal voor de interpupillaire afstand (afstand tussen de ogen) 
-4.  preparaattafel 
-5.  condensor 
-6.  diafragma van de condensor 
-7.  schroef om oculairen vast te zetten 
-8. grove scherpstelschroef 
-9.  fijne scherpstelschroef 
-12. kruistafel 
-13. instelknop condensor  
-14/15.  schroef om kruistafel te bewegen (voor/achter en links/rechts) 
-16.  lichtschakelaar 
-17. binoculaire tubuskop 
-18.  revolver met objectieven 
-19.  objectief 
-21.  houder met lens en velddiafragma 
-22.  plaats voor (daglicht)filter 
-23.  ring om velddiafragma open en dicht te draaien 
-24. centreerschroeven voor het velddiafragma 
+1\. oculairen
+2\. dioptrie ring voor het instellen van de brilsterkte 
+3\. instelschaal voor de interpupillaire afstand (afstand tussen de ogen) 
+4\. preparaattafel 
+5\. condensor 
+6\. diafragma van de condensor 
+7\. schroef om oculairen vast te zetten 
+8\. grove scherpstelschroef 
+9\. fijne scherpstelschroef 
+12\. kruistafel 
+13\. instelknop condensor  
+14/15\. schroef om kruistafel te bewegen (voor/achter en links/rechts) 
+16\. lichtschakelaar 
+17\. binoculaire tubuskop 
+18\. revolver met objectieven 
+19\. objectief 
+21\. houder met lens en velddiafragma 
+22\. plaats voor (daglicht)filter 
+23\. ring om velddiafragma open en dicht te draaien 
+24\. centreerschroeven voor het velddiafragma 
 
 **Opdracht 1:** 
 Gebruik de onderstaande tekst en figuur 2 om de onderdelen van je eigen microscoop te benoemen. Maak een foto van beide hoeken van de microscoop en geef in de foto de namen van alle onderdelen weer.
