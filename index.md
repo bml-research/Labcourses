@@ -35,7 +35,7 @@
 
 ## Courses
 - [Crash Course](./crash_course/crash_course.md)
-- [Crash Course 2025-2026](./crash_course_2025-2026/)
+- [Crash Course 2025-2026](./crash_course_2025-2026/crash_course_2025-2026.md)
 - [Keuzemodule Introductie Laboratoriumvaardigheden (Nederlands)](./keuzemodule_intro_lab/keuzemodule_intro_lab.md)
 - [VMT](./vmt/00_vmt_index.md) 
 
