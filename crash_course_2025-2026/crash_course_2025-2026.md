@@ -5,6 +5,8 @@
 
 # Crash Course
 
+---
+
 ## Navigatie
 
 * [1. Veiligheid](#1-veiligheid)
@@ -13,7 +15,7 @@
 * [4. pH-meter en buffers](#4-ph-meter-en-buffers)
 * [5. PCR: PTC bitter proeven](#5-pcr-ptc-bitter-proeven)
 
-
+---
 
 ## Programma
 
@@ -35,6 +37,8 @@ Logboekinstructie
 
 
 ## 1. Veiligheid
+
+[Naar de top](#navigatie)
 
 Veiligheidsvoorzieningen in het laboratorium
 
@@ -88,6 +92,8 @@ Maak samen een veiligheidstabel waarbij je alle eerdergenoemde aspecten noteert.
 ---
 
 ## 2. Wegen, glaswerk, pipeteren
+
+[Naar de top](#navigatie)
 
 ### Wegen 
 
@@ -467,6 +473,8 @@ Bij deze techniek veeg je de pipetpunt NIET langs de wand bij het uitpipeteren.
 
 ## 3. Microscopie en Gramkleuring
 
+[Naar de top](#navigatie)
+
 **De microscoop **
 
 Het scheidend vermogen van het oog beschrijft het vermogen om twee naast elkaar gelegen objecten afzonderlijk van elkaar waar te nemen. Het gaat hier om de minimale afstand tussen de voorwerpen waarop we ze nog als afzonderlijke voorwerpen kunnen waarnemen. Bijvoorbeeld, als je de millimeterstreepjes op een liniaal bekijkt zijn deze als aparte streepjes te zien. Gaan we op grotere afstand van de liniaal staan dan lopen de streepjes in elkaar over en zien we ze niet meer als afzonderlijk.  
@@ -585,8 +593,6 @@ $\frac{b}{a} \cdot 10 (µm) = µm$ 
 
 Bepaal voor de 4x, 10x en 40x objectief de waarde van een schaaldeel van de oculairmicrometer. Per lens bepaal je 3 keer de waarde van de schaaldelen, waarbij tussen de metingen de objectmicrometer iets verschoven wordt. Op deze wijze minimaliseer je de meetfout door de gemiddelde waarde van de drie metingen te nemen. Noteer deze waarden overzichtelijk in een tabel met een duidelijk bovenschrift! Deze waarden kun je bij het gebruik van deze microscoop gebruiken om de grootte van cel(onderdelen) te bepalen door een schaalverdeling in de microscopische foto te plaatsen.
 
----
-
 **Gramkleuring**
 
 Om micro-organismen in te delen in een groep wordt vaak gebruik gemaakt van de Gramkleuring. Door middel van deze kleuring worden bacteriën verdeeld in Grampositieve en Gramnegatieve bacteriën.
@@ -677,6 +683,8 @@ Maak van een aantal aangegeven bacteriestammen een Gram-preparaat en bekijk deze
 ---
 
 ## 4. pH-meter en buffers
+
+[Naar de top](#navigatie)
 
 **Algemene theorie**
 
@@ -900,6 +908,8 @@ Er wordt gebruik gemaakt van 1 M HCl-oplossing als zuur en 1 M NaOH-oplossing al
 ---
 
 ## 5. PCR: PTC bitter proeven
+
+[Naar de top](#navigatie)
 
 **Erfelijkheid en DNA**
 
