@@ -196,7 +196,7 @@ Gebruik van een maatcilinder:
 
 1.  Controleer of de balans geijkt is en waterpas staat. Leg het weegpapier erop en dan op nul.
 
-2.  Maak de voorraadpot naast de balans open en schep de juiste hoeveelheid stof op een weegpapier/ schuitje/ bekerglas. Als je er te veel stof hebt uitgeschept, gooi je de restante stof in een afvalcontainer. [Let op]{.underline}: Gooi nooit stof terug in de pot, dit in verband met besmettingen.
+2.  Maak de voorraadpot naast de balans open en schep de juiste hoeveelheid stof op een weegpapier/ schuitje/ bekerglas. Als je er te veel stof hebt uitgeschept, gooi je de restante stof in een afvalcontainer. Let op: Gooi nooit stof terug in de pot, dit in verband met besmettingen.
 
 3.  Breng de stof van weegpapier over in het bekerglas of een maatcilinder. Zorg dat alles wordt overgebracht. Spoel de overgebleven stof van het papier af met een spuitfles met oplosmiddel.
 
